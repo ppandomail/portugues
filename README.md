@@ -18,4 +18,7 @@
 1. [Preposições](doc/preposicoes.md)
 1. [Informações pessoais](doc/informacoes-pessoais.md)
 1. [Profissões](doc/profissoes.md)
-1. [As cores]()
+1. [As cores](doc/cores.md)
+1. [Artigos](doc/artigos.md)
+1. [Substantivos](doc/substantivos.md)
+1. [Plural]
