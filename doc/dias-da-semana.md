@@ -17,8 +17,17 @@
 
 ## Circunstâncias de tempo
 
-1. anteontem foi ...
-1. ontem foi ...
-1. hoje é ...
-1. amanhã será ...
-1. depois de amanhã será ...
+1. o ano retrasado foi ...    (atual-2)
+1. o ano passado foi ...      (atual-1)
+1. a semana retrasada foi ... (atual-2)
+1. a semana passada foi ...   (atual-1)
+1. anteontem foi ...          (atual-2)
+1. ontem foi ...              (atual-1)
+1. hoje é ...                 (atual)
+1. amanhã será ...            (atual+1)
+1. depois de amanhã será ...  (atual+2)
+
+## A feira vs As férias
+
+* A feira: pontos de vendas
+* As férias: descanso do trabalho, estudo, etc

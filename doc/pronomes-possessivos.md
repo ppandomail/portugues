@@ -11,15 +11,39 @@
 
 ## Exemplos
 
-* Quero vender **meu** carro
+* **Meu** amigo
+* Quero vender **o meu** carro
+* **O meus** cachorros
+* **Meus** telefones são muitos pequenos
+
 * **A minha** blusa é amarela
-* Já chegaram **os seus** amigos
+* **Minha** família mora no Brasil
 * **Minhas** sandálias estão sujas
-* Adorei **sua** mochila
-* **Nossas** alianças já estão prontas
-* **Seus** olhos são verdes
+* **A minhas** garrafas de água estão debaixo da cama
+
+* **Seu** café está forte e tem muito adoçante
+* Já chegaram **os seus** amigos
 * Tratem bem **os seus** amigos
+* **Seus** olhos são verdes
+* **Seus** oculos são verdes e amarelos como as cores da bandeira do Brasil
+
+* O carro **dele** é preto
+* A casa **dela** é velha
+* O aplicativo informático **dele** tem erros
 * Rita disse a Diogo que não gostou da redação **dele**
+* A camiseta **dele** é da cor vermelha
+* A barraca **dela** tem a cerveja bem gelada
+
+* Adorei **sua** mochila
+
+* **O nosso** país é muito grande
+* **Os nossos** irmãos uruguaios são simpáticos
+* **Nossos** problemas
+* **Nossas** alianças já estão prontas
+* **Nossa** tarefa é muito difícil
+* **Nossas** árvores moram debaixo do teto da casa de meu pai
+* As flores **delas** estão no jardim
+* **Nossa**! que frio está fazendo agora
 
 ## Outros exemplos
 

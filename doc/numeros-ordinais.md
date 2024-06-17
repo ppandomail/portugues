@@ -13,6 +13,12 @@
 | Nono     | Nonagésimo      | |
 | Décimo   | Centésimo       | |
 
+## Exemplo
+
+* **Décima** Feira de artesanato
+* **Primeiro** de Fevereiro
+* Artigo **nono**
+
 ## Perguntas
 
 1. Qual o número do apartamento e do andar?

@@ -1,23 +1,28 @@
 # Verbos irregulares - Presente do Indicativo
 
-| Pronome | DAR | PODER | DIZER | FAZER | TRAZER | ESQUECER | SABER | PERDER | VER | QUERER | SAIR | DORMIR | VIR | PEDIR | PREFERIR | PÔR |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| eu | dou | posso | digo | faço | trago | esqueço | sei | perco | vejo | quero | saio | durmo | venho | peço | prefiro | ponho |
-| você | dá | pode | diz | faz | traz | esquece | sabe | perde | vê | quer | sai | dorme | vem | pede | prefere | põe |
-| nós | damos | podemos | dizemos | fazemos | trazemos | esquecemos | sabemos | perdemos | vemos | queremos | saímos | dormimos | vimos | pedimos | preferimos | pomos |
-| vocês | dão | podem | dizem | fazem | trazem | esquecem | sabem | perdem | veem | querem | saem | dormem | vêm | pedem | preferem | põem |
+| Pronome | DAR | PODER | DIZER | FAZER | TRAZER | ESQUECER | SABER | PERDER | VER | QUERER | SAIR | DORMIR | VIR | PEDIR | PREFERIR | PÔR | OUVIR | LER | CAIR | SENTIR | DOER |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| eu | dou | posso | digo | faço | trago | esqueço | sei | perco | vejo | quero | saio | durmo | venho | peço | prefiro | ponho | ouço | leio | caio | sinto | X |
+| você | dá | pode | diz | faz | traz | esquece | sabe | perde | vê | quer | sai | dorme | vem | pede | prefere | põe | ouve | lê | cai | sente | dói |
+| nós | damos | podemos | dizemos | fazemos | trazemos | esquecemos | sabemos | perdemos | vemos | queremos | saímos | dormimos | vimos | pedimos | preferimos | pomos | ouvimos | lemos | caímos | sentimos | X |
+| vocês | dão | podem | dizem | fazem | trazem | esquecem | sabem | perdem | veem | querem | saem | dormem | vêm | pedem | preferem | põem | ouvem | leem | caem | sentem | doem |
 
 ## DAR
 
 1. Eu **dou** muitos presentes
+1. Eu **dou** aulas de idiomas para meus filhos
 1. Ele **dá** informações
+1. Minha avó sempre **dá** presentes
 1. Nós **damos** aula
 1. Vocês **dão** aula na classe número três
+1. Eles **dão** boas notícias
 
 ## PODER
 
 1. Eu **posso** tudo o que quiser
+1. Não **posso**. Não tenho tempo
 1. Ele **pode** andar de carro
+1. Você **pode** fechar a porta?
 1. Nós **podemos** comer carnes
 1. Vocês **podem** ficar quetos!
 
@@ -63,7 +68,7 @@
 1. Nós **perdemos** a hora
 1. Vocês **perdem** rápido a cabeça!
 
-## VER
+## VER (= OLHAR)
 
 1. Eu **vejo** as notícias
 1. Ele **vê** os filmes
@@ -112,9 +117,23 @@
 1. Nós **preferimos** praia do que montanha
 1. Vocês **preferem** churrasco do que massa
 
-## PÔR
+## PÔR (= COLOCAR = VOTAR)
 
 1. Eu **ponho** açúcar no café
 1. Ele **põe** muito sal na comida
 1. Nós **pomos** gasolina no carro
 1. Vocês **põem** tudo no lugar?
+
+## OUVIR (= ESCUTAR)
+
+1. Eu **ouço** tudo
+1. Ele **ouve** a fofoca
+1. Nós **ouvimos** as notícias
+1. Vocês **ouvem** o que o Presidente fala
+
+## LER
+
+1. Eu **leio** muito romance
+1. Ele **lê** informações
+1. Nós **lemos** o jornal
+1. Vocês **leem** pouco português

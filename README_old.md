@@ -1,37 +1,5 @@
 # Português
 
-## Formas de expressar amor
-
-* Olha isso, lembrei de você
-* Chegou em casa?
-* Como foi seu dia?
-* Leva o casaco!
-* Se cuida!
-* Ei, como você tá?
-
-## Recepção de convidados
-
-* Bem-vindos a minha casa!
-* Entrem, por favor!
-* Querem me dar seus ... ?
-* Fiquem à vontade (cómodos)
-* Querem tomar/comer algo?
-* O que querem tomar/comer?
-* O que lhes sirvo?
-* Mostrarei a casa a vocês
-* Querem conhecer a casa?
-* Permitam que eu lhes mostre a casa?
-
-## Estado civil
-
-* Solteiro/a
-* Casado/a
-* Viúvo/a
-* Divorciado/a
-* Separado/a
-
-* Você é casado? - Não, sou solteiro
-
 ## Países, Nacionalidades e Idiomas
 
 | País | Nacionalidade | Idioma |
@@ -72,27 +40,6 @@
 | Indicativo | certeza |
 | Subjuntivo | dúvida |
 | Imperativo | ordem, pedido, súplica, conselho |
-
-## Verbo GOSTAR DE - Presente do Indicativo
-
-| Pronome | Presente do Indicativo |
-| -- | -- |
-| eu | **gosto de** |
-| você | **gosta de** |
-| nós | **gostamos de** |
-| vocês | **gostam de** |
-
-* Eu **gosto de** você
-* Ele **gosta** de nadar
-* Nós **gostamos** do Brasil
-* As crianças **gostam** de brincar
-
-* Eu **gosto de** chocolate
-* Eu **gosto muito de** viajar
-* Eu **gosto demais desse** livro
-* Eu **gosto um pouco de** rock
-* Eu **não gosto de** comer sem companhia
-* Eu adoro dançar
 
 ## Gostos pessoais
 
@@ -139,27 +86,6 @@
 * Além de (además de)
 * A fim de (con el fin de, para)
 * Apesar de
-
-## Dar e pedir informações pessoais
-
-* nome / sobrenome / apelido
-* data de nascimento / idade
-* nacionalidade
-* endereço / cidade / estado
-* telefone / celular
-* e-mail
-* estado civil
-* profissão / trabalho
-* escolaridade
-* idiomas / lazer / esportes
-* assinatura
-
-* Qual é o seu nome? - Meu nome é Pablo
-* Como você se chama? - Chamo-me Pablo
-* Quantos anos você tem? - Tenho 48 anos
-* De onde você é? - Sou da Argentina
-* Qual é a sua profissão? - Sou engenheiro
-* Qual é a sua cor preferida? - Verde
 
 ## As Profissões
 
@@ -482,10 +408,6 @@
   * fax -> fax
   * tórax -> tórax
   * fénix -> fénix
-
-
-
-
 
 ## Adjetivos relativos a descrições físicas
 

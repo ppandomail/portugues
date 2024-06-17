@@ -21,6 +21,7 @@
 * A gente **tem** vontade de jantar biscoitos doces
 * Ela **tem** uma carteira preta
 * A gente **tem** ansiedade
+* Você **tem** insônia?
 
 * Nós **temos** uma gata
 * Nós **temos** uns filhos muito alegres

@@ -12,6 +12,11 @@
 1. deitar (acostar)
 1. dormir
 
+## Perguntas
+
+* A que horas ... ?
+* De que hora até que hora ... ? Das ... até as ...
+
 ## Minha rotina
 
 A minha rotina de todos os dias começa muito cedo. Eu me levanto às 7h, tomo banho, escovo os dentes, me visto e tomo o café de manhã.

@@ -1,7 +1,7 @@
 # Agradecimento
 
-* Homem: Obrigado, muito obrigado
-* Mulher: Obrigada, muito obrigada
+* Homem: Obrigado, muito obrigado, obrigado para você também
+* Mulher: Obrigada, muito obrigada, obrigada para você também
 
 ## As respostas a um agradecimento podem ser
 

@@ -9,6 +9,8 @@
 
 ## Verbos terminados en -AR
 
+* amar
+* colocar
 * jogar
 * tirar (sacar)
 * lavar
@@ -19,7 +21,12 @@
 * cantar
 * ficar (quedar)
 * tentar
+* ligar (prender)
+* desligar (apagar)
 * apagar (borrar)
+* caminhar
+* misturar
+* escutar
 
 ## Verbos terminados en -ER
 
@@ -38,3 +45,4 @@
 * curtir
 * assistir
 * dividir
+* engolir (tragar)

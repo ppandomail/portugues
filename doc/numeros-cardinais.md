@@ -40,6 +40,9 @@
 1. Quantos anos você tem?  
 1. Quantos irmãos você tem?  
 1. Qual o número do seu documento?
+1. Quantos anos faz que se aposentou?
+1. Quantos anos você mora em Buzios?
+1. Qual a sua data de nascimento? - 1975 (mil novecento e setenta e cinco)
 
 ## Custos
 
@@ -48,3 +51,4 @@
 | | R$ 1,99 | Um real, vírgula noventa e nove centavos |
 | Quanto custa um café? | R$ 6,28 | Seis reais, vírgula vinte e oito |
 | Quanto custa o carro? | R$ 33683,22 | Trinta e três mil, seiscentos e oitenta e três reais e vinte e dois centavos |
+| Quanto é o aluguel | R$ | |
