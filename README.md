@@ -41,3 +41,5 @@
 1. [Verbos irregulares - Presente do Indicativo](doc/verbos-irregulares-presente-indicativo.md)
 1. [Verbos auxiliares - Pretérito Perfeito do Indicativo](doc/verbos-auxiliares-preterito-perfeito-indicativo.md)
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
+
+1. [Tarefas de Mistura Basileira](doc/tarefas-mistura-brasileira.md)
