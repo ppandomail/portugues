@@ -6,6 +6,7 @@
 1. [Artigos definidos](doc/artigos-definidos.md)
 1. [Artigos indefinidos](doc/artigos-indefinidos.md)
 1. [Pronomes pessoais](doc/pronomes-pessoais.md)
+1. [Modos dos verbos](doc/modos-verbos.md)
 1. [Verbo TER](doc/verbo-ter.md)
 1. [Verbo SER](doc/verbo-ser.md)
 1. [Verbo ESTAR](doc/verbo-estar.md)
@@ -42,4 +43,17 @@
 1. [Verbos auxiliares - Pretérito Perfeito do Indicativo](doc/verbos-auxiliares-preterito-perfeito-indicativo.md)
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
 
+---
+
 1. [Tarefas de Mistura Basileira](doc/tarefas-mistura-brasileira.md)
+
+---
+
+1. [Profissões](doc/profissoes.md)
+1. [Cores](doc/cores.md)
+1. [Substantivos](doc/substantivos.md)
+1. [Telefone](doc/telefone.md)
+1. [Encontro](doc/encontro.md)
+1. [Pronomes interrogativos](doc/pronomes-interrogativos.md)
+1. [Cidade](doc/cidade.md)
+1. [Advérbios de lugar](doc/adverbios-lugar.md)

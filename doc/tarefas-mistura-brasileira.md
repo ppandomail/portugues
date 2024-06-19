@@ -1,4 +1,4 @@
-# Tarefas de Mistura Basileira
+# Tarefas de Mistura Brasileira
 
 ## Minha rotina
 
@@ -15,7 +15,7 @@ Pelo menos uma vez por ano, geralmente no verão, viajamos com meu marido para o
 
 Agora vou contar para vocês umas de essas viagems... \
 Do Recife para a Praia de Porto de Galinhas são 65 km, levamos cerca de uma hora e meia para chegar. \
-Desde Buenos Aires **reservamos** un quarto duplo na Pousada Tabapitanga, localizada mais precisamente no Pontal do Cupe, não fica bem no centrinho da Vila mas é bem próxima.
+Desde Buenos Aires **reservamos** um quarto duplo na Pousada Tabapitanga, localizada mais precisamente no Pontal do Cupe, não fica bem no centrinho da Vila mas é bem próxima.
 
 [Pousada Tabapitanga](https://tabapitanga.com.br/)
 
