@@ -38,6 +38,7 @@
 * correr
 * vender
 * escolher
+* preencher (completar)
 
 ## Verbos terminados en -IR
 
@@ -46,3 +47,4 @@
 * assistir
 * dividir
 * engolir (tragar)
+* proibir

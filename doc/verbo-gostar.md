@@ -17,6 +17,7 @@
 ## Perguntas
 
 * Você **gosta de** beber café puro o chá?
+* Você **gosta de** escutar este estilo de música?
 
 ## Graos de gostar
 

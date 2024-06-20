@@ -3,7 +3,8 @@
 | Pronome | Exemplo |
 | -- | -- |
 | **(O) QUE?**       | **O que** ele faz? |
-| **QUAL? / QUAIS?** | **Qual** é a sua profissão? |
+| **QUAL?**          | **Qual** é a sua profissão? |
+| **QUAIS?**         | **Quais** são os estilos musicais que você escuta? |
 | **QUEM?**          | **Quem** é seu pai? |
 | **ONDE? / CADÊ?**  | **Onde** você mora? |
 | **QUANDO?**        | **Quando** começam as aulas? |
@@ -13,4 +14,6 @@
 | **QUANTO(S)**      | **Quanto** custa essa camisa? |
 | **AONDE?**         | **Aonde** vai com tata pressa? |
 
-* Quando o pronome interrogativo **"que"** não vem acompanhado por um substantivo, usa-se **"o que"**, por exemplo: **O que você faz?**
+* Quando o pronome interrogativo **"que"** não vem acompanhado por um substantivo, usa-se **"o que"**, por exemplo:
+  * **O que** você faz?
+  * **O que** designa a expressão “bossa”?

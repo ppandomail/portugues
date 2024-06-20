@@ -1,9 +1,5 @@
 # A cidade
 
-* O vilarejo é uma cidade pequena
-* O povo brasileiro
-* O hotel está/fica atrás da rodoviária
-
 * o aeroporto
 * o hospital
 * a estação de trem / estação ferroviária
@@ -28,7 +24,7 @@
 
 ## Perguntas
 
-* Desculpe, onde fica o / a ...?
+* Desculpe, onde fica o / a ...? - O hotel está/fica atrás da rodoviária
 * Como posso chegar a ... ?
 * Podia me dizer onde fica ... ?
 * Licença! onde posso encontrar ... ?

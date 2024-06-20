@@ -40,8 +40,9 @@
 1. [Horas](doc/horas.md)
 1. [Contrações](doc/contraçoes.md)
 1. [Verbos irregulares - Presente do Indicativo](doc/verbos-irregulares-presente-indicativo.md)
-1. [Verbos auxiliares - Pretérito Perfeito do Indicativo](doc/verbos-auxiliares-preterito-perfeito-indicativo.md)
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
+1. [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/verbos-irregulares-preterito-perfeito-indicativo.md)
+1. [Gênero das palavras](doc/genero-palavras.md)
 
 ---
 
@@ -51,9 +52,13 @@
 
 1. [Profissões](doc/profissoes.md)
 1. [Cores](doc/cores.md)
-1. [Substantivos](doc/substantivos.md)
 1. [Telefone](doc/telefone.md)
 1. [Encontro](doc/encontro.md)
 1. [Pronomes interrogativos](doc/pronomes-interrogativos.md)
 1. [Cidade](doc/cidade.md)
 1. [Advérbios de lugar](doc/adverbios-lugar.md)
+1. [Comidas e bebidas](doc/comidas-bebidas.md)
+1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
+1. [Plural](doc/plural.md)
+1. [Corpo humano](doc/corpo-humano.md)
+1. [Família](doc/familia.md)
