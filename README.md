@@ -38,11 +38,12 @@
 1. [Números ordinais](doc/numeros-ordinais.md)
 1. [Informações pessoais](doc/informaçoes-pessoais.md)
 1. [Horas](doc/horas.md)
-1. [Contrações](doc/contraçoes.md)
 1. [Verbos irregulares - Presente do Indicativo](doc/verbos-irregulares-presente-indicativo.md)
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
 1. [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/verbos-irregulares-preterito-perfeito-indicativo.md)
 1. [Gênero das palavras](doc/genero-palavras.md)
+1. [Contrações](doc/contraçoes.md)
+1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
 
 ---
 
@@ -58,7 +59,6 @@
 1. [Cidade](doc/cidade.md)
 1. [Advérbios de lugar](doc/adverbios-lugar.md)
 1. [Comidas e bebidas](doc/comidas-bebidas.md)
-1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
 1. [Plural](doc/plural.md)
 1. [Corpo humano](doc/corpo-humano.md)
 1. [Família](doc/familia.md)

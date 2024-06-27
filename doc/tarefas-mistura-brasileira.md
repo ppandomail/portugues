@@ -21,14 +21,14 @@ Desde Buenos Aires **reservamos** um quarto duplo na Pousada Tabapitanga, locali
 
 Chegando à Porto de Galinhas, **descobrimos** que a origem de esse nome se deve à venda de escravos de forma clandestina no século XVIII. \
 Logo que **passamos** pela entrada da cidade, **fomos** abordados por um senhor muito simpático, que **ofereceu** estacionamento próximo à praia por R$ 5,00 (o dia), além de atender em uma barraca bem localizada na praia. \
-Às águas de Porto de Galinhas são tranquilas e a vontade é de passar o dia todo no mar. \
+As águas de Porto de Galinhas são tranquilas e a vontade é de passar o dia todo no mar. \
 **Terminamos** o primeiro dia nas ruas do comércio no centrinho da Vila, que contam com um Centro de Artesanato bem legal, onde é possível comprar lembrancinhas de galinhas para todos os gostos. \
 Há muitos restaurantes na Vila, optamos por um lugar chamado Pirata, que vende waffles doces e salgados bem gostosos. \
 Seguimos para a Rua do Porto Cult, onde acontecem shows de entretenimento local.
 
 ![Restaurante Pirata](../img/pirata.jpeg)
 
-Nosso primeiro passeio pelos arredores de Porto de Galinhas **foi** a Ilha de Santo Aleixo. \
+Nosso primeiro passeio pelos arredores de Porto de Galinhas **foi** à Ilha de Santo Aleixo. \
 Santo Aleixo fica na cidade de Barra de Sirinhaém, **levamos** cerca de uma hora para chegar até lá... Há dois pontos para visitar na ilha, eu **visitei** um lado da praia onde há muitos ouriços, pedras e corais e Mariano **visitou** outro lado onde há uma gigante piscina natural que também tem corais e é possível fazer snorkel.
 
 ![Ilha de Santo Aleixo](../img/aleixo.png)
@@ -42,4 +42,4 @@ Outro dia **fizemos** o passeio de jangada às piscinas naturais para mergulhar 
 
 ![Piscinas naturais](../img/piscinas.jpg)
 
-Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso recordar de esse passeio é uma delícia. Amo esse lugar!
+Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso recordar desse passeio é uma delícia. Amo esse lugar!
