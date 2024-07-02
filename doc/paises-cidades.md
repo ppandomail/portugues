@@ -101,28 +101,28 @@
 | Natal |
 | ... |
 
-* Os nomes de cidades não vêm acompanhados de artigos (exceções: O Rio de Janeiro, O Cairo, O Oporto). Exemplos:
+* Os nomes de cidades não vêm acompanhados de artigos (exceções: O Rio de Janeiro, O Cairo, O Porto). Exemplos:
   * De onde você é? Eu sou **de** Buenos Aires / **de** Caracas / **de** Natal
   * Eu estou **em** Buenos Aires / **em** Caracas / **em** Natal
   * Chove muito **em** Londres
   * Eu sou **do** Rio de Janeiro / **do** Cairo
-  * Eu estou **no** Rio de Janeiro / **no** Oporto
+  * Eu estou **no** Rio de Janeiro / **no** Porto
   * Eu viajo para **o** Cairo
 
 ## Perguntas pra cidade
 
 * De onde você é?
   * Eu sou **de** Buenos Aires / **de** Paris
-  * Eu sou **do** Rio de Janeiro / **do** Cairo / **do** Oporto
+  * Eu sou **do** Rio de Janeiro / **do** Cairo / **do** Porto
 * Onde você está? / Em que cidade está?
   * Eu estou **em** Buenos Aires / **em** Paris
-  * Eu estou **no** Rio de Janeiro / **no** Cairo / **no** Oporto
+  * Eu estou **no** Rio de Janeiro / **no** Cairo / **no** Porto
 * Por onde você viaja?
   * Eu viajo **por** Buenos Aires / **por** Paris
-  * Eu viajo **pelo** Rio de Janiero / **pelo** Cairo / **pelo** Oporto  
+  * Eu viajo **pelo** Rio de Janiero / **pelo** Cairo / **pelo** Porto  
 * Aonde você va?
   * Eu vou **a** Buenos Aires / **a** Paris
-  * Eu vou **ao** Rio de Janeiro / **ao** Cairo / **ao** Oporto
+  * Eu vou **ao** Rio de Janeiro / **ao** Cairo / **ao** Porto
 
 * O vilarejo é uma cidade pequena
 * As cidades têm bairros

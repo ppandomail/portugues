@@ -22,6 +22,7 @@
 * Eu **vou** trabalhar no Brasil
 * Eu **vou** fazer tarefas da escola
 * Eu **vou** embora (me voy!)
+* Eu **vou** pagar com cartão
 
 * Você **vai** comer?
 * Você **vai** cantar no festival?

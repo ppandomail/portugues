@@ -43,3 +43,62 @@ Outro dia **fizemos** o passeio de jangada às piscinas naturais para mergulhar 
 ![Piscinas naturais](../img/piscinas.jpg)
 
 Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso recordar desse passeio é uma delícia. Amo esse lugar!
+
+## DE QUAIS PAÍSES SÃO ESSAS BANDEIRAS?
+
+| Bandeira | País |
+| -- | -- |
+| ![Portugal](../img/portugal.png)  | **De** Portugal |
+| ![Cuba](../img/cuba.png)          | **De** Cuba |
+| ![Israel](../img/israel.png)      | **De** Israel |
+| ![Brasil](../img/brasil.png)      | **Do** Brasil |
+| ![Argentina](../img/argentina.png)| **Da** Argentina |
+| ![Colombia](../img/colombia.png)  | **Da** Colômbia |
+
+## DE onde é?
+
+1. Eu sou **de** Lima
+1. Eu sou **de** Brasilia
+1. Eu sou **do** Rio de Janeiro
+1. Eu sou **do** Cairo
+1. Eu sou **do** Porto
+
+## EM QUAIS CIDADES ESTÃO ESSES MONUMENTOS?
+
+| Monumento | Cidade |
+| -- | -- |
+| ![Paris](../img/paris.jpeg)               | **Em** Paris |
+| ![Buenos Aires](../img/buenos-aires.jpeg) | **Em** Buenos Aires |
+| ![Rio de Janeiro](../img/rio.png)         | **No** Rio |
+| ![Cairo](../img/cairo.png)                | **No** Cairo |
+| ![Porto](../img/porto.jpeg)               | **No** Porto |
+
+## EM que lugar está?
+
+1. Eu estou **na** Espanha
+1. Eu estou **no** México
+1. Eu estou **em** Israel
+1. Eu estou **em** Cuba
+1. Eu estou **em** Portugal
+
+## POR QUAIS PAÍSES VIAJAM?
+
+| Bandeira | País |
+| -- | -- |
+
+| ![Peru](../img/peru.png)      | **Pelo** Peru |
+| ![Espanha](../img/espanha.png)| **Pela** Espanha |
+| ![Japão](../img/japon.png)  | **Pelo** Japão |
+| ![Portugal](../img/portugal.png)  | **Por** Portugal |
+| ![Cuba](../img/cuba.png)          | **Por** Cuba |
+| ![Israel](../img/israel.png)      | **Por** Israel |
+
+## POR QUAIS CIDADES VIAJAM?
+
+| Monumento | Cidade |
+| -- | -- |
+| ![Paris](../img/paris.jpeg)               | **Por** Paris |
+| ![Buenos Aires](../img/buenos-aires.jpeg) | **Por** Buenos Aires |
+| ![Rio de Janeiro](../img/rio.png)         | **Pelo** Rio |
+| ![Cairo](../img/cairo.png)                | **Pelo** Cairo |
+| ![Porto](../img/porto.jpeg)               | **Pelo** Porto |

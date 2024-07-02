@@ -18,6 +18,8 @@
 
 * Você **gosta de** beber café puro o chá?
 * Você **gosta de** escutar este estilo de música?
+* Você **gosta de** dançar?
+* Você **gosta de** comida japonesa?
 
 ## Graos de gostar
 

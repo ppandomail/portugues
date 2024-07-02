@@ -3,10 +3,10 @@
 | Pronome | Exemplo |
 | -- | -- |
 | **(O) QUE?**       | **O que** ele faz? |
-| **QUAL?**          | **Qual** é a sua profissão? |
+| **QUAL?**          | **Qual** é a sua profissão? / é o seu nome? / é a sua comida preferida?|
 | **QUAIS?**         | **Quais** são os estilos musicais que você escuta? |
 | **QUEM?**          | **Quem** é seu pai? |
-| **ONDE? / CADÊ?**  | **Onde** você mora? |
+| **ONDE? / CADÊ?**  | **Onde** você mora? / é a rua? / é o banheiro? |
 | **QUANDO?**        | **Quando** começam as aulas? |
 | **COMO?**          | **Como** é a sua rotina diária? |
 | **POR QUE?**       | **Por que** ele viajou para a Argentina? |

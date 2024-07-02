@@ -62,3 +62,5 @@
 1. [Plural](doc/plural.md)
 1. [Corpo humano](doc/corpo-humano.md)
 1. [Família](doc/familia.md)
+1. [Sinais pontuação](doc/sinais-pontuaçao.md)
+1. [Gírias](doc/girias.md)

@@ -78,6 +78,7 @@
 ## QUERER
 
 1. Eu **quero** alcançar meus objetivos
+1. Eu **quero** uma água / um suco / uma cerveja / uma caipirinha
 1. Ele **quer** falar português
 1. Nós **queremos** ir embora
 1. Vocês **querem** tudo para já!

@@ -2,7 +2,8 @@
 
 ## Como pedir desculpas
 
-* Desculpe!
+* Com licença!
+* Desculpe! Não entendi
 * (Me) desculpas! / perdoa!
 * Foi sem querer
 * Foi mal

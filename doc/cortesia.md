@@ -14,5 +14,7 @@ Claro, Tudo bem e Pois não
 
 * Por favor
 * Posso [passar | falar com você | tirar uma foto] ?
+* Pode me ajudar?
+* Pode repetir?
 * Pode me dar uma informação?
 * Sinto muito!
