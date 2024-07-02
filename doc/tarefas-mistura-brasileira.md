@@ -85,7 +85,6 @@ Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso
 
 | Bandeira | País |
 | -- | -- |
-
 | ![Peru](../img/peru.png)      | **Pelo** Peru |
 | ![Espanha](../img/espanha.png)| **Pela** Espanha |
 | ![Japão](../img/japon.png)  | **Pelo** Japão |
