@@ -42,6 +42,7 @@
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
 1. [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/verbos-irregulares-preterito-perfeito-indicativo.md)
 1. [Gênero das palavras](doc/genero-palavras.md)
+1. [Preposições](doc/preposiçoes.md)
 1. [Contrações](doc/contraçoes.md)
 1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
 
