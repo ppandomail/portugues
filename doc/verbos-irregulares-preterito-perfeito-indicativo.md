@@ -1,11 +1,11 @@
 # Verbos irregulares - Pretérito Perfeito do Indicativo
 
-| Pronome | SER/IR | ESTAR | TER |
-| -- | -- | -- | -- |
-| eu | **fui** | **estive** | **tive** |
-| você | **foi** | **esteve** | **teve** |
-| nós | **fomos** | **estivemos** | **tivemos** |
-| vocês | **foram** | **estiveram** | **tiveram** |
+| Pronome | SER/IR | ESTAR | TER | PODER | QUERER | DAR | FAZER | PÔR | VIR | VER | TRAZER | DIZER |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| eu | **fui** | **estive** | **tive** | **pude** | **quis** | **dei** | **fiz** | **pus** | **vim** | **vi** | **trouxe** | **disse** |
+| você | **foi** | **esteve** | **teve** | **pôde** | **quis** | **deu** | **fez** | **pôs** | **veio** | **viu** | **trouxe** | **disse** |
+| nós | **fomos** | **estivemos** | **tivemos** | **pudemos** | **quisemos** | **demos** | **fizemos** | **pusemos** | **viemos** | **vimos** | **trouxemos** | **dissemos** |
+| vocês | **foram** | **estiveram** | **tiveram** | **puderam** | **quiseram** | **deram** | **fizeram** | **puseram** | **vieram** | **viram** | **trouxeram** | **disseram** |
 
 * Pronúncia:
   * teve /tevi/
