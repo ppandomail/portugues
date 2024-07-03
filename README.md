@@ -45,6 +45,7 @@
 1. [Preposições](doc/preposiçoes.md)
 1. [Contrações](doc/contraçoes.md)
 1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
+1. [Pronomes demonstrattivos](doc/pronomes-demonstrativos.md)
 
 ---
 
