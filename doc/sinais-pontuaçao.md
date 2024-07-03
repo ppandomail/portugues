@@ -13,8 +13,16 @@
 | **!**   | exclamação |
 | **?**   | interrogação |
 | **/**   | barra |
-| **+**   | mais |
-| **-**   | menos |
-| **÷**   | divisão |
-| **x**   | multiplicação |
 | **...** | reticências |
+
+---
+
+| Operações matemáticas |||
+| -- | -- | -- |
+| **+**   | mais         | soma / adição |
+| **-**   | menos        | subtração |
+| **x**   | vezes        | multiplicação |
+| **÷**   | dividido por | divisão |
+| **=**   | igualdade    | igual a |
+
+
