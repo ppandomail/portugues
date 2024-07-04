@@ -61,7 +61,7 @@ Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso
 1. Eu sou **de** Brasilia
 1. Eu sou **do** Rio de Janeiro
 1. Eu sou **do** Cairo
-1. Eu sou **do** Porto
+1. Eu sou **do** Oporto
 
 ## EM QUAIS CIDADES ESTÃO ESSES MONUMENTOS?
 
@@ -69,9 +69,9 @@ Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso
 | -- | -- |
 | ![Paris](../img/paris.jpeg)               | **Em** Paris |
 | ![Buenos Aires](../img/buenos-aires.jpeg) | **Em** Buenos Aires |
-| ![Rio de Janeiro](../img/rio.png)         | **No** Rio |
+| ![Rio de Janeiro](../img/rio.png)         | **No** Rio de Janeiro |
 | ![Cairo](../img/cairo.png)                | **No** Cairo |
-| ![Porto](../img/porto.jpeg)               | **No** Porto |
+| ![Porto](../img/porto.jpeg)               | **No** Oporto |
 
 ## EM que lugar está?
 
@@ -98,6 +98,6 @@ Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso
 | -- | -- |
 | ![Paris](../img/paris.jpeg)               | **Por** Paris |
 | ![Buenos Aires](../img/buenos-aires.jpeg) | **Por** Buenos Aires |
-| ![Rio de Janeiro](../img/rio.png)         | **Pelo** Rio |
+| ![Rio de Janeiro](../img/rio.png)         | **Pelo** Rio de Janeiro |
 | ![Cairo](../img/cairo.png)                | **Pelo** Cairo |
-| ![Porto](../img/porto.jpeg)               | **Pelo** Porto |
+| ![Porto](../img/porto.jpeg)               | **Pelo** Oporto |

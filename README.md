@@ -45,7 +45,7 @@
 1. [Preposições](doc/preposiçoes.md)
 1. [Contrações](doc/contraçoes.md)
 1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
-1. [Pronomes demonstrattivos](doc/pronomes-demonstrativos.md)
+1. [Pronomes demonstrativos](doc/pronomes-demonstrativos.md)
 
 ---
 
@@ -53,6 +53,8 @@
 
 ---
 
+1. [Família](doc/familia.md)
+1. [Brinquedos e brincadeiras](doc/brinquedos-brincadeiras.md)
 1. [Profissões](doc/profissoes.md)
 1. [Cores](doc/cores.md)
 1. [Telefone](doc/telefone.md)
@@ -63,6 +65,5 @@
 1. [Comidas e bebidas](doc/comidas-bebidas.md)
 1. [Plural](doc/plural.md)
 1. [Corpo humano](doc/corpo-humano.md)
-1. [Família](doc/familia.md)
 1. [Sinais pontuação](doc/sinais-pontuaçao.md)
 1. [Gírias](doc/girias.md)

@@ -10,6 +10,29 @@
 
 * Vamos lá!
 
+## Exemplos pronomes demonstrativos
+
+* **Estes** homens / meninos são muito inteligentes
+* **Estes** carros não são meus
+* **Estes** cachorros são pretos
+* **Estes** clientes bebem o café / são do Peru
+* **Estes** lugares são muito bonitos
+* **Esta** casa **aqui** está suja
+* O que é **isto**?
+
+* **Esse** porta-caneta que está **aí** é novo
+* **Esses** cavalos são muito perigosos
+* **Esses** macarrões estão gostosos
+* **Esse** espelho é muito grande / velho
+* O que é **isso**? - **Isso aí** é brilho labial
+* Isso / Isso mesmo / É isso / É isso aí
+
+* **Aqueles** sanduíches de queijo e presunto estão ruins
+* **Aquelas** árvores estão longe
+* **Aquele** óculos é preto
+* **Aquele** café está quente
+* **Aqueles** alunos abren o livro
+
 ## Contração de preposições e demonstrativos
 
 | Preposição | MASC | FEM | NEUTRO |
@@ -29,7 +52,7 @@
 |        | **aqui** | **aí** | **ali** |
 | **DE** | daqui | daí | dali |
 
-## Exemplos
+## Exemplos contrações
 
 * Estou cansado **deste** celular antigo
 * Os cabelos **dessas** mulheres são compridos
