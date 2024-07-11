@@ -1,9 +1,16 @@
 # Brinquedos e brincadeiras
 
+## Brincar vs Jogar
+
+* Brincar -> lúdico
+* Jogar -> esporte
+
+## Brinquedos
+
 | Brinquedos |
 | -- |
 | a bola |
-| a bola de gude |
+| a bolinha de gude |
 | a boneca |
 | a carrossel |
 | a pipa |
@@ -22,7 +29,7 @@
 | os dados |
 | os vídeos games |
 
----
+## Brincadeiras
 
 | Brincadeiras |
 | -- |
@@ -39,12 +46,14 @@
 | telefono sem fio |
 | redes (hamacas) |
 | roda (ronda) |
-| soltar pipa |
+| soltar pipa ou papagaio |
 | bambole |
 | elástico |
+| estátua |
 | heróis e bandidos |
 
 ## Exemplos
 
+* O que você brincava? - Eu brincava de bolinha de gude
 * Brincar de bonecas
 * Brincar de esconde-esconde

@@ -46,6 +46,11 @@
 1. [Contrações](doc/contraçoes.md)
 1. [Continentes, países, regiões, estados e cidades](doc/paises-cidades.md)
 1. [Pronomes demonstrativos](doc/pronomes-demonstrativos.md)
+1. [Brinquedos e brincadeiras](doc/brinquedos-brincadeiras.md)
+1. [Esportes](doc/esportes.md)
+1. [Família](doc/familia.md)
+1. [Verbos regulares - Pretérito Imperfeito do Indicativo](doc/verbos-regulares-preterito-imperfeito-indicativo.md)
+1. [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/verbos-irregulares-preterito-imperfeito-indicativo.md)
 
 ---
 
@@ -53,8 +58,6 @@
 
 ---
 
-1. [Família](doc/familia.md)
-1. [Brinquedos e brincadeiras](doc/brinquedos-brincadeiras.md)
 1. [Profissões](doc/profissoes.md)
 1. [Cores](doc/cores.md)
 1. [Telefone](doc/telefone.md)

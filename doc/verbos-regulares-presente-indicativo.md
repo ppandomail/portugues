@@ -39,6 +39,7 @@
 * vender
 * escolher
 * preencher (completar)
+* tremer (temblar)
 
 ## Verbos terminados en -IR
 
