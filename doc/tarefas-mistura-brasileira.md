@@ -101,3 +101,11 @@ Acho imperdível conhecer essa cidade, o verdadeiro "Caribe Brasileiro". Gostoso
 | ![Rio de Janeiro](../img/rio.png)         | **Pelo** Rio de Janeiro |
 | ![Cairo](../img/cairo.png)                | **Pelo** Cairo |
 | ![Porto](../img/porto.jpeg)               | **Pelo** Oporto |
+
+## Escreva um texto con más de 80 palavras, usando presente, pretérito perfeito e imperfeito
+
+Cuando eu **era** uma criança **gostava** de andar de bicicleta e de soltar pipa. **Cresci** em Buenos Aires. Eu **soltava** pipa na casa da minha avó. Recordo-me dos passeios com os meus avós no parque muito perto da estação ferroviária. O sorvete de chocolate e morango que minha avó **fazia** e a gente **comia** em casa **é** inesquecível. Também **lembro** que **aprendi** a fazer palavra cruzada com meu avô.
+
+Acho que a melhor lembrança **é** brincar na rua com meus amigos do barrio. O que me **marcou** foi o primer carrinho meio alaranjado. Eu **tinha** quatro anos de idade e ele está guardado até hoje baixo sete chaves.
+
+Depois eu **comecei** a estudar e passear muito. **Conheci** muitos lugares bonitos dentro e fora do país. Em minha opinião o Brasil é o melhor lugar para passar as férias e também **apresenta** boas oportunidades de trabalho. Esta é a razão pela qual eu **quero** estudar português  
