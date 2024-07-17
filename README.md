@@ -65,6 +65,7 @@
 1. [Pronomes interrogativos](doc/pronomes-interrogativos.md)
 1. [Cidade](doc/cidade.md)
 1. [Advérbios de lugar](doc/adverbios-lugar.md)
+1. [Advérbios de quantidade](doc/adverbios-quantidade.md)
 1. [Comidas e bebidas](doc/comidas-bebidas.md)
 1. [Plural](doc/plural.md)
 1. [Corpo humano](doc/corpo-humano.md)
