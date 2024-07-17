@@ -15,7 +15,12 @@
 | 10 - dez | 20 - vinte | 100 - cem | 1000 - mil | |
 
 * Não usar artigo diante de números - Quatro de Novembro
-* Não usar artigo diante de % - Descontos de até 70%
+* Não usar artigo diante de %
+  * Descontos de até 70%
+  * Este carro tem 30% de desconto
+
+* 12: **dúzia** - Temos que preencher uma **dúzia** de formulários
+* 6: **meia-dúzia** - Necesito comprar **meia-dúzia** de ovos
 
 ## O conector "e" entre os números
 
