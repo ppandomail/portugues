@@ -51,6 +51,8 @@
 1. [Família](doc/familia.md)
 1. [Verbos regulares - Pretérito Imperfeito do Indicativo](doc/verbos-regulares-preterito-imperfeito-indicativo.md)
 1. [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/verbos-irregulares-preterito-imperfeito-indicativo.md)
+1. [Corpo humano](doc/corpo-humano.md)
+1. [Características das pessoas](doc/caracteristicas-pessoas.md)
 
 ---
 
@@ -68,7 +70,6 @@
 1. [Advérbios de quantidade](doc/adverbios-quantidade.md)
 1. [Comidas e bebidas](doc/comidas-bebidas.md)
 1. [Plural](doc/plural.md)
-1. [Corpo humano](doc/corpo-humano.md)
 1. [Sinais pontuação](doc/sinais-pontuaçao.md)
 1. [Gírias](doc/girias.md)
 1. [Sinais de trânsito](doc/sinais-transito.md)

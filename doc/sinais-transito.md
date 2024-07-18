@@ -1,4 +1,4 @@
-# Sinais de trânsito
+# Sinais de trânsito / tráfego
 
 ||
 | -- |
@@ -17,7 +17,6 @@
 | a lombada (lomo de burro) |
 | a rotatória (rotonda) |
 | o cartaz (cartel) |
-| o tráfego |
 | o calçadão (senda peatonal) |
 
 ||
