@@ -43,6 +43,7 @@
 | ruim, maldoso (malo) ||
 | simple | complexo |
 | invejoso (envidioso) | |
+| vaidoso (vanidoso) ||
 | indeciso | decidido |
 | corajoso | covarde, medroso |
 | elegante | fedorento |

@@ -3,8 +3,8 @@
 | Pronome | Exemplo |
 | -- | -- |
 | **(O) QUE?**       | **O que** ele faz? |
-| **QUAL?**          | **Qual** é a sua profissão? / é o seu nome? / é a sua comida preferida?|
-| **QUAIS?**         | **Quais** são os estilos musicais que você escuta? |
+| **QUAL?**          | **Qual** é a sua profissão? / é o seu nome? / é a sua comida preferida? |
+| **QUAIS?**         | **Quais** são os estilos musicais que você escuta? / são essas coisas ? |
 | **QUEM?**          | **Quem** é seu pai? |
 | **ONDE? / CADÊ?**  | **Onde** você mora? / é a rua? / é o banheiro? |
 | **QUANDO?**        | **Quando** começam as aulas? |
