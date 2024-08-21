@@ -1,7 +1,7 @@
 # Verbos irregulares - Presente do Indicativo
 
 | Pronome | DAR | PODER | DIZER | FAZER | TRAZER | ESQUECER | SABER | PERDER | VER | QUERER | SAIR | DORMIR | VIR | PEDIR | PREFERIR | PÔR | OUVIR | LER | CAIR | SENTIR | DOER |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | eu | dou | posso | digo | faço | trago | esqueço | sei | perco | vejo | quero | saio | durmo | venho | peço | prefiro | ponho | ouço | leio | caio | sinto | X |
 | você | dá | pode | diz | faz | traz | esquece | sabe | perde | vê | quer | sai | dorme | vem | pede | prefere | põe | ouve | lê | cai | sente | dói |
 | nós | damos | podemos | dizemos | fazemos | trazemos | esquecemos | sabemos | perdemos | vemos | queremos | saímos | dormimos | vimos | pedimos | preferimos | pomos | ouvimos | lemos | caímos | sentimos | X |
