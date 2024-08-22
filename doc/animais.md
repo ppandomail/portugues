@@ -1,4 +1,4 @@
-# Os animais
+# Animais
 
 * bicho / bichinho / animal de estimação
 * asas (alas)
