@@ -38,6 +38,8 @@
 1. [Números ordinais](doc/numeros-ordinais.md)
 1. [Informações pessoais](doc/informaçoes-pessoais.md)
 1. [Horas](doc/horas.md)
+1. [Rotina](doc/rotina.md)
+1. [Atividades de lazer](doc/atividades-lazer.md)
 1. [Verbos irregulares - Presente do Indicativo](doc/verbos-irregulares-presente-indicativo.md)
 1. [Verbos regulares - Pretérito Perfeito do Indicativo](doc/verbos-regulares-preterito-perfeito-indicativo.md)
 1. [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/verbos-irregulares-preterito-perfeito-indicativo.md)
@@ -124,3 +126,4 @@
 1. [Verbos - Futuro imediato](doc/verbos-futuro-imediato.md)
 1. [Verbos - Futuro do Presente do Indicativo](doc/verbos-futuro-presente-indicativo.md)
 1. [Verbos - Futuro do Pretérito do Indicativo (Futuro condicional)](doc/verbos-futuro-preterito-indicativo.md)
+1. [Infinitivo pessoal](doc/infinitivo-pessoal.md)

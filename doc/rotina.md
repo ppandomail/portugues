@@ -3,14 +3,20 @@
 1. acordar
 1. escobar os dentes
 1. tomar banho
-1. tomar café da manha
-1. trabalhar
+1. tomar o café da manhã
+1. ir para o trabalho
+1. pegar ônibus
+1. trabalhar + reunião
 1. almoçar
+1. voltar / ir para casa
 1. merendar/lanchar
-1. estudar
+1. estudar idiomas
+1. ir ao cinema / teatro / concerto / banco / consulta médica
+1. praticar esportes
 1. jantar
-1. deitar (acostar)
+1. deitar-se (acostar)
 1. dormir
+1. sonhar / pesadelo
 
 ## Perguntas
 
