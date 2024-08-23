@@ -139,3 +139,4 @@
 1. [Verbos - Presente do Subjuntivo](doc/verbos-presente-subjuntivo.md)
 1. [Verbos - Futuro do Subjuntivo](doc/verbos-futuro-subjuntivo.md)
 1. [Verbos - Imperfeito do Subjuntivo](doc/verbos-imperfeito-subjuntivo.md)
+1. [Verbos - Tempos compostos](doc/verbos-tempos-compostos.md)
