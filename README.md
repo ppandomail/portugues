@@ -136,3 +136,6 @@
 1. [Infinitivo pessoal](doc/infinitivo-pessoal.md)
 1. [Voz passiva](doc/voz-passiva.md)
 1. [Provérbios](doc/proverbios.md)
+1. [Verbos - Presente do Subjuntivo](doc/verbos-presente-subjuntivo.md)
+1. [Verbos - Futuro do Subjuntivo](doc/verbos-futuro-subjuntivo.md)
+1. [Verbos - Imperfeito do Subjuntivo](doc/verbos-imperfeito-subjuntivo.md)
