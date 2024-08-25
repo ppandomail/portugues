@@ -1,13 +1,13 @@
 # Verbo SER - Presente do Indicativo
 
-* É usado para falar aspectos mais permanentes ou duradouros.
+* É usado para falar aspectos mais permanentes ou duradouros
 
-| Pronome | Presente do Indicativo |
-| -- | -- |
-| eu | **sou** |
-| você | **é** |
-| nós | **somos** |
-| vocês | **são** |
+  | Pronome | Presente do Indicativo |
+  | -- | -- |
+  | eu | **sou** |
+  | você | **é** |
+  | nós | **somos** |
+  | vocês | **são** |
 
 ## Diálogo
 

@@ -2,12 +2,12 @@
 
 * Usados diante de substantivo
 
-| Artigo definido | Exemplo 1 | Exemplo 2 |
-| -- | -- | -- |
-| **O**  | o menino   | o professor |
-| **A**  | a menina   | a professora |
-| **OS** | os meninos | os alunos |
-| **AS** | as meninas | as alunas |
+  | Artigo definido | Exemplo 1 | Exemplo 2 |
+  | -- | -- | -- |
+  | **o**  | o menino   | o professor |
+  | **a**  | a menina   | a professora |
+  | **os** | os meninos | os alunos |
+  | **as** | as meninas | as alunas |
 
 ## Exemplos
 

@@ -8,7 +8,8 @@
 | peixaria |
 | hortifruti |
 | quitanda (verduleria) |
-| padaria |
+| padaria / pães e doces |
+| delícias a quilo |
 | antiquário |
 | joalheria (joyeria) |
 | armazém (almacén) |
@@ -24,12 +25,12 @@
 | livraria / papelaria |
 | cabeleireira |
 | perfumaria |
-| cemitério |
 | floricultura |
 | feiras artesanais |
 | centro cultural |
 | museu |
 | jardim zoológico |
+| jardim botânico |
 | danceteria |
 | cinema |
 | teatro |
@@ -48,14 +49,20 @@
 | drogaria |
 | farmácia |
 | hospital |
+| igreja |
+| cemitério |
 | hotel |
+| pousada |
 | posto de gasolina |
+| borracharia |
+| prefeitura |
 | delegacia de policia |
 | prisão (prisión) |
 
 | Espaços públicos |
 | -- |
 | avenida |
+| rodoviária |
 | beira mar |
 | calçada |
 | parque |
@@ -63,3 +70,7 @@
 | ponte |
 | praia |
 | viaduto (puente sin agua) |
+
+## Pergunta
+
+* Onde está o ursinho de pelúcia?

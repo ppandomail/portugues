@@ -14,15 +14,12 @@
 * rosa
 * roxo/a (violeta)
 * verde
-* vermelho (rojo)
+* vermelho/a (rojo)
 * vinho (bordo)
 * castanho
 
 * claro
 * escuro
-
-* De que cor é / são ... ?
-* Qual é a cor ... ?
 
 ## Expressões com as cores
 
@@ -33,3 +30,8 @@
 * Tudo **azul**: tudo bem
 * Ovelha **negra**: diferente
 * cor-de-**rosa**: perfeito, ideal, romántico
+
+## Perguntas
+
+* De que cor é / são ... ?
+* Qual é a cor ... ?

@@ -17,26 +17,6 @@
 
 ## Países
 
-| País | Nacionalidade | Idioma |
-| -- | -- | -- |
-| O Brasil | brasileiro/a | português |
-| O Peru | peruano/a | espanhol |
-| O Chile | chileno/a | espanhol |
-| A Argentina | argentino/a | espanhol |
-| A Venezuela | venezuelano/a | espanhol |
-| O México | mexicano/a | espanhol |
-| Os EEUU | americano/a | inglês |
-| A Espanha| espanhol/a | espanhol |
-| A Alemanha | alemão/alemã | alemão |
-| A China | chinês/a | chinês |
-| O Japão | japonês/a | japonês |
-| A França| francês/a | francês |
-| A Italia | italiano/a | italiano |
-| O Canadá | canadense | inglês |
-| Portugal | português/a | português |
-| Cuba | cubano/a | espanhol |
-| Israel | israelense | hebraico |
-
 * Os nomes de países são acompanhados de artigos definidos (exceções: Portugal, Cuba, Israel). Exemplos:
   * Estou **no** Brasil / **no** Japão / **no** Peru / **na** Argentina
   * Eles moram **na** França

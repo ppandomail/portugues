@@ -10,6 +10,8 @@
 | por  | **pelo** | **pela** | **pelos** | **pelas** |
 | para | **pro**  | **pra**  | **pros**  | **pras** |
 
+## Exemplos com artigos definidos
+
 ### A
 
 * Temos que ir **ao** supermercado
@@ -49,15 +51,20 @@
 
 * O uso é facultativo
 
-| Preposição | um | uma | uns | umas |
-| -- | -- | -- | -- | -- |
-| de   | **dum**   | **duma**   | **duns**   | **dumas** |
-| em   | **num**   | **numa**   | **nuns**   | **numas** |
+  | Preposição | um | uma | uns | umas |
+  | -- | -- | -- | -- | -- |
+  | de   | **dum**   | **duma**   | **duns**   | **dumas** |
+  | em   | **num**   | **numa**   | **nuns**   | **numas** |
 
-### Exemplos
+## Exemplos com artigos indefinidos
+
+### DE
 
 * Acabo de sair **dum** bar
 * Tenho os livros **duma** amiga
+
+### EM
+
 * Estamos **num** recital de poesia
 * Acabo de pensar **numa** solução para o seu problema
 * Ele chegará **nuns** dias

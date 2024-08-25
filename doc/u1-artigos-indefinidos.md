@@ -2,12 +2,12 @@
 
 * Usados diante de substantivo
 
-| Artigo indefinido | Exemplo 1 | Exemplo 2 |
-| -- | -- | -- |
-| **UM**   | um animal       | um amigo |
-| **UMA**  | uma bicicleta   | uma amiga |
-| **UNS**  | uns animais     | uns homens |
-| **UMAS** | umas bicicletas | umas mulheres |
+  | Artigo indefinido | Exemplo 1 | Exemplo 2 |
+  | -- | -- | -- |
+  | **um**   | um animal       | um amigo |
+  | **uma**  | uma bicicleta   | uma amiga |
+  | **uns**  | uns animais     | uns homens |
+  | **umas** | umas bicicletas | umas mulheres |
 
 ## Exemplos
 

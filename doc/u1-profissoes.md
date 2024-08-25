@@ -168,3 +168,8 @@
 ---
 
 * zelador (responsable de colegio)
+
+## Perguntas
+
+* Dr. Mauro, o senhor é médico? - Não. Sou advogado
+* Vocês são professores? - Não. Nós somos estudantes
