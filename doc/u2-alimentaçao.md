@@ -1,9 +1,64 @@
-# Frutas, vegetais, produtos
+# Alimentação
 
 * a casca (cáscara)
 * a polpa
 * a semente (semilla)
 * os vegetais = verduras (folhas verdes) + legumes (vegetais não verdes)
+
+| Vegetais |
+| -- |
+| a abóbora (zapallo) |
+| a abobrinha (zapallito) |
+| a alcachofra (alcaucil) |
+| a azeitona |
+| a batata (papa) |
+| a batata doce (batata) |
+| a berinjela |
+| a beterraba (remolacha) |
+| a cebola |
+| a cenoura |
+| a couve-flor |
+| a ervilha (arveja) |
+| a lentilha (lenteja) |
+| a mandioca |
+| a rúcula |
+| a vagem (chaucha) |
+| o agrião (berro) |
+| o aipo |
+| o alface |
+| o alho-poró |
+| o arroz |
+| o aspargo (espárrago) |
+| o brócolis |
+| o cogumelo (champignon) |
+| o espinafre (espinaca) |
+| o feijão (poroto) |
+| o funcho (hinojo) |
+| o gengibre |
+| o grão de bico |
+| o milho |
+| o palmito |
+| o pepino |
+| o pimentão (morrón) |
+| o rabanete |
+| o repolho |
+| o tomate |
+
+| Proteínas animais |
+| -- |
+| o atum |
+| o bacon |
+| o camarão |
+| o filé bovino |
+| o frango |
+| o kani |
+| o ovo cozido |
+| o peru |
+| o presunto |
+| o salame |
+| o salmão |
+| a sardinha |
+| o siri |
 
 | Frutas |
 | -- |
@@ -20,11 +75,13 @@
 | a manga |
 | a maracujá |
 | a melancia (sandia) |
-| a pera |
+| a pêra |
+| a tangerina |
 | a toranja (pomelo) |
 | a uva |
 | o abacate (palta) |
 | o abacaxi |
+| o açaí |
 | o coco |
 | o figo |
 | o kiwi |
@@ -32,7 +89,6 @@
 | o melão (melón) |
 | o morango |
 | o pêssego |
-| a tangerina |
 
 | Frutas secas |
 | -- |
@@ -42,41 +98,6 @@
 | a noz |
 | o amendoim (maní) |
 | o pistache |
-
-| Vegetais |
-| -- |
-| a abóbora (zapallo) |
-| a abobrinha (zapallito) |
-| a alcachofra (alcaucil) |
-| a batata (papa) |
-| a batata doce (batata) |
-| a berinjela |
-| a beterraba (remolacha) |
-| a cebola |
-| a cenoura |
-| a couve-flor |
-| a ervilha (arveja) |
-| a lentilha (lenteja) |
-| a mandioca |
-| a rúcula |
-| a vagem (chaucha) |
-| o alface |
-| o agrião (berro) |
-| o alho |
-| o arroz |
-| o aspargo (espárrago) |
-| o brócolis |
-| o cogumelo (champignon) |
-| o espinafre (espinaca) |
-| o feijão (poroto) |
-| o funcho (hinojo) |
-| o gengibre |
-| o milho |
-| o pepino |
-| o pimentão (morrón) |
-| o rabanete |
-| o repolho |
-| o tomate |
 
 | Ervas aromáticas |
 | -- |

@@ -24,3 +24,19 @@
 
 | Unidade 2 - CONSUMO |
 | -- |
+| [Cortesia](doc/u2-cortesia.md) |
+| [Compras](doc/u2-compras.md) |
+| [Números cardinais](doc/u2-numeros-cardinais.md) |
+| [Pesos e quantidades](doc/u2-pesos-quantidades.md) |
+| [Verbos regulares - Pretérito Perfeito do Indicativo](doc/u2-verbos-regulares-preterito-perfeito-indicativo.md) |
+| [Números ordinais](doc/u2-numeros-ordinais.md) |
+| [Tempo](doc/u2-tempo.md) |
+| [Alimentação](doc/u2-alimentaçao.md) |
+
+| Unidade 3 - COTIDIANO |
+| -- |
+| [Pronomes interrogativos](doc/u3-pronomes-interrogativos.md) |
+| [Meios de transporte](doc/u3-meios-transporte.md) |
+| [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/u3-verbos-irregulares-preterito-perfeito-indicativo.md) |
+| [Dias da semana](doc/u3-dias-da-semana.md) |
+| [Meses do ano](doc/u3-meses-do-ano.md) |

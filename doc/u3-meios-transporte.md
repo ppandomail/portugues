@@ -2,25 +2,23 @@
 
 ||
 | -- |
-| a moto |
-| a bicicleta |
-| o carro |
-| o ônibus |
-| o metrô |
-| o trem |
-| o táxi |
-| a van (furgoneta) |
-| caminhão |
-| caminhonete |
-| o trator |
-| o avião |
-| o helicóptero |
-| o barco |
-| o bote |
-| o cruzeiro |
-| o veleiro |
-| a lancha |
-| o aite |
+| a pé |
+| a cavalo |
+| de avião |
+| de barco |
+| de bicicleta |
+| de carro |
+| de caminhão |
+| de caminhonete |
+| de metrô |
+| de helicóptero |
+| de moto (cicleta) |
+| de navio: bote, cruzeiro, veleiro, lancha, iate |
+| de ônibus |
+| de táxi |
+| de trator |
+| de trem |
+| de van (furgoneta) |
 
 ## Exemplos
 

@@ -25,7 +25,7 @@
 | depôsito ou tranferência bancária |
 | prazos: curto / médio / longo |
 
-## Exemplos
+## Perguntas
 
 * Renata, quer **fazer compras** comigo?
 * Posso ajudá-la ? / Como posso lhe ajudar?
@@ -33,8 +33,9 @@
 * Quero trocar / devolver isto
 * Estou buscando ...
 * Tem trocado?
-* Quanto custa / devo / sai?
+* Quanto é / custa / devo / sai?
 * Qual é o preço?
+* Qual é mais barato?
 * Acho que é caro / barato
 * Posso experimentar?
 * Quero ver qual das duas fica bem em mim

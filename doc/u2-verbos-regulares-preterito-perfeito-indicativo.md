@@ -2,12 +2,12 @@
 
 * Passado preciso
 
-| Pronome | FAL**AR** | BEB**ER** | ABR**IR** |
-| -- | -- | -- | -- |
-| eu | fal**ei** | beb**i** | part**i** |
-| você | fal**ou** | beb**eu** | part**iu** |
-| nós | fal**amos** | beb**emos** | part**imos** |
-| vocês | fal**aram** | beb**eram** | part**iram** |
+  | Pronome | FAL**AR** | BEB**ER** | ABR**IR** |
+  | -- | -- | -- | -- |
+  | eu | fal**ei** | beb**i** | part**i** |
+  | você | fal**ou** | beb**eu** | part**iu** |
+  | nós | fal**amos** | beb**emos** | part**imos** |
+  | vocês | fal**aram** | beb**eram** | part**iram** |
 
 ## Exemplos
 

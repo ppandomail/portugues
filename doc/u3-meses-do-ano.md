@@ -2,18 +2,18 @@
 
 | Mês | Data comemorativa |
 | -- | -- |
-| **Janeiro**   | 1 Ano Novo |
-| **Fevereiro** | 2 Dia de Iemanjá + Carnaval |
-| **Março**     | 8 Dia da Mulher |
-| **Abril**     | 19 Dia do Índio |
-| **Maio**      | 1 Dia do Trabalho |
-| **Junho**     | 12 Dia dos Namorados + Festas Juninas |
-| **Julho**     | 20 Dia do Amigo |
-| **Agosto**    | 22 Dia do Folclore |
-| **Setembro**  | 7 Dia da Independência |
-| **Outubro**   | 12 Dia de Nossa Senhora Aparecida + Dia das crianças |
-| **Novembro**  | 2 Dia de Finados |
-| **Dezembro**  | 25 Natal |
+| **janeiro**   | 1 Ano Novo |
+| **fevereiro** | 2 Dia de Iemanjá + Carnaval |
+| **março**     | 8 Dia da Mulher |
+| **abril**     | 19 Dia do Índio |
+| **maio**      | 1 Dia do Trabalho |
+| **junho**     | 12 Dia dos Namorados + Festas Juninas |
+| **julho**     | 20 Dia do Amigo |
+| **agosto**    | 22 Dia do Folclore |
+| **setembro**  | 7 Dia da Independência |
+| **outubro**   | 12 Dia de Nossa Senhora Aparecida + Dia das crianças |
+| **novembro**  | 2 Dia de Finados |
+| **dezembro**  | 25 Natal |
 
 * Não usar contrações nos meses:
   * em Abril
