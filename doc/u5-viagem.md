@@ -11,6 +11,16 @@
 ## Itens para viagem
 
 1. cheques para viagem
+1. a passagem de ida
+1. as passagens de ida e volta
+1. o assento / a poltrona
+1. a vaga
+1. a diária
+1. o lugar
+1. a bagagem
+1. o voo
+1. lotado
+1. livre
 1. dicionário
 1. filmadora
 1. guia turistico

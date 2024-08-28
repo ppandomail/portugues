@@ -1,19 +1,4 @@
-# Continentes, países, regiões, estados e cidades
-
-## Os Continentes
-
-| Continente |
-| -- |
-| A América |
-| A Europa |
-| A Ásia |
-| A África |
-| A Oceania |
-| A Antártida |
-
-* Os nomes de continentes vêm precedidos de artigo definido. Exemplos:
-  * Gosto **da** Europa
-  * Conheço **a** África
+# Artigo definido e contrações antes de nomes de lugares
 
 ## Países
 
@@ -40,6 +25,21 @@
   * Eu vou **a** Portugal / **a** Cuba / **a** Israel
 * Qual é a sua nacionalidade? - Sou mexicano
 * Que lingua você fala? - Falo espanhol
+
+## Os Continentes
+
+| Continente |
+| -- |
+| A América |
+| A Europa |
+| A Ásia |
+| A África |
+| A Oceania |
+| A Antártida |
+
+* Os nomes de continentes vêm precedidos de artigo definido. Exemplos:
+  * Gosto **da** Europa
+  * Conheço **a** África
 
 ## As regiões
 

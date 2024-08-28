@@ -1,4 +1,4 @@
-# Plural dos substantivos
+# Formação de plural
 
 * Geral: + "s" ao singular. Terminados em vogal
   * pessoa -> pessoa**s**

@@ -4,9 +4,9 @@
 
 | Localização | Variáveis | Invariáveis |
 | -- | -- | -- |
-| **PERTO**  => aqui    | este, estes, esta, estas         | isto   |
-| **+/- PERTO** => aí   | esse, esses, essa, essas         | isso   |
-| **LONGE** => ali / lá | aquele, aqueles, aquela, aquelas | aquilo |
+| **perto**  => aqui    | este, estes, esta, estas         | isto   |
+| **+/- perto** => aí   | esse, esses, essa, essas         | isso   |
+| **longe** => ali / lá | aquele, aqueles, aquela, aquelas | aquilo |
 
 * Vamos lá!
 
@@ -37,11 +37,11 @@
 
 | Preposição | MASC | FEM | NEUTRO |
 | -- | -- | -- | -- |
-| **A**  | àquele/s | àquela/s | aquilo |
-| **DE** | deste/s  | desta/s  | disto  |
+| **a**  | àquele/s | àquela/s | aquilo |
+| **de** | deste/s  | desta/s  | disto  |
 |        | desse/s  | dessa/s  | disso  |
 |        | daquele/s| daquela/s| daquilo|
-| **EM** | neste/s  | nesta/s  | nisto  |
+| **em** | neste/s  | nesta/s  | nisto  |
 |        | nesse/s  | nessa/s  | nisso  |
 |        | naquele/s| naquela/s| naquilo|
 
@@ -50,7 +50,7 @@
 |||||
 | -- | -- | -- | -- |
 |        | **aqui** | **aí** | **ali** |
-| **DE** | daqui | daí | dali |
+| **de** | daqui | daí | dali |
 
 ## Exemplos contrações
 

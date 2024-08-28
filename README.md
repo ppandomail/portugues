@@ -2,7 +2,6 @@
 
 | Unidade 1 - PESSOAS |
 | -- |
-| [Lugares e espaços públicos](doc/u1-lugares-espaços-publicos.md) |
 | [Cores](doc/u1-cores.md) |
 | [Cumprimentos](doc/u1-cumprimentos.md) |
 | [Agradecimento](doc/u1-agradecimento.md) |
@@ -40,3 +39,22 @@
 | [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/u3-verbos-irregulares-preterito-perfeito-indicativo.md) |
 | [Dias da semana](doc/u3-dias-da-semana.md) |
 | [Meses do ano](doc/u3-meses-do-ano.md) |
+| [Horas](doc/u3-horas.md) |
+| [Advérbios de lugar](doc/u3-adverbios-lugar.md) |
+| [Pronomes demonstrativos](doc/u3-pronomes-demonstrativos.md) |
+
+| Unidade 4 - CONTATO |
+| -- |
+| [Telefone](doc/u4-telefone.md) |
+| [Artigo definido e contrações antes de nomes de lugares](doc/u4-nomes-lugares.md) |
+| [Verbos regulares - Presente do Indicativo](doc/u4-verbos-regulares-presente-indicativo.md) |
+| [Referências urbanas](doc/u4-referencias-urbanas.md) |
+| [Sinais de trânsito / tráfego](doc/u4-sinais-transito.md) |
+| [Cidade](doc/u4-cidade.md) |
+
+| Unidade 5 - CONTATO |
+| -- |
+| [Viagem](doc/u5-viagem.md) |
+| [Aeroporto](doc/u5-aeroporto.md) |
+| [Formação de plural](doc/u5-formaçao-plural.md) |
+| [Verbos irregulares - Presente do Indicativo](doc/u5-verbos-irregulares-presente-indicativo.md) |

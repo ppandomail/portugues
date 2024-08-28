@@ -30,6 +30,7 @@
 
 ## Perguntas e respostas
 
+1. Que dia é hoje? - Hoje é dia 23. Quinta
 1. Em que mês estamos? - Em Junho
 1. Qual é o mês que vem? - Julho
 1. Em que mês você faz aniversário? - Em Novembro
