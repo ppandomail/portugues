@@ -28,6 +28,12 @@
 * Ela tem que começar **a** acreditar na sorte
 * O cinema fica **a** duas quadras da minha casa
 
+### COM
+
+* Vou brincar **com** José
+* Queremos viajar **com** vocês
+* **Com** confiança chegaremos longe
+
 ### DE
 
 * O avião veio **de** Buenos Aires
@@ -49,20 +55,14 @@
 * TEMPO - Anos: Os portugueses chegaram **em** 1500
 * TEMPO - Séculos: A lâmpada elétrica foi inventada **no** século XIX
 
+### PARA
+
+* TEMPO - Horas: Faltam cinco minutos **para** as oito
+* TEMPO - Localização: Necesito meu computador **para** esta tarde
+
 ### POR
 
 * Ao chegar foi recebido **por** dois amigos
 * Já procurei **por** aqui e não encontrei nada
 * Passe **por** aquele corredor
 * TEMPO - Periodo tempo: Podem ficar com meu carro **por** uns dias
-
-### COM
-
-* Vou brincar **com** José
-* Queremos viajar **com** vocês
-* **Com** confiança chegaremos longe
-
-### PARA
-
-* TEMPO - Horas: Faltam cinco minutos **para** as oito
-* TEMPO - Localização: Necesito meu computador **para** esta tarde

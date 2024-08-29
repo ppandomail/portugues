@@ -2,23 +2,25 @@
 
 ## Informal
 
-* Oi! Olá!
+* Oi!
+* Olá!
 
 ### Pergunta
 
 * Oi, tudo bem?
 * Oi, tudo bom?
-* Oi, tudo legal?
-* Oi, tudo beleza?
-* Oi, tudo bacana?
-* Oi, tudo jóia?
-* Oi, tudo ótimo?
 * Oi, tudo azul?
-* Oi, tudo tranquilo?
+* Oi, tudo bacana?
+* Oi, tudo beleza?
+* Oi, tudo jóia?
+* Oi, tudo legal?
 * Oi, tudo na santa (todo en paz)?
-* E, aí?
+* Oi, tudo ótimo?
+* Oi, tudo tranquilo?
+
 * Como esta você?
 * Como vai?
+* E, aí?
 
 ### Resposta
 
