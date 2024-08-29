@@ -58,3 +58,8 @@
 | [Aeroporto](doc/u5-aeroporto.md) |
 | [Formação de plural](doc/u5-formaçao-plural.md) |
 | [Verbos irregulares - Presente do Indicativo](doc/u5-verbos-irregulares-presente-indicativo.md) |
+| [Periodicidade](doc/u5-periodicidade.md) |
+| [Verbos - Futuro imediato](doc/u5-verbos-futuro-imediato.md) |
+| [Gênero das palavras](doc/u5-genero-palavras.md) |
+| [Ser, Ter, Estar](doc/u5-ser-ter-estar.md) |
+| [Partes da casa](doc/u5-partes-casa.md) |

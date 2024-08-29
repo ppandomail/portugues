@@ -6,7 +6,7 @@
 | a sala de jantar |
 | a cozinha |
 | o banheiro |
-| o quarto / dormitório |
+| o quarto / dormitório / quarto do casal |
 | o jardim (adelante) |
 | o quintal (atrás) |
 | a garagem |
@@ -113,7 +113,9 @@
 | a cama |
 | o benço (cuna) |
 | o lençol (śabana) |
+| a colcha |
 | o cobertor (cubrecama) |
+| o edredon |
 | o travesseiro (almohada) |
 | a fronha (funda) |
 | o colchão |

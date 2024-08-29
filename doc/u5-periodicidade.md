@@ -1,4 +1,4 @@
-# Advérbios de frequência
+# Periodicidade
 
 | % | Advérbio |
 | -- | -- |
@@ -9,3 +9,11 @@
 | 50  | **às vezes** |
 | 75  | **com frequência / geralmente** |
 | 100 | **sempre / constantemente** |
+
+* **uma vez** ao ano
+* **duas vezes** por mês
+* **três vezes** por semana
+* **...** ao dia
+
+* **todo** sábado / domingo
+* **todas** as terças / sextas
