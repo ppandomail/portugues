@@ -22,3 +22,4 @@
 * Que é isso! Não foi nada!
 * Sem problemas!
 * Valeu!
+* fechou = esta combinado

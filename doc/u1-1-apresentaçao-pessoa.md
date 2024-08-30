@@ -60,3 +60,8 @@
 * Patrícia –  O meu é Patrícia
 * Ana Paula – Prazer. (formal o informal)
 * Patrícia  – Muito prazer (formal)
+
+## Boas vindas
+
+* Bem-vindo/a
+* Seja bem-vindo/a

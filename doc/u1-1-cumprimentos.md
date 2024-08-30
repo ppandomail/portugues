@@ -28,6 +28,7 @@
 * Eu estou bem, obrigado. E você?
 * Vai tudo bem
 * Se melhorar estraga (que lujo)
+* Beleza
 
 ### Exemplo cumprimento informal
 
@@ -45,3 +46,10 @@
 
 * Tabata: Bom dia, como vai a senhora?
 * Sol: Tudo Bem, obrigada
+
+## Gírias
+
+* tô dentro / fora
+* tô de boa = não estou fazendo nada (tranquilo)
+* ficar a toa = sem fazer nada
+* bora? = vamos ? vamos fazer isso?

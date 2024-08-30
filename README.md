@@ -41,6 +41,7 @@
 | [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/u1-3-verbos-irregulares-preterito-perfeito-indicativo.md) |
 | [Dias da semana](doc/u1-3-dias-da-semana.md) |
 | [Meses do ano](doc/u1-3-meses-do-ano.md) |
+| [Estações do ano](doc/u1-3-estaçoes-do-ano.md) |
 | [Horas](doc/u1-3-horas.md) |
 | [Advérbios de lugar](doc/u1-3-adverbios-lugar.md) |
 | [Pronomes demonstrativos](doc/u1-3-pronomes-demonstrativos.md) |
@@ -110,9 +111,10 @@
 
 ## Nivel 3
 
-| Unidade 1 - SAIA JUSTA |
+| Unidade 1 |
 | -- |
 | [Voz passiva](doc/u3-1-voz-passiva.md) |
 | [Verbos - Presente do Subjuntivo](doc/u3-1-verbos-presente-subjuntivo.md) |
 | [Verbos - Imperfeito do Subjuntivo](doc/u3-1-verbos-imperfeito-subjuntivo.md) |
 | [Verbos - Futuro do Subjuntivo](doc/u3-1-verbos-futuro-subjuntivo.md) |
+| [Infinitivo pessoal](doc/u3-1-infinitivo-pessoal.md) |
