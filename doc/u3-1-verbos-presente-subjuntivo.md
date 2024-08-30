@@ -1,7 +1,7 @@
 # Verbos - Presente do Subjuntivo (que eu)
 
 * É usado para indicar dúvidas desejos, incertezas, probabilidades, pedidos e sentimentos
-* * Formação: a partir do radical da 1ra pessoa do singular do presente do indicativo. Em seguida, troca-se a vogal temática do verbo por outra desinência
+* Formação: a partir do radical da 1ra pessoa do singular do presente do indicativo. Em seguida, troca-se a vogal temática do verbo por outra desinência
 
 ## Regulares
 

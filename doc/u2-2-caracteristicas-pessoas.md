@@ -1,23 +1,27 @@
 # Características das pessoas
 
+* Ela é parecida com ... ?
+* Ele é parecido com ... ?
+
 ## Físicas
 
 |||
 | -- | -- |
-| **apariência** | alto / baixo |
-|                | forte / fraco |
+| **apariência** | alto / baixo / anão (enano) |
+|                | corpulento / forte / musculoso / atlético / fraco |
 |                | grande / pequeno |
-|                | gordo / magro / médio |
+|                | obeso / gordo / rechonchudo / barrigudo / médio / magro / esquelético |
 |                | jovem / moço / velho / idoso |
+|                | formal / informal |
 |                | largo (ancho) / estreito |
 | **o cabelo**   | fino / grosso |
-|                | curto / longo, comprido |
+|                | longo / curto / raspado / careca |
 |                | liso / crespo / médio / ondulado / encaracolado |
-|                | castanho / loiro / ruivo / preto / branco / grisalho |
-|                | cabeludo / careca / raspado |
+|                | oleoso / seco / danificado |
+|                | castanho / loiro / ruivo / preto / branco / grisalho / descolorido / pintado (de + cor) |
 | **os olhos**   | castanhos / pretos / azuis / verdes |
 |                | claros / escuros |
-| **a pele**     | morena / branca / negra |
+| **a pele**     | negra / bronzeada / morena / clara / albina |
 | **as sobrancelhas** | finas / grossas |
 
 ## Perfil psicológico

@@ -18,33 +18,34 @@
 
 | Verbo no infinitivo | Particípio |
 | -- | -- |
-| fazer    | feito   |
-| dizer    | dito    |
-| ver      | visto   |
-| escrever | escrito |
 | abrir    | aberto  |
 | cobrir   | coberto |
-| vir      | vindo   |
-| pôr      | posto   |
+| dizer    | dito    |
+| escrever | escrito |
+| fazer    | feito   |
 | ganhar   | ganho   |
 | gastar   | gasto   |
+| morrer   | morto   |
 | pagar    | pago    |
 | pegar    | pego    |
+| pôr      | posto   |
+| ver      | visto   |
+| vir      | vindo   |
 
 ## Particípio duplo: regular e irregular
 
 | Verbo no infinitivo | Particípio regular | Participio irregular |
 | -- | -- | -- |
+| aceitar    | aceitado   | aceito   |
+| eleger     | elegido    | eleito   |
 | entregar   | entregado  | entregue |
 | expressar  | expressado | expresso |
-| salvar     | salvado    | salvo    |
-| aceitar    | aceitado   | aceito   |
-| pagar      | pagado     | pago     |
-| prender    | prendido   | preso    |
 | extinguir  | extinguido | extinto  |
 | imprimir   | imprimido  | impresso |
-| eleger     | elegido    | eleito   |
 | inserir    | inserido   | inserto  |
+| pagar      | pagado     | pago     |
+| prender    | prendido   | preso    |
+| salvar     | salvado    | salvo    |
 
 * Quando o verbo tem 2 particípios se usa em passiva o particípio irregular
 * Com verbos ser, estar e ficar usar particípio irregular

@@ -2,25 +2,38 @@
 
 | Partes da casa |
 | -- |
-| sala de estar f. |
-| sala de jantar f. |
-| cozinha f. |
-| banheiro m. |
-| quarto m. / dormitório m. / quarto do casal m. |
-| jardim m. (adelante) |
-| quintal m. (atrás) |
-| garagem f. |
-| varanda f. / sacada f. (balcón) |
-| sotão m. / porão m. |
-| corredor m. (pasillo) |
-| escritório m. (oficina) |
-| terraço m. |
 | área de serviço f. |
+| banheiro m. |
+| chaminé |
+| corredor m. (pasillo) |
+| cozinha f. |
+| escritório m. (oficina) |
+| janela f.|
+| garagem f. |
+| jardim m. (adelante) |
+| laje |
+| lavabo m. |
+| lavanderia |
+| parede f. |
+| porão m. |
+| porta f.|
+| quarto m. / dormitório m. / quarto do casal m. |
+| quintal m. (atrás) |
+| sacada f. (balcón) |
+| sala de estar f. |
+| sala de visitas f. |
+| sala de jantar f. |
+| sala de jogos f. |
+| sotão m. |
+| suite |
+| telhado m. |
+| terraço m. |
+| varanda f. |
+| vestíbulo m. |
 
 | Áreas comuns de um condomínio |
 | -- |
 | churrasqueira |
-| garagem |
 | piscina |
 | playground |
 | quadra poliesportiva |
