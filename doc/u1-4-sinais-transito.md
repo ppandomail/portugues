@@ -2,40 +2,38 @@
 
 ||
 | -- |
-| a rodovia |
-| a faixa (carril) |
-| o posto de gasolina |
-| o cruzamento de ruas |
-| o pedestre (peatón) |
-| a faixa de pedestre |
-| o motorista |
+| cartaz m. (cartel) |
+| carteira de motorista f. (carnet de conducir) |
+| cruzamento de ruas m. |
 | dirigir |
-| a carteira de motorista (carnet de conducir) |
-| a velocidade |
-| o engarrafamento |
-| o pedágio (peaje) |
-| a lombada (lomo de burro) |
-| a rotatória (rotonda) |
-| o cartaz (cartel) |
-| o calçadão (senda peatonal) |
+| engarrafamento m. |
+| faixa f. (carril) |
+| faixa de pedestre f. |
+| lombada f. (lomo de burro) |
+| motorista m. |
+| pedágio m. (peaje) |
+| pedestre (peatón) m. |
+| rodovia f. |
+| rotatória f. (rotonda) |
+| velocidade f. |
 
 ||
 | -- |
-| duas vias |
-| dar passagem (ceder paso) |
-| semáforo |
-| sinal de pare |
-| rua sem saída |
-| sentido único |
-| proibido estacionar |
-| siga em frente |
 | a contramão |
 | a curva |
+| dar passagem (ceder paso) |
+| duas vias |
 | parada obrigatória |
-| sentido proibido |
+| proibido estacionar |
+| proibido retornar |
 | proibido virar à direita |
 | proibido virar à esquerda |
-| proibido retornar |
+| rua sem saída |
+| sentido proibido |
+| sentido único |
+| semáforo |
+| siga em frente |
+| sinal de pare |
 
 ## Exemplos
 

@@ -3,29 +3,28 @@
 ## Característica / Personalidade
 
 * VERBO SER + ADJETIVO
-* Eu sou preguiçoso
+* Ex.: Eu sou preguiçoso
 
 ## Hábito
 
 * VERBO TER + NOME (SUBSTANTIVO)
-* Sempre que viajo tenho preguiça de fazer as malas
+* Ex.: Sempre que viajo tenho preguiça de fazer as malas
 
   | Nome |
   | -- |
-  | o sono |
-  | a preguiça |
-  | a fome / a sede |
-  | o frio / o calor |
-  | o medo |
-  | a pressa |
-  | a raiva |
-  | a dor (de) |
+  | dor (de) f. |
+  | fome f. / sede f. |
+  | frio m. / calor m. |
+  | medo m. |
+  | preguiça f. |
+  | pressa f. |
+  | raiva f. |
+  | sono m. |
 
 ## Estado presente e provisório
 
 * VERBO ESTAR + COM + NOME
-* Agora eu **estou com preguiça** de fazer as malas
+* Ex.: Agora eu **estou com preguiça** de fazer as malas
 
 * VERBO ESTAR + COM VONTADE DE + VERBO NO INFINITIVO
-* **Estou com vontade de comer**, mas não **estou com vontade de cozinhar** nada
-
+* Ex.: **Estou com vontade de comer**, mas não **estou com vontade de cozinhar** nada

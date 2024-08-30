@@ -12,9 +12,9 @@ Claro, Tudo bem e Pois não
 
 ## Outras
 
+* Pode me ajudar?
+* Pode me dar uma informação?
+* Pode repetir?
 * Por favor
 * Posso [passar | falar com você | tirar uma foto] ?
-* Pode me ajudar?
-* Pode repetir?
-* Pode me dar uma informação?
 * Sinto muito!

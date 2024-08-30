@@ -1,15 +1,15 @@
 # As Profissões
 
-* analista de sistemas
 * açougueiro
 * administrador
 * advogado
 * aeromoça
 * agente de viagens
+* agricultor
+* analista de sistemas
 * apresentador
 * arquiteto
-* agricultor
-* atesão / artesã
+* artesão / artesã
 * artista
 * atendente de sorveteria
 * atendimento ao cliente
@@ -21,8 +21,8 @@
 * babá
 * balconista = atendedor
 * bancário
-* bombeiro
 * benzedeira (curandera)
+* bombeiro
 
 ---
 
@@ -32,17 +32,17 @@
 * caminhoneiro
 * cantor
 * carpinteiro
+* chefe de cozinha
 * cientista
 * cirurgião / cirurgiã
 * cobrador de ônibus
 * confeiteiro
+* conselheiro de privacidade
+* conselheiro de produtividade
+* contador
 * comissário de bordo
 * costureiro
 * cozinheiro
-* contador
-* chefe de cozinha
-* conselheiro de privacidade
-* conselheiro de produtividade
 
 ---
 
@@ -58,11 +58,11 @@
 * eletricista
 * empresário
 * encanador (plomero)
-* especulador de moedas virtuais
+* enfermeiro
 * engenheiro
 * engenheiro de migração animal
-* enfermeiro
 * engraxate (lustre de zapatos)
+* especulador de moedas virtuais
 * esportista
 * estudante
 * executivo
@@ -70,10 +70,10 @@
 ---
 
 * faxineiro (limpieza)
+* ferreiro (herrero)
 * flanelinha (trapito)
 * fornecedor (proveedor)
 * freira (monja)
-* ferreiro (herrero)
 
 ---
 
@@ -96,9 +96,9 @@
 
 * jardineiro
 * jogador
+* jornaleiro (diariero)
 * jornalista (periodista)
 * juiz
-* jornaleiro (diariero)
 
 ---
 
@@ -125,15 +125,15 @@
 * panificador / padeiro (panadero)
 * passadeira (planchadora)
 * pedreiro (albañil)
+* pesquisador (investigador)
 * pintor
 * policia
-* pesquisador (investigador)
 * político
+* porteiro (portero)
 * prefeito (intendente)
 * professor
 * programador
 * psicólogo
-* porteiro (portero)
 
 ---
 
@@ -148,22 +148,22 @@
 
 * salva vida / banhista
 * secretário
+* segurança (seguridad)
 * serralheiro (cerrajero)
 * síndico (encargado)
-* segurança (seguridad)
 
 ---
 
 * taxista
 * telefonista
-* tradutor
 * terapeuta de desintoxicação tecnológica
+* tradutor
 
 ---
 
 * vendedor
-* vidraceiro (vidriero)
 * veterinário
+* vidraceiro (vidriero)
 
 ---
 

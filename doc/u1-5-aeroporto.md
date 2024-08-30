@@ -2,25 +2,25 @@
 
 ||
 | -- |
-| viajar |
-| a viagem |
-| o voo |
-| a bagagem (equipaje) |
-| a mala |
-| a chegada |
-| a saída |
-| o corredor (pasillo) |
-| a alfândega (aduana) |
-| a partida |
-| o destino |
-| a entrada |
-| primeira classe |
-| a porta |
-| a imigração |
-| o passaporte |
-| os banheiros |
+| alfândega f. (aduana) |
+| bagagem f. (equipaje) |
+| banheiro m. |
+| chegada f. |
 | chegar |
+| corredor m. (pasillo) |
+| destino m. |
+| entrada f. |
+| imigração f. |
+| mala f. |
+| partida f. |
 | partir |
+| passaporte m. |
+| porta f. |
+| primeira classe f. |
+| saída f. |
+| viagem f. |
+| viajar |
+| voo m. |
 
 ## Exemplos
 

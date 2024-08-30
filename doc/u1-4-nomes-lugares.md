@@ -110,20 +110,30 @@
 
 ## Os acidentes geográficos
 
-* vale
-* praia
-* deserto
-* montanha / monte
-* serra
-* ilha / ilhotas
-* campo
-* vulcão
-* lago / lagoa
-* cataratas / cachoeiras
-* dunas
-* arquipélago
-* rio / mar / oceano / riacho
-* reserva marinha
-* selva / floresta
-* cordilheira
-* pantanal
+||
+| -- |
+| arquipélago |
+| cachoeiras |
+| campo |
+| cataratas |
+| cordilheira |
+| deserto |
+| dunas |
+| floresta |
+| ilha |
+| ilhotas |
+| lago |
+| lagoa |
+| mar |
+| montanha |
+| monte |
+| oceano |
+| pantanal |
+| praia |
+| reserva marinha |
+| riacho |
+| rio |
+| selva |
+| serra |
+| vale |
+| vulcão |

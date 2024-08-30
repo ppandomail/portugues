@@ -2,91 +2,97 @@
 
 | Lugares |
 | -- |
-| academia (gym) |
-| clube |
-| o açougue / casa de carne |
-| peixaria |
-| hortifruti |
-| quitanda (verduleria) |
-| a padaria / pães e doces |
-| delícias a quilo |
+| academia f. (gym) |
+| açougue m.  / casa de carne f. |
+| aeroporto m. |
+| agência de correios f. |
+| agência de viagens f. |
 | antiquário |
-| joalheria (joyeria) |
 | armazém (almacén) |
-| loja de conveniência |
-| mercado |
-| supermercado |
 | banca de jornal |
+| banco m. |
 | bar |
-| a confeitaria |
-| o restaurante |
-| a lanchonete |
-| a pizzaria |
-| a sorveteria |
-| a biblioteca |
-| livraria / papelaria |
-| o cabeleireiro |
-| perfumaria |
-| floricultura |
-| feiras artesanais |
+| biblioteca f. |
+| borracharia f. |
+| cabeleireiro m. |
 | centro cultural |
-| museu |
-| jardim zoológico |
-| jardim botânico |
-| danceteria |
+| cemitério m. |
 | cinema |
-| teatro |
+| clube m. |
+| confeitaria f. |
+| correio m. |
 | creche (guarderia) |
-| a escola |
-| o banco |
-| p correio |
-| a empresa |
-| a lavanderia / o lava-rápido |
-| loja de ferragens |
-| loja de brinquedos |
-| loja de roupas |
-| sapataria |
-| loja de móveis |
-| ótica |
+| danceteria |
+| delegacia de policia f.  |
+| delícias a quilo |
 | drogaria |
-| a farmácia |
-| o hospital |
-| a igreja |
-| o cemitério |
-| o hotel |
-| a pousada |
-| o posto de gasolina |
-| a borracharia |
-| a oficina mecânica |
-| a prefeitura |
-| a delegacia de policia |
-| a penitenciária / o presídio |
-| a prisão (prisión) |
+| empresa f. |
+| escola f. |
+| farmácia f. |
+| feiras artesanais |
+| floricultura |
+| hortifruti |
+| hospital m. |
+| hotel m. |
+| igreja f. |
+| jardim botânico |
+| jardim zoológico |
+| joalheria (joyeria) |
+| lanchonete f. |
+| lavanderia f. / lava-rápido m. |
+| livraria / papelaria |
+| loja de brinquedos f. |
+| loja de conveniência f. |
+| loja de ferragens f. |
+| loja de móveis f. |
+| loja de roupas f. |
+| loja de sapatos f. |
+| mercado m. |
+| museu m. |
+| oficina mecânica f. |
+| ótica f. |
+| padaria f. / pães e doces |
+| peixaria f. |
+| penitenciária f. / o presídio m. |
+| perfumaria f. |
+| pizzaria f. |
+| posto de gasolina m.  |
+| pousada f. |
+| prefeitura f. |
+| prisão f. (prisión) |
+| quitanda (verduleria) |
+| restaurante m. |
+| sapataria f. |
+| shopping m. |
+| sorveteria f. |
+| supermercado m. |
+| teatro m. |
+| universidade f. |
 
 | Espaços públicos |
 | -- |
-| a avenida |
-| a rodoviária |
-| beira mar |
-| a calçada |
-| o calçadão |
-| a esquina |
-| a ilha |
-| o parque |
-| a passarela |
-| praça |
-| a ponte |
-| o ponto de ônibus |
-| a praia |
-| a quadra |
-| a quarteirão |
-| a rua |
-| o semáforo |
-| o sinal |
-| a sinaleira |
-| a vaga |
-| o viaduto (puente sin agua) |
-| a zona azul |
+| avenida f. |
+| beira mar f. |
+| calçada f. |
+| calçadão  m. (senda peatonal) |
+| esquina f. |
+| ilha f. |
+| parque m. |
+| passarela f. |
+| praça f. |
+| praia f. |
+| ponte f. |
+| ponto de ônibus m. |
+| quadra f. |
+| quarteirão f. |
+| rodoviária f. |
+| rua f. |
+| semáforo m. |
+| sinal  m. |
+| sinaleira f. |
+| vaga f.  |
+| viaduto (puente sin agua) m. |
+| zona azul f. |
 
 ## Pergunta
 

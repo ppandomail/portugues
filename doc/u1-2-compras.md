@@ -2,22 +2,22 @@
 
 ||
 | -- |
-| a loja (tienda) |
-| a seção de senhoras / senhores / jovens / crianças |
-| o provador |
-| a escada rolante |
 | caro / barato |
-| o orçamento |
+| escada rolante f. |
+| loja f. (tienda) |
+| orçamento m. |
+| provador m. |
+| seção de senhoras / senhores / jovens / crianças f. |
 
 | Moeda brasileira: o real |
 | -- |
-| moeda |
-| nota (billete) |
+| moeda f. |
+| nota f. (billete) |
 | centavos / real / reais |
 
 | Pagamentos |
 | -- |
-| Em dinheiro / à vista |
+| em dinheiro / à vista |
 | cheque |
 | cartão de crédito |
 | a prazo em x vezes / prestações / parcelas |

@@ -1,10 +1,12 @@
 # Ao telefone
 
-* ligar/telefonar
-* discar
-* a lista telefónica
-* soar
-* número de telefone
+||
+||
+| discar |
+| ligar/telefonar |
+| lista telefónica f. |
+| número de telefone m. |
+| soar |
 
 ---
 

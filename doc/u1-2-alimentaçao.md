@@ -7,144 +7,144 @@
 
 | Vegetais |
 | -- |
-| a abóbora (zapallo) |
-| a abobrinha (zapallito) |
-| a alcachofra (alcaucil) |
-| a azeitona |
-| a batata (papa) |
-| a batata doce (batata) |
-| a berinjela |
-| a beterraba (remolacha) |
-| a cebola |
-| a cenoura |
-| a couve-flor |
-| a ervilha (arveja) |
-| a lentilha (lenteja) |
-| a mandioca |
-| a rúcula |
-| a vagem (chaucha) |
-| o agrião (berro) |
-| o aipo |
-| o alface |
-| o alho-poró |
-| o arroz |
-| o aspargo (espárrago) |
-| o brócolis |
-| o cogumelo (champignon) |
-| o espinafre (espinaca) |
-| o feijão (poroto) |
-| o funcho (hinojo) |
-| o gengibre |
-| o grão de bico |
-| o milho |
-| o palmito |
-| o pepino |
-| o pimentão (morrón) |
-| o rabanete |
-| o repolho |
-| o tomate |
+| abóbora f. (zapallo) |
+| abobrinha f. (zapallito) |
+| agrião m. (berro) |
+| aipo m. |
+| alcachofra f. (alcaucil) |
+| alface m. |
+| alho-poró m. |
+| arroz m. |
+| aspargo (espárrago) m. |
+| azeitona f. |
+| batata (papa) f. |
+| batata doce f. (batata) |
+| berinjela f. |
+| beterraba f. (remolacha) |
+| brócolis m. |
+| cebola f. |
+| cenoura f. |
+| cogumelo (champignon) m. |
+| couve-flor f. |
+| ervilha f. (arveja) |
+| espinafre (espinaca) m. |
+| feijão (poroto) m. |
+| funcho (hinojo) m. |
+| gengibre m.  |
+| grão de bico m. |
+| lentilha f. (lenteja) |
+| mandioca f. |
+| milho m. |
+| palmito m. |
+| pepino m. |
+| pimentão m. (morrón) |
+| rabanete m. |
+| repolho m. |
+| rúcula f. |
+| tomate m.|
+| vagem f. (chaucha) |
 
 | Proteínas animais |
 | -- |
-| o atum |
-| o bacon |
-| o camarão |
-| o filé bovino |
-| o frango |
-| o kani |
-| o ovo cozido |
-| o peru |
-| o presunto |
-| o salame |
-| o salmão |
-| a sardinha |
-| o siri |
+| atum m. |
+| bacon m. |
+| camarão m. |
+| filé bovino m. |
+| frango m. |
+| kani m. |
+| ovo cozido m. |
+| peru m. |
+| presunto m. |
+| salame m. |
+| salmão m. |
+| sardinha m. |
+| siri m. |
 
 | Frutas |
 | -- |
-| a ameixa (ciruela) |
-| a amora (mora) |
-| a banana |
-| a cana de açúcar |
-| a cereja |
-| a goiabada (membrillo) |
-| a laranja |
-| a lima |
-| a maçã |
-| a mamão (papaya) |
-| a manga |
-| a maracujá |
-| a melancia (sandia) |
-| a pêra |
-| a tangerina |
-| a toranja (pomelo) |
-| a uva |
-| o abacate (palta) |
-| o abacaxi |
-| o açaí |
-| o coco |
-| o figo |
-| o kiwi |
-| o limão (é azedo) |
-| o melão (melón) |
-| o morango |
-| o pêssego |
+| abacate m. (palta) |
+| abacaxi m. |
+| açaí m. |
+| ameixa (ciruela) f. |
+| amora (mora) f. |
+| banana f. |
+| cana de açúcar f. |
+| cereja f. |
+| coco m. |
+| figo m. |
+| goiabada f. (membrillo) |
+| kiwi m. |
+| laranja f. |
+| lima f. |
+| limão m. (é azedo) |
+| maçã f. |
+| mamão f. (papaya) |
+| manga f. |
+| maracujá f. |
+| melancia f. (sandia) |
+| melão m. (melón) |
+| morango m. |
+| pêra f. |
+| pêssego m. |
+| tangerina f.  |
+| toranja f. (pomelo) |
+| uva f. |
 
 | Frutas secas |
 | -- |
-| a amêndoa |
-| a avelã |
-| a castanha |
-| a noz |
-| o amendoim (maní) |
-| o pistache |
+| amêndoa f. |
+| amendoim (maní) m. |
+| avelã f. |
+| castanha f. |
+| noz f. |
+| pistache m. |
 
 | Ervas aromáticas |
 | -- |
-| a alecrim (romero) |
-| a cebolinha (verdeo) |
-| a hortelã (menta) |
-| a salsa ou cheiro verde (perejil) |
-| o alho-poró (puerro) |
-| o manjerição (albahaca) |
-| o orégão |
-| o salsão (apio) |
-| a camomila (manzanilla) |
-| o louro (laurel) |
+| alecrim f. (romero) |
+| alho-poró m. (puerro) |
+| camomila f. (manzanilla) |
+| cebolinha f. (verdeo) |
+| hortelã f. (menta) |
+| louro m. (laurel) |
+| manjerição m. (albahaca) |
+| orégão m. |
+| salsa f. ou cheiro verde m. (perejil) |
+| salsão m. (apio) |
 
 | Especiarias |
 | -- |
-| o anis-estrelado (anis) |
-| a baunilha (vainilla) |
-| a canela |
-| o cardamomo |
-| o cravo |
-| o noz moscada |
+| anis-estrelado m. (anis) |
+| baunilha f. (vainilla) |
+| canela f. |
+| cardamomo m. |
+| cravo m. |
+| noz moscada m. |
 
 | Temperos |
 | -- |
-| a mostarda (mostaza) |
-| a salsa mionese |
-| a pimenta (pimienta) |
-| a pimenta calabresa (ají  molido). É ardida (picante) |
-| a páprica (pimentón) |
-| o açafrão |
-| o azeite |
-| o sal |
-| o vinagre |
-| o cominho |
+| açafrão m. |
+| azeite m. |
+| cominho m. |
+| mostarda f. (mostaza) |
+| páprica f. (pimentón) |
+| pimenta f. (pimienta) |
+| pimenta calabresa f. (ají  molido). É ardida (picante) |
+| sal m. |
+| salsa mionese f. |
+| vinagre m. |
 
 | Produtos lácteos |
 | -- |
-| o queijo |
-| o iogurte |
-| a manteiga |
-| o leite |
-| o creme de leite |
+| creme de leite m. |
+| iogurte m. |
+| leite m. |
+| manteiga f. |
+| queijo m. |
 
 | Outros produtos |
 | -- |
-| os ovos |
-| o pão |
-| o peixe |
-| os mariscos |
+| mariscos m. |
+| ovos m. |
+| pão m. |
+| peixe m. |

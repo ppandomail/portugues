@@ -12,7 +12,7 @@
 
 ## Formas de tratamento
 
-* vossa Alteza | Santidade | Senhoria
+* Vossa Alteza | Santidade | Senhoria
 * doutor/a (é um tratamento para profissionais de **medicina**, **direito** e **doutorados**)
 * seu (don) : - Bom dia, seu Jorge
 * dona (doña) : - Bom dia, dona Isabel

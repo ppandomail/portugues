@@ -2,27 +2,27 @@
 
 ## Palavras FEMININAS
 
-* a árvore
-* a ponte
-* a cor
-* a equipe
-* a dor
-* a água
-* a alma
-* a análise
-* a arte
-* a aula
-* a estreia (estreno)
-* a faca
-* a fraude
-* a fumaça (humo)
-* a insônia (insomnio)
-* a maratona
-* a testamunha (testigo)
-* a valsa (vals)
-* a ordem
-* a desordem
-* a elefante
+* água
+* alma
+* análise
+* arte
+* árvore
+* aula
+* cor
+* desordem
+* dor
+* elefante
+* equipe
+* estreia (estreno)
+* faca
+* fraude
+* fumaça (humo)
+* insônia (insomnio)
+* maratona
+* ordem
+* ponte
+* testamunha (testigo)
+* valsa (vals)
 
 ---
 
@@ -30,39 +30,39 @@
 
 | -GEM / -GENS |
 | -- |
-| a coragem |
-| a mensagem |
-| a origem |
-| a linguagem |
-| a viagem |
-| a passagem |
-| a bagagem |
+| bagagem |
+| coragem |
+| linguagem |
+| mensagem |
+| origem |
+| passagem |
+| viagem |
 
 ---
 
 ## Palavras MASCULINAS
 
-* o sangue
-* o sal
-* os legumes
-* o nariz
-* o leite
-* o creme
-* o alarme
-* o biquine
-* o computador
-* o costume
-* o joelho
-* o liquidificador
-* o mel
-* o paradoxo (paradoja)
-* o pesadelo (pesadilla)
-* o protesto
-* o rádio
-* o riso
-* o sambas
-* o sinal
-* o sorriso
+* alarme
+* biquine
+* computador
+* costume
+* creme
+* joelho
+* legumes
+* leite
+* liquidificador
+* nariz
+* mel
+* paradoxo (paradoja)
+* pesadelo (pesadilla)
+* protesto
+* rádio
+* riso
+* sal
+* sambas
+* sangue
+* sinal
+* sorriso
 
 ## Exemplos
 

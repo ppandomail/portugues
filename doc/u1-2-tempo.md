@@ -1,7 +1,7 @@
 # Tempo
 
 |||
-|||
+| -- | -- |
 | no ano/mês **retrasado** foi ...       | (atual-2) |
 | no ano/mês **passado** foi ...         | (atual-1) |
 | no ano/mês **que vem** será ...        | (atual+n) |

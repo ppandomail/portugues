@@ -48,7 +48,7 @@ muitos anos de vida
 
 ## Datas festivas
 
-* Aniversário
-* Batismo
-* Casamento
-* Formatura
+* aniversário
+* batismo
+* casamento
+* formatura

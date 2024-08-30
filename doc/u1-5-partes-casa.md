@@ -2,20 +2,20 @@
 
 | Partes da casa |
 | -- |
-| a sala de estar |
-| a sala de jantar |
-| a cozinha |
-| o banheiro |
-| o quarto / dormitório / quarto do casal |
-| o jardim (adelante) |
-| o quintal (atrás) |
-| a garagem |
-| a varanda / sacada (balcón) |
-| o sotão / porão |
-| o corredor (pasillo) |
-| o escritório (oficina) |
-| o terraço |
-| a área de serviço |
+| sala de estar f. |
+| sala de jantar f. |
+| cozinha f. |
+| banheiro m. |
+| quarto m. / dormitório m. / quarto do casal m. |
+| jardim m. (adelante) |
+| quintal m. (atrás) |
+| garagem f. |
+| varanda f. / sacada f. (balcón) |
+| sotão m. / porão m. |
+| corredor m. (pasillo) |
+| escritório m. (oficina) |
+| terraço m. |
+| área de serviço f. |
 
 | Áreas comuns de um condomínio |
 | -- |
@@ -28,162 +28,162 @@
 
 | Sala de estar |
 | -- |
-| a televisão |
-| o quadro |
-| o sofá |
-| a poltrona (sillon) |
-| a vitrine (vidriera) |
-| o enfeite (adorno) |
-| o bufê (aparador) |
-| a prateleira (repisa) |
-| o controle remoto |
-| o aparelho de som |
-| o ar-condicionado |
-| o aquecedor (estufa) |
+| televisão f. |
+| quadro m. |
+| sofá m. |
+| poltrona f. (sillon) |
+| vitrine f. (vidriera) |
+| enfeite m. (adorno) |
+| bufê m. (aparador) |
+| prateleira f. (repisa) |
+| controle remoto m. |
+| aparelho de som m. |
+| ar-condicionado m. |
+| aquecedor m. (estufa) |
 
 | Sala de jantar |
 | -- |
-| a mesa |
-| a cadeira |
-| o aparador |
+| aparador m. |
+| cadeira f. |
+| mesa f. |
 
 | Escritório |
 | -- |
-| a escrivaninha (mesa de escritorio) |
-| a cadeira ergonômica |
-| o computador |
-| a impressora |
-| o telefone |
-| o armário de arquivos |
-| a gaveta (cajón) |
-| o carimbo (sello) |
+| armário de arquivos m. |
+| cadeira ergonômica f. |
+| carimbo m. (sello) |
+| computador m. |
+| escrivaninha f. (mesa de escritorio) |
+| gaveta f. (cajón) |
+| impressora f. |
+| telefone m. |
 
 | Cozinha |
 | -- |
-| o armário |
-| a geladeira |
-| o fogão (cocina) |
-| as bocas (hornallas) |
-| o forno |
-| a máquina de lavar louça |
-| a cefeteira (cafetera eléctrica) |
-| o liquidificador (licuadora) |
-| o amassador (máquina de amasar) |
-| o batedor (batidora) |
-| os talheres (cubiertos) |
-| o garfo |
-| a faca (cuchillo) |
-| a colher |
-| o copo (vaso) |
-| a taça (copa) |
-| a xícara (taza) |
-| o prato fundo/raso/sobremesa |
-| a panela (cacerola) |
-| a bule (tetera, cafetera) |
-| a caneca (jarrito) |
-| a chaleira (pava) |
-| o saca-rolhas (saca corchos) |
-| o coador |
-| o canudo (pajita) |
-| o gás encanado (entubado) |
-| o bujão (garrafa) |
-| a tábua (tabla) |
-| o espremedor |
-| o guardanapo (servilleta) |
-| a toalha de mesa (mantel) |
-| o ralador |
-| o descascador (pela papas) |
-| o socador (mortero) |
-| o chimarrão (mate) |
-| a concha (cucharon) |
-| a espátula |
-| a espumadeira |
-| a frigideira (sartén) |
-| a garrafa |
-| a garrafa térmica (termo) |
-| a tampa (tapa) |
-| a leiteira (lechera) |
-| a manteigueira |
-| o açucareiro |
-| a marmita (tuper) |
-| a tigela (bols) / pires |
+| armário m. |
+| geladeira f. |
+| fogão m. (cocina) |
+| bocas f. (hornallas) |
+| forno m. |
+| máquina de lavar louça f. |
+| cefeteira f. (cafetera eléctrica) |
+| liquidificador m. (licuadora) |
+| amassador m. (máquina de amasar) |
+| batedor m. (batidora) |
+| talheres m. (cubiertos) |
+| garfo m. |
+| faca f. (cuchillo) |
+| colher f. |
+| copo m. (vaso) |
+| taça f. (copa) |
+| xícara f. (taza) |
+| prato fundo/raso/sobremesa m. |
+| panela f. (cacerola) |
+| bule f. (tetera, cafetera) |
+| caneca f. (jarrito) |
+| chaleira f. (pava) |
+| saca-rolhas m. (saca corchos) |
+| coador m. |
+| canudo m. (pajita) |
+| gás encanado m. (entubado) |
+| bujão m. (garrafa) |
+| tábua f. (tabla) |
+| espremedor m. |
+| guardanapo m. (servilleta) |
+| toalha de mesa f. (mantel) |
+| ralador m. |
+| o descascador m. (pela papas) |
+| socador m. (mortero) |
+| chimarrão m. (mate) |
+| concha f. (cucharon) |
+| espátula f. |
+| espumadeira f. |
+| frigideira f. (sartén) |
+| garrafa f. |
+| garrafa térmica f. (termo) |
+| tampa f. (tapa) |
+| leiteira f. (lechera) |
+| manteigueira f. |
+| açucareiro m. |
+| marmita f. (tuper) |
+| tigela f. (bols) / pires f. |
 
 | Quarto |
 | -- |
-| a cama |
-| o benço (cuna) |
-| o lençol (śabana) |
-| a colcha |
-| o cobertor (cubrecama) |
-| o edredon |
-| o travesseiro (almohada) |
-| a fronha (funda) |
-| o colchão |
-| a cômoda |
-| o criado mudo (mesa de luz) |
-| o abajur (lámpara mesa de luz) |
-| o tapete (alfombra) |
-| o guarda-roupa |
-| a sapateira |
-| o relógio |
-| o cabide (percha) |
-| o frigobar |
-| a bolsa de água quente |
-| o beliche (cucheta) |
+| cama f. |
+| benço m. (cuna) |
+| lençol m. (śabana) |
+| colcha f. |
+| cobertor m. (cubrecama) |
+| edredon m. |
+| travesseiro m. (almohada) |
+| fronha f. (funda) |
+| colchão m. |
+| cômoda f. |
+| criado mudo m. (mesa de luz) |
+| abajur m. (lámpara mesa de luz) |
+| tapete m. (alfombra) |
+| guarda-roupa m. |
+| sapateira f. |
+| relógio m. |
+| cabide m. (percha) |
+| frigobar m. |
+| bolsa de água quente f. |
+| beliche m. (cucheta) |
 
 | Banheiro |
 | -- |
-| o espelho |
-| a pia (pileta) |
-| a torneira (canilla) |
-| o vaso sanitário |
-| o papel higiênico |
-| o chuveiro |
-| a banheira |
-| as toalhas (de banho, de rosto) |
-| o sabonete |
-| o creme dental |
-| a escova de dentes |
-| a lâmina de barbear |
+| espelho m. |
+| pia f. (pileta) |
+| torneira f. (canilla) |
+| vaso sanitário m. |
+| papel higiênico m. |
+| chuveiro m. |
+| banheira f. |
+| toalhas f. (de banho, de rosto) |
+| sabonete m. |
+| creme dental m. |
+| escova de dentes f. |
+| lâmina de barbear f. |
 
 | Área de serviço |
 | -- |
-| a máquina de lavar roupa |
-| a secadora |
-| esgoto (cloaca) |
-| os produtos de limpeza |
-| o água sanitária |
-| sabão em pó |
-| a vassoura (escoba) |
-| a pá (pala) |
-| o balde |
-| o esfregão (trapo de piso) |
-| a escova (cepillo) |
-| o espanador (plumero) |
-| o aspirador de pó |
-| a lixeira (cesto de basura) |
-| o rodo (secador) |
-| o ferro (plancha) |
-| o pegador de roupa (broche) |
+| máquina de lavar roupa f. |
+| secadora f. |
+| esgoto (cloaca) m. |
+| produtos de limpeza m. |
+| água sanitária m. |
+| sabão em pó m. |
+| vassoura f. (escoba) |
+| pá (pala) f. |
+| balde m. |
+| esfregão m. (trapo de piso) |
+| escova f. (cepillo) |
+| espanador m. (plumero) |
+| aspirador de pó m. |
+| lixeira f. (cesto de basura) |
+| rodo m. (secador) |
+| ferro m. (plancha) |
+| pegador de roupa m. (broche) |
 
 | Outros |
 | -- |
-| o elevador |
-| a escada (escalera) |
-| o teto |
-| o chão (piso) |
-| o solo (suelo) |
-| a porta |
-| o portão |
-| a maçaneta (picaporte) |
-| a fechadura |
-| a chave |
-| o sino (timbre) |
-| a janela |
-| a cortina |
-| a parede |
-| o vizinho |
-| a tomada (enchufe) |
-| a lâmpada |
-| a luminária (lámpara techo) |
-| o cinzeiro (cenicero) |
+| elevador m. |
+| escada f. (escalera) |
+| teto m. |
+| chão m. (piso) |
+| solo m. (suelo) |
+| porta f. |
+| portão m. |
+| maçaneta f. (picaporte) |
+| fechadura f. |
+| chave f. |
+| sino m. (timbre) |
+| janela f. |
+| cortina f. |
+| parede f. |
+| vizinho m. |
+| tomada f. (enchufe) |
+| lâmpada f. |
+| luminária f. (lámpara techo) |
+| cinzeiro m. (cenicero) |

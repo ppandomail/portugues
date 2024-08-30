@@ -1,21 +1,21 @@
 # Formação de plural
 
 * Geral: + "s" ao singular. Terminados em vogal
-  * pessoa -> pessoa**s**
+  * amiga -> amiga**s**
   * casa -> cassa**s**
   * degrau -> degrau**s**
-  * amiga -> amiga**s**
+  * pessoa -> pessoa**s**
 
 * -M -> -NS
-  * homem -> home**ns**
-  * bom -> bo**ns**
   * álbum -> álbu**ns**
+  * bom -> bo**ns**
+  * homem -> home**ns**
   * viagem -> viage**ns**
 
 * -R/-Z -> -ES
-  * menor -> menor**es**
   * amor -> amor**es**
   * cartaz -> cartaz**es**
+  * menor -> menor**es**
   * rapaz -> rapaz**es**
   * vez -> vez**es**
 
@@ -25,9 +25,9 @@
 
 * -S -> = (última átona)
   * lápis -> lápis
-  * simples -> simples
   * ônibus -> ônibus
-
+  * simples -> simples
+  
 * -AL/-EL/-OL/-UL -> -IS
   * social -> socia**is**
   * papel -> pape**is**
@@ -39,8 +39,8 @@
   * gentil -> genti**s**
 
 * -IL -> -EIS (átono)
-  * fácil -> fác**eis**
   * difícil -> difíc**eis**
+  * fácil -> fác**eis**
   * réptil -> répt**eis**
 
 * -ÃO -> ÃOS/-ÃES/-ÕES
@@ -50,5 +50,5 @@
 
 * -X -> =
   * fax -> fax
-  * tórax -> tórax
   * fénix -> fénix
+  * tórax -> tórax
