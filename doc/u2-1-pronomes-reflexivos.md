@@ -1,4 +1,4 @@
-# Pronomes oblíquos
+# Pronomes reflexivos
 
 | | Oblíquos átonos (sem preposição) | Oblíquos tônicos (com preposição) |
 | -- | -- | -- |

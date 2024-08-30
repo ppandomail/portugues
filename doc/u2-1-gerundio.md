@@ -13,31 +13,31 @@
 
   | -AR | Gerúndio |
   | -- | -- |
-  | cantar    | **cantando**   |
-  | praticar  | **praticando** |
-  | cozinhar  | **cozinhando** |
-  | ensinar   | **ensinando**  |
   | brincar   | **brincando**  |
+  | cantar    | **cantando**   |
+  | cozinhar  | **cozinhando** |
   | costurar  | **costurando** |
-
+  | ensinar   | **ensinando**  |
+  | praticar  | **praticando** |
+  
   | -ER | Gerúndio |
   | -- | -- |
   | comer | **comendo** |
-  | ver   | **vendo**   |
-  | ler   | **lendo**   |
   | fazer | **fazendo** |
+  | ler   | **lendo**   |
   | poder | **podendo** |
+  | ver   | **vendo**   |
 
   | -IR | Gerúndio |
   | -- | -- |
   | abrir    | **abrindo**    |
-  | dormir   | **dormindo**   |
-  | produzir | **produzindo** |
-  | ir       | **indo**       |
-  | dirigir  | **dirigindo**  |
-  | vir      | **vindo**      |
   | assistir | **assistindo** |
-
+  | dirigir  | **dirigindo**  |
+  | dormir   | **dormindo**   |
+  | ir       | **indo**       |
+  | produzir | **produzindo** |
+  | vir      | **vindo**      |
+  
   | -OR | Gerúndio |
   | -- | -- |
   | compôr | **compondo** |
@@ -46,5 +46,6 @@
 
 ## Exemplos
 
+* O que está **acontecendo**?
 * O que você está **fazendo**?
 * Enquanto os brasileiros estão **almoçando**, os japoneses estão **dormindo**

@@ -1,4 +1,4 @@
-# Graus do adjetivo
+# Grau comparativo
 
 | Comparativo | Exemplo |
 | -- | -- |

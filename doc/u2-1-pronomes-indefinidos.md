@@ -35,7 +35,7 @@
 
 ## Tudo vs Todo
 
-* **TUDO**: uso mais geral (é netro e seu contrario é **nada**)
+* **TUDO**: uso mais geral (é neutro e seu contrario é **nada**)
 
 * Não **tudo** o que ele diz é certo
 * **Tudo** foi em vão
