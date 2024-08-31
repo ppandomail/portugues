@@ -2,20 +2,20 @@
 
 | Singular | Plural |
 | -- | -- |
-| eu        | nós |
-| você      | vocês |
-| ele       | eles |
-| ela       | elas |
-| o senhor  | os senhores |
-| a senhora | as senhoras |
-| a gente   | |
+| **eu**        | **nós** |
+| **você**      | **vocês** |
+| **ele**       | **eles** |
+| **ela**       | **elas** |
+| **o senhor**  | **os senhores** |
+| **a senhora** | **as senhoras** |
+| **a gente**   | |
 
-## Formas de tratamento
-
-* Vossa Alteza | Santidade | Senhoria
-* doutor/a (é um tratamento para profissionais de **medicina**, **direito** e **doutorados**)
-* seu (don) : - Bom dia, seu Jorge
-* dona (doña) : - Bom dia, dona Isabel
+| Formas de tratamento | Exemplo |
+| -- | -- |
+| **Doutor/a**                                         | **Dr. Alceu, o senhor** pode me ajudar? |
+| **Seu** (don) / **Dona** (doña)                      | **Dona Maria, a senhora** pode me ajudar? |
+| **Padre**                                            | **Padre Bento, o senhor** pode me ajudar? |
+| **Vossa Alteza / Santidade / Senhoria / Excelência** | **Sr. Presidente, Vossa Excelência** poderia ajudar-me? |
 
 ## Diálogo
 

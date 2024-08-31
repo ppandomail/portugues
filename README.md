@@ -16,12 +16,14 @@
 | [Profissões](doc/u1-1-profissoes.md) |
 | [Estado civil](doc/u1-1-estado-civil.md) |
 | [Verbo SER - Presento do Indicativo](doc/u1-1-verbo-ser.md) |
+| [Informações pessoais](doc/u1-1-informaçoes-pessoais.md)|
 | [Alfabeto](doc/u1-1-alfabeto.md) |
 | [Regras de acentuação](doc/u1-1-regras-acentuaçao.md) |
 | [Artigos definidos](doc/u1-1-artigos-definidos.md) |
 | [Artigos indefinidos](doc/u1-1-artigos-indefinidos.md) |
 | [Contrações](doc/u1-1-contraçoes.md) |
 | [Preposiçoes](doc/u1-1-preposiçoes.md) |
+| [Expressões](doc/u1-1-expressoes.md) |
 
 | Unidade 2 - CONSUMO |
 | -- |

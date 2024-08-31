@@ -2,31 +2,31 @@
 
 | Termina com ... | Pronúncia | Exemplo |
 | -- | -- | -- |
-| **-O/-OS**    | /U/ /US/     | tudo /tudu/ |
-| **-E/-ES**    | /I/ /IS/     | eles /elis/ |
-| **-DE**       | /DHY/        | tarde /tardhy |
-| **-TE**       | /TCHI/       | noite /noitchy/ |
-| **-EM**       | /EIN/        | bem /bein/ |
-| **-ÃO/-AM**   | /AUN/        | união /uniaun/ |
-| **-ÕE/-ÕES**  | /OIN/ /OINS/ | põe /poin/ |
-| **-ÃE/-ÃES**  | /AIN/ /AINS/ | mamãe /mamain/ |
-| **-Lcons/-L** | /U/          | alma /auma/ |
+| **-o/-os**     | /u/ /us/     | tudo /tudu/ |
+| **-e/-es**     | /i/ /is/     | eles /elis/ |
+| **-de**        | /dhy/        | tarde /tardhy |
+| **-te**        | /tchi/       | noite /noitchy/ |
+| **-em**        | /ein/        | bem /bein/ |
+| **-ão/-am**    | /aun/        | união /uniaun/ |
+| **-õe/-ões**   | /oin/ /oins/ | põe /poin/ |
+| **-ãe/-ães**   | /ain/ /ains/ | mamãe /mamain/ |
+| **-l+cons/-l** | /u/          | alma /auma/ |
 
 ---
 
 | Fonética do ... | Pronúncia | Exemplo |
 | -- | -- | -- |
-| **DI**    | /DHY/  | dia /dhya/ |
-| **TI**    | /TCHI/ | titia /tchitchia/|
-| **OM/ON** | /OUN/  | com /coun/  |
-| **UL**    | /UU/   | azul /azuu/ |
-| **CH**    | /SH/   | chuva /shuva/ |
-| **NH**    | /Ñ/    | minha /miña/ |
-| **LH**    | /LL/   | trabalho /traballu/ |
+| **di**    | /dhy/  | dia /dhya/ |
+| **ti**    | /tchi/ | titia /tchitchia/|
+| **om/on** | /oun/  | com /coun/  |
+| **ul**    | /uu/   | azul /azuu/ |
+| **ch**    | /sh/   | chuva /shuva/ |
+| **nh**    | /ñ/    | minha /miña/ |
+| **lh**    | /ll/   | trabalho /traballu/ |
 
 ---
 
 | Começa com ... | Pronúncia | Exemplo |
 | -- | -- | -- |
-| **EM-/EN-**  (Exc. entrar, entre) | /IN/ | empresa /inpresa/ |
-| **ESconsoante** (Exc. pron demons)| /IS/ | escravos /iscravus/ |
+| **em-/en-**  (Exc. entrar, entre)   | /in/ | empresa /inpresa/ |
+| **es+consoante** (Exc. pron demons) | /is/ | escravos /iscravus/ |

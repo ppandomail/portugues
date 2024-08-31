@@ -20,21 +20,19 @@
 | **sobre** |
 | **trás** |
 
-## Exemplos
-
-### A
+## Exemplos A
 
 * Já está decidido que elas viajarão **a** São Paulo
 * Ela tem que começar **a** acreditar na sorte
 * O cinema fica **a** duas quadras da minha casa
 
-### COM
+## Exemplos COM
 
 * Vou brincar **com** José
 * Queremos viajar **com** vocês
 * **Com** confiança chegaremos longe
 
-### DE
+## Exemplos DE
 
 * O avião veio **de** Buenos Aires
 * Elas gostam **de** usar pulseiras y brincos de ouro
@@ -42,7 +40,7 @@
 * TEMPO - Partes do dia: **De** manhã estou na empresa
 * TEMPO - Datas: Minha estadia aqui será **de** junho a setembro
 
-### EM
+## Exemplos EM
 
 * Gosto muito de morar **em** Manaus
 * As crianças estarão aqui **em** cinco minutos
@@ -55,12 +53,12 @@
 * TEMPO - Anos: Os portugueses chegaram **em** 1500
 * TEMPO - Séculos: A lâmpada elétrica foi inventada **no** século XIX
 
-### PARA
+## Exemplos PARA
 
 * TEMPO - Horas: Faltam cinco minutos **para** as oito
 * TEMPO - Localização: Necesito meu computador **para** esta tarde
 
-### POR
+## Exemplos POR
 
 * Ao chegar foi recebido **por** dois amigos
 * Já procurei **por** aqui e não encontrei nada

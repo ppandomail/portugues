@@ -11,39 +11,65 @@
 
 ## Exemplos
 
+* Este é **meu** pai
 * **Meu** amigo
 * Quero vender **o meu** carro
 * **O meus** cachorros
 * **Meus** telefones são muitos pequenos
+* Estes são **meus** amigos
 
+* Esta é **minha** mãe
 * **A minha** blusa é amarela
 * **Minha** família mora no Brasil
 * **Minhas** sandálias estão sujas
 * **A minhas** garrafas de água estão debaixo da cama
+* Estas são **minhas** amigas
 
+* Este é **o seu** livro de física
 * **Seu** café está forte e tem muito adoçante
 * Já chegaram **os seus** amigos
 * Tratem bem **os seus** amigos
 * **Seus** olhos são verdes
 * **Seus** oculos são verdes e amarelos como as cores da bandeira do Brasil
+* Estes são **os seus** patins
 
+* Esta é **a sua** escola
+* Adorei **sua** mochila
+* Estas são **as suas** novas colegas
+
+* Este é o professor **dele**
+* Estes são os professores **dele**
 * O carro **dele** é preto
-* A casa **dela** é velha
-* O aplicativo informático **dele** tem erros
 * Rita disse a Diogo que não gostou da redação **dele**
+* O aplicativo informático **dele** tem erros
 * A camiseta **dele** é da cor vermelha
+
+* Este é o professor **dela**
+* Estes são os professores **dela**
+* A casa **dela** é velha
 * A barraca **dela** tem a cerveja bem gelada
 
-* Adorei **sua** mochila
-
+* Este é **o nosso** filho
 * **O nosso** país é muito grande
 * **Os nossos** irmãos uruguaios são simpáticos
 * **Nossos** problemas
+* Estes são **os nossos** filhos
+
+* Esta é **a nossa** filha
+* **Nossa**! que frio está fazendo agora
 * **Nossas** alianças já estão prontas
 * **Nossa** tarefa é muito difícil
 * **Nossas** árvores moram debaixo do teto da casa de meu pai
+* Estas são **as nossas** filhas
+
+* Este brinquedo é **de vocês**
+* Estes brinquedos são **de vocês**
+* Esta bola é **de vocês**
+* Estas bolas são **de vocês**
+
+* Este é o avô **deles**
+* Estes são os avós **deles**
 * As flores **delas** estão no jardim
-* **Nossa**! que frio está fazendo agora
 
 ## Outros exemplos
 

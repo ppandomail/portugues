@@ -1,5 +1,122 @@
 # Expressões
 
+## Despedida
+
+||
+| -- |
+| Tchau |
+| A gente se vê |
+| A gente se esbarra por aí (topa) |
+| Até |
+| Até logo |
+| Até mais tarde |
+| Até a próxima |
+| Até amanhã |
+| Até depois |
+| Até sábado |
+| Se cuida |
+| Vai com Deus |
+| Saudações |
+| Se acabou a mamata (se acabó lo que se daba) |
+
+* **Adeus** se usa quando você não quiser ver mais a pessoa ou quando uma pessoa morre, damos um **"Adeus"**
+
+## Desculpas
+
+| Pedido |
+| -- |
+| Com licença! |
+| Desculpe! Não entendi |
+| (Me) desculpas! / perdoa! |
+| Foi sem querer |
+| Foi mal |
+| Perdão (somente usado em situações extremas) |
+| Sinto muito |
+| É minha culpa! |
+| Peço desculpa! Não era minha intenção |
+
+| Como aceitar as desculpas |
+| -- |
+| Tudo bem! |
+| Relaxa! |
+| Não foi nada! |
+| Sem problemas! |
+| Esquenta não! (no te preocupes) |
+| Não faz mal (no pasa nada) |
+| Não tem problema |
+
+## Votos
+
+||
+| -- |
+| Bom fim de semana! |
+| Bom final de semana! |
+| Boa viagem! |
+| Bom apetite! |
+| Boa sorte! |
+| Boas férias! |
+| Com certeza! |
+| Tomara! |
+
+## Condolências (quando alguém morre)
+
+|||
+| -- | -- |
+| **formal**   | Meus pêsames ou Meus sentimentos |
+| **informal** | Que pena! |
+
+## Felicitações (pelo aniversário, conquista, casamento, formatura, nascimento, ...)
+
+||
+| -- |
+| Parabéns! |
+| Meus parabéns! |
+| Felicidades! |
+| Muitas felicidades! |
+| Feliz aniversário! |
+| Feliz Natal! |
+| Feliz Ano Novo! |
+| Feliz Reveillon! |
+| Feliz Páscoas! |
+
+* Mário - Seja bem-vindo ao Brasil João e parabéns pela sua apresentação na reunião!
+* João – Obrigado. Mário, perdão porque cheguei atrasado à reunião
+* Mário- Perdão é uma palavra que usamos para situações graves, aceito uma desculpa (risos)
+* João – No domingo volto à Argentina para passar as festas com a família
+* Mário – Então **Feliz Natal** e um Feliz Reveillón!
+* João – Obrigado e pra você também! Tomara que o **Ano Novo** seja cheio de realizações
+* Mario – Tomara! A gente se vê!
+* João - Tchau
+
+## Estimular a alguém
+
+||
+| -- |
+| É isso ai! (así es) |
+| Muito bem/bom! |
+| Avante! |
+| Essa foi boa! |
+| Continua assim! |
+| Ótimo! |
+| Assim é que se faz! |
+| Você pode! |
+| Que maravilha! |
+| Estupendo garoto/a |
+
+## Resignação
+
+||
+| -- |
+| Se não deu certo, paciência (si no salió bien, paciencia) |
+| Deixe pra lá (olvidalo) |
+| Não tem problema, outro dia ganharemos |
+| O que se pode fazer? |
+| Não se pode fazer nada |
+| Agora temos que tocar pra frente (seguir adelante) |
+| Já passou |
+
+## Tipicas
+
 | Expressões || Exemplo |
 | -- | -- | -- |
 | **me vê / vê**           | me vende ... ? | Me vê um quilo de frango por favor |
@@ -33,5 +150,5 @@
 | **levar chá de cadeira** || Levei um chá de cadeira dela durante 2 horas |
 | **furar com alguém**     || Você vai furar de novo com a gente? Já é a 4ª vez que você não vem |
 | **levar um bolo**        || Ontem fui encontrar uma amiga num bar pra tomar uma cervejinha mas eu levei um bolo |
-| **já**                       | ahora | |
-| **já já**                    | en un tiempo | |
+| **já**                   | ahora | |
+| **já já**                | en un tiempo | |

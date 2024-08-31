@@ -14,10 +14,11 @@
 
 ## Perguntas
 
-* Como se diz "computadora" em português? Se diz ...
+* Como se diz "computadora" em português? - Se diz ...
 * Como se escreve ... ?
 * Como se fala ... em português?
 * Como se soletra o seu sobrenome?
+* Pode soletrar como se escreve Gonçalves? _ É fácil: G - O - N - Ç - A - L - V - E - S
 * Pode repetir, por favor?
 * Repita, por favor
 * Soletre, por favor

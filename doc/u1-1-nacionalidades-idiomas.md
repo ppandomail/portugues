@@ -8,16 +8,16 @@
 | o Canadá    | canadense     | inglês |
 | o Chile     | chileno/a     | espanhol |
 | a China     | chinês/a      | chinês |
-| Cuba        | cubano/a      | espanhol |
+| **Cuba**    | cubano/a      | espanhol |
 | a Espanha   | espanhol/a    | espanhol |
 | os EEUU     | americano/a   | inglês |
 | a França    | francês/a     | francês |
-| Israel      | israelense    | hebraico |
+| **Israel**  | israelense    | hebraico |
 | a Italia    | italiano/a    | italiano |
 | o Japão     | japonês/a     | japonês |
 | o México    | mexicano/a    | espanhol |
 | o Peru      | peruano/a     | espanhol |
-| Portugal    | português/a   | português |
+| **Portugal**| português/a   | português |
 | o Uruguai   | uruguaio/a    | espanhol |
 | a Venezuela | venezuelano/a | espanhol |
 

@@ -9,9 +9,7 @@
   | **os** | os meninos | os alunos |
   | **as** | as meninas | as alunas |
 
-## Exemplos
-
-### O
+## Exemplos O
 
 * **o** brinco
 * **o** cantor
@@ -22,7 +20,7 @@
 * **o** médico
 * **o** Pablo
 
-### A
+## Exemplos A
 
 * **a** autorização
 * **a** cadeira
@@ -32,7 +30,7 @@
 * **a** música
 * **a** rua
 
-### OS
+## Exemplos OS
 
 * **os** cachorros
 * **os** cantores
@@ -42,7 +40,7 @@
 * **os** meninos
 * **os** ursos
 
-### AS
+## Exemplos AS
 
 * **as** camisetas
 * **as** canetas

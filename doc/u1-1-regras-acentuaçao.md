@@ -1,6 +1,6 @@
 # Regras de acentuação
 
-| | | |
+| | Regras | Exemplos |
 | -- | -- | -- |
 | **proparoxítonas**      | todas são acentuadas                                          | lâmpada, médico |
 | **paroxítonas**         | não na terminação: a, e, o, m. Exc. terminação ditongo: rádio | automóvel |

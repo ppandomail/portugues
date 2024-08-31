@@ -9,9 +9,7 @@
   | **uns**  | uns animais     | uns homens |
   | **umas** | umas bicicletas | umas mulheres |
 
-## Exemplos
-
-### UM
+## Exemplos UM
 
 * **um** animal
 * **um** computador
@@ -21,7 +19,7 @@
 * **um** televisor
 * **um** tom
 
-### UMA
+## Exemplos UMA
 
 * **uma** bicicleta
 * **uma** estrela
@@ -31,7 +29,7 @@
 * **uma** piscina
 * **uma** tangerina
 
-### UNS
+## Exemplos UNS
 
 * **uns** abacaxis
 * **uns** animais
@@ -39,7 +37,7 @@
 * **uns** óculos
 * **uns** tons
 
-### UMAS
+## Exemplos UMAS
 
 * **umas** crianças
 * **umas** folhas

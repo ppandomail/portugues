@@ -10,9 +10,7 @@
 | por  | **pelo** | **pela** | **pelos** | **pelas** |
 | para | **pro**  | **pra**  | **pros**  | **pras** |
 
-## Exemplos com artigos definidos
-
-### A
+## Exemplos A + artigo definido
 
 * Temos que ir **ao** supermercado
 * Eu vou **ao** aeropuerto quando viajo para muito longe
@@ -20,7 +18,7 @@
 * Irei **aos** lugares mas bonitos
 * Temos que ir um dia **às** ilhas gregas
 
-### DE (origem)
+## Exemplos DE (origem) + artigo definido
 
 * Este é o melhor restaurante **da** cidade
 * A boneca é **da** criança
@@ -29,7 +27,7 @@
 * Ela é uma **das** que não votou
 * As tarefas **das** alunas são muito complexas
 
-### EM (lugar)
+## Exemplos EM (lugar) + artigo definido
 
 * Eu estou **no** parque
 * **No** ano que vem quero montar a minha própria empresa
@@ -39,7 +37,7 @@
 * Eu estou **nos** cinemas
 * Sempre choro **nas** despedidas
 
-### POR (movimento)
+## Exemplos POR (movimento) + artigo definido
 
 * Vou passear **pelo** bosque
 * Gosto de camninhar **pela** cidade
@@ -56,14 +54,12 @@
   | de   | **dum**   | **duma**   | **duns**   | **dumas** |
   | em   | **num**   | **numa**   | **nuns**   | **numas** |
 
-## Exemplos com artigos indefinidos
-
-### DE
+## Exemplos DE + artigo indefinido
 
 * Acabo de sair **dum** bar
 * Tenho os livros **duma** amiga
 
-### EM
+## Exemplos EM + artigo inddefinido
 
 * Estamos **num** recital de poesia
 * Acabo de pensar **numa** solução para o seu problema

@@ -1,5 +1,8 @@
 # Apresentação de uma pessoa
 
+* Ao conhecer alguém, é comum cumprimentar com un **aperto de mão**
+* No Brasil, é muito fácil descontrair uma situação formal. A informalidade é uma característica natural na comunicação local. Geralmente, os brasileiros trabalham melhor em ambientes descontraídos
+
 ## Informal
 
 * Fernanda: Oi, Damiana. **Tudo bem?**
@@ -51,15 +54,29 @@
 * Como [o senhor | você] se chama?
 * Qual é o seu [nome | sobrenome]?
 
-### Diálogo
+### Diálogo 1
 
 * Patrícia – Oi, tudo bem?
 * Ana Paula – Oi, tudo bom, e você?
 * Patrícia – Tudo bem. Qual é o seu nome?
 * Ana Paula – Ana Paula, e o seu nome qual é?
 * Patrícia –  O meu é Patrícia
-* Ana Paula – Prazer. (formal o informal)
+* Ana Paula – Prazer (formal o informal)
 * Patrícia  – Muito prazer (formal)
+
+### Diálogo 2
+
+* Sol – Oi, tudo bem?
+* Patrícia – Olá, tudo bom, e você?
+* Sol – Tudo bem. Qual é o seu nome?
+* Patrícia – O meu nome é Patrícia. E o seu nome qual é?
+* Sol – O meu nome é Sol e ela é a Tabata
+* Patrícia – Prazer (formal o informal)
+* Sol – Muito prazer (formal)
+* Tabata – Igualmente (informal)
+* Sol – A gente se vê!
+* Patrícia - Até mais!
+* Tabata – Tchau!
 
 ## Boas vindas
 

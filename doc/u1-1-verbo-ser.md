@@ -4,9 +4,9 @@
 
   | Pronome | Presente do Indicativo |
   | -- | -- |
-  | eu | **sou** |
-  | você | **é** |
-  | nós | **somos** |
+  | eu    | **sou** |
+  | você  | **é** |
+  | nós   | **somos** |
   | vocês | **são** |
 
 ## Diálogo
