@@ -8,9 +8,9 @@
 
 | Prefixos | | Exemplos |
 | -- | -- | -- |
-| **pós-**, **post-** | posterioridade | pos-graduação |
-| **contra-**         | oposição       | contramão     |
 | **co-**, **com-**   | companhia      | cooperativo   |
+| **contra-**         | oposição       | contramão     |
+| **pós-**, **post-** | posterioridade | pos-graduação |
 
 ## Sufixos
 
@@ -18,10 +18,10 @@
 
 | Sufixos | | Exemplos |
 | -- | -- | -- |
-| **-ismo**           | estado, sistema        | capitalismo |
-| **-tor**, **-ista** | ocupação               | pintor, motorista |
-| **-ista**           | seguidor doutrina      | evangelista |
 | **-agem**           | ação ou resultado ação | a massagem |
 | **-dade**           | estado, modo de ser    | bondade    |
+| **-ismo**           | estado, sistema        | capitalismo |
+| **-ista**           | seguidor doutrina      | evangelista |
 | **-izar**           | transformar em         | globalizar |
 | **-mente**          | modo                   | cordialmente, frequentemente, ... |
+| **-tor**, **-ista** | ocupação               | pintor, motorista |

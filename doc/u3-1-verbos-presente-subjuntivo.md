@@ -1,7 +1,7 @@
 # Verbos - Presente do Subjuntivo (que eu)
 
-* É usado para indicar dúvidas desejos, incertezas, probabilidades, pedidos e sentimentos
-* Formação: a partir do radical da 1ra pessoa do singular do presente do indicativo. Em seguida, troca-se a vogal temática do verbo por outra desinência
+* **Uso**: para indicar dúvidas desejos, incertezas, probabilidades, pedidos e sentimentos
+* **Formação**: a partir do radical da 1ra pessoa do singular do presente do indicativo. Em seguida, troca-se a vogal temática do verbo por outra desinência
 
 ## Regulares
 
@@ -16,10 +16,10 @@
 
 | Pronome | SER | ESTAR | IR | DAR | QUERER | SABER | HABER |
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| eu | **seja** | **esteja** | **vá** | **dê** | **queira** | **saiba** | **haja** |
-| você | **seja** | **esteja** | **vá** | **dê** | **queira** | **saiba** | **haja** |
-| nós | **sejamos** | **estejamos** | **vamos** | **demos** | **queiramos** | **saibamos** | **hajamos** |
-| vocês | **sejam** | **estejam** | **vão** | **dêem** | **queiram** | **saibam** | **hajam** |
+| eu    | **seja**    | **esteja**    | **vá**    | **dê**    | **queira**    | **saiba**    | **haja** |
+| você  | **seja**    | **esteja**    | **vá**    | **dê**    | **queira**    | **saiba**    | **haja** |
+| nós   | **sejamos** | **estejamos** | **vamos** | **demos** | **queiramos** | **saibamos** | **hajamos** |
+| vocês | **sejam**   | **estejam**   | **vão**   | **dêem**  | **queiram**   | **saibam**   | **hajam** |
 
 ## Exemplos
 
@@ -30,7 +30,7 @@
 
 ||| Exemplos |
 | -- | -- | -- |
-| **cojunções** | para que, sem que, caso, embora, mesmo que, ainda que, depois que, antes que, por mais que, apesar de que | Caso você **queira**, vamos ao cinema |
+| **conjunções** | para que, sem que, caso, embora, mesmo que, ainda que, depois que, antes que, por mais que, apesar de que | Caso você **queira**, vamos ao cinema |
 | **desejos**   | desejo que, quero que, espero que, tomara que | Espero que você **esteja** bem |
 | **emoções**   | adoro que, odeio que, sinto muito que, e uma pena que ||
 | **pedidos**   | peço que, exijo que, sugiro que, recomendo que, aconselho que ||

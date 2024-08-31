@@ -1,7 +1,7 @@
 # Verbos - Futuro do Subjuntivo (quando eu)
 
-* É usado para expressar planos e/ou intenções futuras e incertezas
-* Formação: a partir da 3ra pessoa do plural do pretérito perfeito do indicativo, eliminando-se a terminação "AM" e adicionando-se o sufixo adequado
+* **Uso**: para expressar planos e/ou intenções futuras e incertezas
+* **Formação**: a partir da 3ra pessoa do plural do pretérito perfeito do indicativo, eliminando-se a terminação "AM" e adicionando-se o sufixo adequado
 
   | Pronome | TER | CANTAR |
   | -- | -- | -- |

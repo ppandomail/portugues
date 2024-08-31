@@ -13,22 +13,22 @@
 
 ||
 | -- |
-| tarefas |
+| aluno |
+| boletim |
 | estudo |
 | lição |
-| boletim |
+| lousa |
 | notas |
 | professor |
-| aluno |
-| lousa |
+| tarefas |
 
 | Cursos complementares |
 | -- |
+| academia de artes marciais / natação / tênis |
 | autoescola |
 | cursinho |
-| reforço |
 | curso de artesanato / corte e costura / informática / língua estrangeira / piano |
-| academia de artes marciais / natação / tênis |
+| reforço |
 
 | Escolas e cursos específicos |
 | -- |
@@ -53,23 +53,23 @@
 
 | Cargos acadêmicos |
 | -- |
-| monitor (tempo parcial / integral) |
 | auxiliar de ensino |
+| catedrático |
 | coordenador de ensino |
 | docente |
-| catedrático |
-| professor orientador |
-| mestre |
 | doutor |
+| mestre |
+| monitor (tempo parcial / integral) |
+| professor orientador |
 
 | Documentos acadêmicos |
 | -- |
-| comprovante de matricula |
-| carteira de estudante (credencial) |
-| histórico escolar |
-| diploma |
-| atestado (certificado)  de conclusão |
+| atestado (certificado) de conclusão |
 | carta de apresentação |
+| carteira de estudante (credencial) |
+| comprovante de matricula |
+| diploma |
+| histórico escolar |
 
 | Áreas emergentes |
 | -- |

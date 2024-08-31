@@ -6,21 +6,21 @@
 | -- |
 | alimentação |
 | educação |
-| moradia - pagar o aluguel |
-| segurança |
-| trabalho |
-| vestimenta |
-| transporte |
 | entretenimento |
 | justiça |
+| moradia - pagar o aluguel |
 | religião |
+| segurança |
+| trabalho |
+| transporte |
+| vestimenta |
 
 | Religiões |
 | -- |
+| ateu / ateia |
 | budista |
 | católica |
 | espirita |
 | judaica |
 | muçulmana |
 | protestante |
-| ateu / ateia |

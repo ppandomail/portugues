@@ -2,20 +2,20 @@
 
 ||
 | -- |
+| amor-perfeito (pensamiento) |
+| capim (yuyo) |
+| copo de leite (calas) |
 | cravos (claveles) |
+| crisântemo |
 | flores do campo |
 | girassóis |
+| hortência |
 | lírios |
 | margaridas |
 | orquideas |
 | palmas |
+| petalas f. |
 | rosas |
-| violetas |
-| copo de leite (calas) |
-| crisântemo |
-| hortência |
-| tulipas |
-| amor-perfeito (pensamiento) |
 | trevo (trébol) |
-| capim (yuyo) |
-| as petalas |
+| tulipas |
+| violetas |

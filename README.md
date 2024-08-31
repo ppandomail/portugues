@@ -77,6 +77,7 @@
 | [Verbos irregulares - Presente do Indicativo](doc/u1-5-verbos-irregulares-presente-indicativo.md) |
 | [Gênero das palavras](doc/u1-5-genero-palavras.md) |
 | [Ser, Ter, Estar](doc/u1-5-ser-ter-estar.md) |
+| [Tipos de moradias](doc/u1-5-tipos-de-moradias.md) |
 | [Partes da casa](doc/u1-5-partes-casa.md) |
 | [Casa limpa](doc/u1-5-casa-limpa.md) |
 | [Tarefas domésticas](doc/u1-5-tarefas-domesticas.md) |
@@ -86,7 +87,8 @@
 | Unidade 1 - SAIA JUSTA |
 | -- |
 | [Gerúndio](doc/u2-1-gerundio.md) |
-| [Pronomes indefinidos](doc/u2-1-pronomes-indefinidos.md)|
+| [Pronomes indefinidos](doc/u2-1-pronomes-indefinidos.md) |
+| [Roupas e acessórios](doc/u2-1-roupas-acessorios.md) |
 | [Adjetivos](doc/u2-1-adjetivos.md) |
 | [Advérbios de intensidade](doc/u2-1-adverbios-intensidade.md) |
 | [Grau comparativo](doc/u2-1-grau-comparativo.md) |
@@ -105,10 +107,14 @@
 | -- |
 | [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/u2-3-verbos-irregulares-preterito-imperfeito-indicativo.md) |
 | [Família](doc/u2-3-familia.md) |
+| [Animais](doc/u2-3-animais.md) |
+| [Comidas e bebidas](doc/u2-3-comidas-bebidas.md) |
+| [Flores](doc/u2-3-flores.md) |
 
 | Unidade 4 - Lazer |
 | -- |
 | [Diminutivos e aumentativos](doc/u2-4-diminutivos-aumentativos.md) |
+| [Afixos](doc/u2-4-afixos.md) |
 | [Particípio](doc/u2-4-participio.md) |
 | [Tempos compostos](doc/u2-4-verbos-tempos-compostos.md) |
 | [Brinquedos, jogos e brincadeiras](doc/u2-4-brinquedos-jogos-brincadeiras.md) |
@@ -127,7 +133,15 @@
 | Unidade 1 |
 | -- |
 | [Voz passiva](doc/u3-1-voz-passiva.md) |
+| [Bom, boa, bem](doc/u3-1-bom-boa-bem.md) |
+| [Direitos dos cidadãos](doc/u3-1-direitos-cidadaos.md) |
+| [Educação](doc/u3-1-educaçao.md) |
+| [Trabalho](doc/u3-1-trabalho.md) |
 | [Verbos - Presente do Subjuntivo](doc/u3-1-verbos-presente-subjuntivo.md) |
 | [Verbos - Imperfeito do Subjuntivo](doc/u3-1-verbos-imperfeito-subjuntivo.md) |
 | [Verbos - Futuro do Subjuntivo](doc/u3-1-verbos-futuro-subjuntivo.md) |
 | [Infinitivo pessoal](doc/u3-1-infinitivo-pessoal.md) |
+| [Signos](doc/u3-1-signos.md) |
+| [Sorte ou azar](doc/u3-1-sorte-azar.md) |
+| [CV](doc/u3-1-cv.md) |
+| [Provérbios](doc/u3-1-proverbios.md) |

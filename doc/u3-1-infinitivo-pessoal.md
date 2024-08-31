@@ -2,7 +2,7 @@
 
 * Tem sujeito, refere-se portanto a uma pessoa gramatical
 * Possui uma flexão para pessoa do discurso
-* Formação: se conjuga, combina com a pessoa
+* **Formação**: se conjuga, combina com a pessoa
 
 | |
 | -- |

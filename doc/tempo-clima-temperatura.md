@@ -41,6 +41,22 @@
 | subir / cair |
 | desanuviar (despejar) |
 
+| Fenômenos da natureza |
+| -- |
+| o terremoto |
+| o maremoto |
+| o furação (huracán) |
+| o tornado |
+| o vendaval |
+| a ventania (ventarrón) |
+| o ciclone |
+| o tufão (tifón) |
+| o enchente (inundación) |
+| a seca |
+| a geada |
+| a chuva de granizo |
+| a tempestade (temporal) |
+
 ## Exemplo
 
 * Como está o dia hoje? - Hoje faz muito **calor**

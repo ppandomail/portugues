@@ -1,6 +1,6 @@
-# Sinais de pontuação
+# Signos
 
-| Sinal ||
+| Sinais de pontuação | Nome|
 | -- | -- |
 | **,**   | vírgula |
 | **;**   | ponto e vírgula |
@@ -17,12 +17,10 @@
 
 ---
 
-| Operações matemáticas |||
+| Sinais de matemáticas | Nome | Operações |
 | -- | -- | -- |
 | **+**   | mais         | soma / adição |
 | **-**   | menos        | subtração |
 | **x**   | vezes        | multiplicação |
 | **÷**   | dividido por | divisão |
 | **=**   | igualdade    | igual a |
-
-

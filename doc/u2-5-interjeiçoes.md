@@ -12,6 +12,11 @@
 * **Epa!** Não seai se apaguei a luz antes de sair
 * **Mas que coisa!**
 
+* Hum...
+* Ué!
+* Ah...
+* Eu hein?!
+* Puxa!
 * Olha só! -> Olha! -> Oh!
 * Nossa!
 * Droga!

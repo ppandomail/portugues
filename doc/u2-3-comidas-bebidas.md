@@ -9,20 +9,20 @@
 
 ## Lugares de comida
 
+* bar
+* boteco
+* café
+* cantina
 * churrascaria
 * food truck
+* padaria
 * pizzaria
+* (por) quilo
 * praça de alimentação
 * quiosque
 * restaurante
 * rodízio
-* cantina
 * self-service
-* (por) quilo
-* café
-* boteco
-* padaria
-* bar
 * trattoria
 
 ## Café da manhã
@@ -148,27 +148,27 @@
 
 ## As carnes
 
-* a carne de boi (vaca)
-* a carne de peixe
-* a dobradinha
-* a lagosta
-* a linguiça
-* a lula
-* a morcela
-* a tripa (chinchulin)
-* o cordeiro
-* o frango
-* o pernil
-* o polvo (pulpo)
-* o porco
-* o perú (pavo)
-* o presunto
-* os bifes finos
-* os bifes grossos
+* bifes finos m.
+* bifes grossos m.
+* carne de boi f. (vaca)
+* carne de peixe f.
+* cordeiro m.
+
+* dobradinha f.
+* frango m.
+* lagosta f.
+* linguiça f.
+* lula f.
+* morcela f.
+* pernil m.
+* perú m. (pavo)
+* polvo m. (pulpo)
+* porco m.
+* presunto m.
+* tripa f. (chinchulin)
 
 ## Churrasco
 
-* maminha / picanha
 * alcatra
 * contrafilé
 * coraçáozinho (de galinha)
@@ -176,12 +176,13 @@
 * cupim
 * filé mignon
 * lombo (rosbife)
+* maminha / picanha
 
 ## Carne
 
+* ao ponto
 * bem passada
 * mal passada
-* ao ponto
 
 ## Temperatura
 
@@ -191,38 +192,38 @@
 
 ## Maneiras de preparar refeições
 
-* cozinhar -> cozinhado
 * assar -> assado
-* fritar -> frito
-* ferver -> fervido
+* cozinhar -> cozinhado
 * cru (crudo)
+* ferver -> fervido
+* fritar -> frito
 
 ## As bebidas
 
-* caipirinha = água-ardente = pinga
-* suco
-* batidas
-* cerveja
-* refrigerante
 * água mineral com / sem gás
-* vinho (branco e tinto)
+* batidas
+* caipirinha = água-ardente = pinga
+* cerveja
 * limonada
+* refrigerante
+* suco
+* vinho (branco e tinto)
 
 ## Tomar chimarrão
 
-* a cuia (mate)
-* a erva
-* a bomba
-* a garrafa térmica
+* bomba f.
+* cuia f. (mate)
+* erva f.
+* garrafa térmica f.
 
 ## No restaurante
 
-* a conta
-* a gorjeta
-* o garçom / a garçonete
-* o freguês / a freguesa (cliente)
-* ter fome / ter sede
-* o cardápio do dia / executivo
+* cardápio do dia m. / executivo
+* contan f.
 * couvert: pão torrado, manteigas, azeitonas, ...
-* toalha de mesa
+* freguês m. / freguesa f. (cliente)
+* garçom m. / garçonete f.
+* gorjeta f.
 * guardanapo
+* ter fome / ter sede
+* toalha de mesa

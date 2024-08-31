@@ -94,6 +94,16 @@
 | viaduto (puente sin agua) m. |
 | zona azul f. |
 
+| Casas de assistência social |
+| -- |
+| albergue noturno |
+| asilo |
+| casa de detenção |
+| casa de recuperação de menores |
+| creche (guarderia) |
+| manicômio |
+| orfanato |
+
 ## Pergunta
 
 * Onde está o ursinho de pelúcia?
