@@ -1,11 +1,22 @@
 # Fazer compras
 
+| Lugares |
+| -- |
+| na feira |
+| na lanchería |
+| no bar |
+| no açougue |
+| na padaria |
+| na confeitaria |
+
 ||
 | -- |
-| caro / barato |
+| barato |
+| caro |
 | escada rolante f. |
 | loja f. (tienda) |
 | orçamento m. |
+| preço m. |
 | provador m. |
 | seção de senhoras / senhores / jovens / crianças f. |
 
@@ -30,6 +41,7 @@
 * Renata, quer **fazer compras** comigo?
 * Posso ajudá-la ? / Como posso lhe ajudar?
 * Só estou olhando
+* O que você quer?
 * Quero trocar / devolver isto
 * Estou buscando ...
 * Tem trocado?

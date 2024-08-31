@@ -4,7 +4,7 @@
 | -- | -- |
 | **um quilo**           | **um quilo** de peixe |
 | **dois quilos**        | |
-| **meio quilo**         | |
+| **meio quilo**         | **meio quilo** de carne |
 | **um quilo e meio**    | |
 | **uma grama** (gramos) | |
 | **duas gramas**        | |
@@ -31,5 +31,5 @@
 | **um maço** (atado)       | |
 | **um pacote**             | **um pacote** de cereal |
 | **um pedaço**             | **um pedaço** de pão |
-| **uma barra**             | **uma barra** de cereal |
+| **uma barra**             | **uma barra** de cereal / chocolate|
 | **uma fatia / porção**    | **uma fatia** de pão |

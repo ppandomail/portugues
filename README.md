@@ -29,9 +29,11 @@
 | -- |
 | [Cortesia](doc/u1-2-cortesia.md) |
 | [Compras](doc/u1-2-compras.md) |
+| [Supermercado](doc/u1-2-supermercado.md) |
 | [Números cardinais](doc/u1-2-numeros-cardinais.md) |
 | [Pesos e quantidades](doc/u1-2-pesos-quantidades.md) |
 | [Verbos regulares - Pretérito Perfeito do Indicativo](doc/u1-2-verbos-regulares-preterito-perfeito-indicativo.md) |
+| [Afirmação e Negação](doc/u1-2-afirmaçao-negaçao.md) |
 | [Números ordinais](doc/u1-2-numeros-ordinais.md) |
 | [Tempo](doc/u1-2-tempo.md) |
 | [Alimentação](doc/u1-2-alimentaçao.md) |

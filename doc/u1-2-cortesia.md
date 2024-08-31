@@ -2,19 +2,17 @@
 
 ## Interromper alguém
 
-* (INFORMAL) - Com licença; Licença
-* (FORMAL) -  Por gentileza
-
-### Resposta
-
-* Podemos responder (de forma afirmativa) conforme o caso:
-Claro, Tudo bem e Pois não
+||| Respostas |
+| -- | -- | -- |
+| **informal** | Com licença / Licença | Claro, Tudo bem |
+|              | Por favor ...         | |
+| **formal**   | Por gentileza         | Pois não |
 
 ## Outras
 
-* Pode me ajudar?
-* Pode me dar uma informação?
-* Pode repetir?
-* Por favor
-* Posso [passar | falar com você | tirar uma foto] ?
+* Você pode me ajudar?
+* Você pode me dar uma informação?
+* Você pode repetir?
+* Por favor, você podia me fazer um desconto?
+* Eu posso [passar | falar com você | tirar uma foto] ?
 * Sinto muito!

@@ -24,9 +24,7 @@
 
 ## O conector "e" entre os números
 
-* Exemplo:
-
-|||
+| Exemplos ||
 | -- | -- |
 | 99   | noventa **e** nove |
 | 909  | novecentos **e** nove |
@@ -37,8 +35,10 @@
 
 ## Os numerais um e dois variam em gênero – masculino e feminino
 
-* **um** amigo, **uma** amiga
-* **dois** amigos, **duas** amigas
+| Masculino | Feminino |
+| -- | -- |
+| **um** amigo    | **uma** amiga |
+| **dois** amigos | **duas** amigas |
 
 ## Perguntas
 
