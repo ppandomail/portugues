@@ -1,11 +1,13 @@
 # Ao telefone
 
 ||
-||
+| -- |
+| atender ligações |
 | discar |
 | ligar/telefonar |
 | lista telefónica f. |
 | número de telefone m. |
+| orelhão (telefone público) |
 | soar |
 
 ---
@@ -19,7 +21,7 @@
 * Não desligue, por favor
 * Tranferirei sua ligação
 * Ele não está / Ele não se encontra
-* Quer deixar um recado?
+* Quer deixar recado?
 * A ligação caiu
 * Dá ocupado
 * A linha está ocupada

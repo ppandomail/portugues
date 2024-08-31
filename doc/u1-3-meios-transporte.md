@@ -1,5 +1,7 @@
 # Os meios de transporte (viajar de ...)
 
+* No Brasil, muitas pessoas costumam **ir de carona** tanto para trabalhar ou estudar, quanto para situações de lazer. Além de econômica e solidária, esta prática, ao reduzir a quantidade de carros e motocicletas no trânsito, ajuda a melhorar qualidade do ar e a evitar acidentes por embriaguez
+
 ||
 | -- |
 | a pé |

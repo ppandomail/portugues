@@ -2,7 +2,7 @@
 
 * Os dias laborais da semana são femininos
 
-  ||
+  | Dias |
   | -- |
   | domingo (dia do descanso)  |
   | segunda-feira              |
@@ -14,6 +14,7 @@
 
 ## Exemplos
 
+* Que dia é hoje? - Hoje é sábado
 * Que dia vamos voltar das férias? - Na segunda-feira / No sábado à tarde
 * As festas vai ser na quarta-feira
 * Eu só estou livre no domingo da manhã

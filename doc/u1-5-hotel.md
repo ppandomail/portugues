@@ -2,33 +2,33 @@
 
 ||
 | -- |
+| auxiliar de serviços m. (botones) |
+| benço (cuna) |
+| cama de casal |
+| cama de solteiro |
+| cama extra |
+| cobertor |
+| diária |
+| estadia |
 | fazer uma reserva |
-| o gerente |
-| a recepção |
-| o/a recepcionista |
-| o auxiliar de serviços (botones) |
+| fronha (funda) |
+| gerente f./m. |
+| gorjeta |
+| lavanderia |
+| lençol (sábanas) |
+| pagar a conta do hotel |
 | quarto com uma cama |
 | quarto duplo |
 | quarto simples |
-| suite |
-| serviço de estacionamento |
+| recepção f. |
+| recepcionista f./m. |
 | registrar-se |
-| pagar a conta do hotel |
-| gorjeta |
-| diária |
-| estadia |
-| lavanderia |
+| serviço de estacionamento |
 | serviço de quarto |
-| cama de solteiro |
-| cama de casal |
-| cama extra |
-| benço (cuna) |
-| lençol (sábanas) |
-| cobertor |
+| suite |
 | travesseiro (almohada) |
-| fronha (funda) |
 
-## Exemplo
+## Exemplos
 
 * Gostaria de fazer uma reserva
 * Quero fazer uma reserva para duas pessoas

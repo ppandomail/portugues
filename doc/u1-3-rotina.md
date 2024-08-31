@@ -2,8 +2,11 @@
 
 1. acordar
 1. escobar os dentes
+1. lavar o rosto
 1. tomar banho
+1. preparar o café da manhã
 1. tomar o café da manhã
+1. ler os jornais
 1. ir para o trabalho
 1. pegar ônibus
 1. trabalhar + reunião
@@ -11,7 +14,9 @@
 1. voltar / ir para casa
 1. merendar/lanchar
 1. estudar idiomas
-1. ir ao cinema / teatro / concerto / banco / consulta médica
+1. ir ao parque / cinema / teatro / concerto / banco / consulta médica
+1. trocar de roupa
+1. correr meia hora
 1. praticar esportes
 1. jantar
 1. deitar-se (acostar)
@@ -22,6 +27,7 @@
 
 * A que horas ... ?
 * De que hora até que hora ... ? Das ... até as ...
+* O que você fez?
 
 ## Minha rotina
 

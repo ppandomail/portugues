@@ -1,6 +1,7 @@
 # Verbo SER - Presente do Indicativo
 
 * É usado para falar aspectos mais permanentes ou duradouros
+* **Indicativo**: certeza
 
   | Pronome | Presente do Indicativo |
   | -- | -- |

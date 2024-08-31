@@ -2,9 +2,9 @@
 
 | Pronome | Presente do Indicativo |
 | -- | -- |
-| eu | **vou** |
-| você | **vai** |
-| nós | **vamos** |
+| eu    | **vou** |
+| você  | **vai** |
+| nós   | **vamos** |
 | vocês | **vão** |
 
 ## Diálogo

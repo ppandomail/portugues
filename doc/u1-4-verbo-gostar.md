@@ -2,12 +2,12 @@
 
 | Pronome | Presente do Indicativo |
 | -- | -- |
-| eu | **gosto de** |
-| você | **gosta de** |
-| nós | **gostamos de** |
+| eu    | **gosto de** |
+| você  | **gosta de** |
+| nós   | **gostamos de** |
 | vocês | **gostam de** |
 
-## Exemplo
+## Exemplos
 
 * Eu **gosto de** você
 * Ele **gosta** de nadar
@@ -17,9 +17,9 @@
 ## Perguntas
 
 * Você **gosta de** beber café puro o chá?
-* Você **gosta de** escutar este estilo de música?
-* Você **gosta de** dançar?
 * Você **gosta de** comida japonesa?
+* Você **gosta de** dançar?
+* Você **gosta de** escutar este estilo de música?
 
 ## Graos de gostar
 

@@ -15,6 +15,7 @@
 
 ## Perguntas
 
+* Onde é ...?
 * Desculpe, onde fica o / a ...? - O hotel está/fica atrás da rodoviária
 * Como posso chegar a ... ?
 * Podia me dizer onde fica ... ?
@@ -23,14 +24,18 @@
 
 ## Respostas
 
-* Dobre à direita / esquerda
-* Siga direto / sempre reto
-* Depois do semáforo, dobre à direita
-* Dobre na próxima esquina
-* Continue uma quadra mais
-* Continue por essa rua
-* No fim desta rua
-* Na entrada da estrada
+| Dar localização / indicar distância |
+| -- |
+| **em frente** da escola |
+| **atrás** do banco |
+| Dobre **à direita**  |
+| Vira **à esquerda** |
+| Siga **direto / sempre reto** |
+| **ao lado** da catedral |
+| **perto** daqui |
+| **longe** daqui |
+| **na esquina** |
+| **no fim** desta rua / esquina |
 
 * Caminhar
 * Andar um quarteirão (manzana)

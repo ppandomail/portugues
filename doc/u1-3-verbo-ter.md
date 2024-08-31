@@ -2,9 +2,9 @@
 
 | Pronome | Presente do Indicativo |
 | -- | -- |
-| eu | **tenho** |
-| você | **tem** |
-| nós | **temos** |
+| eu    | **tenho** |
+| você  | **tem** |
+| nós   | **temos** |
 | vocês | **têm** |
 
 ## Exemplos

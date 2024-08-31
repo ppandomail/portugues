@@ -47,8 +47,12 @@
 | [Meses do ano](doc/u1-3-meses-do-ano.md) |
 | [Estações do ano](doc/u1-3-estaçoes-do-ano.md) |
 | [Horas](doc/u1-3-horas.md) |
+| [Rotinas](doc/u1-3-rotina.md) |
+| [Sequencia de ações](doc/u1-3-expressoes-sequencia-açoes.md) |
 | [Advérbios de lugar](doc/u1-3-adverbios-lugar.md) |
 | [Pronomes demonstrativos](doc/u1-3-pronomes-demonstrativos.md) |
+| [Verbo estar](doc/u1-3-verbo-estar.md) |
+| [Verbo ter](doc/u1-3-verbo-ter.md) |
 
 | Unidade 4 - CONTATO |
 | -- |
@@ -58,19 +62,24 @@
 | [Referências urbanas](doc/u1-4-referencias-urbanas.md) |
 | [Sinais de trânsito / tráfego](doc/u1-4-sinais-transito.md) |
 | [Cidade](doc/u1-4-cidade.md) |
+| [Verbo gostar](doc/u1-4-verbo-gostar.md) |
 
 | Unidade 5 - CONTATO |
 | -- |
 | [Viagem](doc/u1-5-viagem.md) |
 | [Aeroporto](doc/u1-5-aeroporto.md) |
 | [Formação de plural](doc/u1-5-formaçao-plural.md) |
-| [Verbos irregulares - Presente do Indicativo](doc/u1-5-verbos-irregulares-presente-indicativo.md) |
+| [Verbo ir](doc/u1-5-verbo-ir.md) |
 | [Periodicidade](doc/u1-5-periodicidade.md) |
 | [Verbos - Futuro imediato](doc/u1-5-verbos-futuro-imediato.md) |
+| [Ferias](doc/u1-5-ferias.md) |
+| [Hotel](doc/u1-5-hotel.md) |
+| [Verbos irregulares - Presente do Indicativo](doc/u1-5-verbos-irregulares-presente-indicativo.md) |
 | [Gênero das palavras](doc/u1-5-genero-palavras.md) |
 | [Ser, Ter, Estar](doc/u1-5-ser-ter-estar.md) |
 | [Partes da casa](doc/u1-5-partes-casa.md) |
 | [Casa limpa](doc/u1-5-casa-limpa.md) |
+| [Tarefas domésticas](doc/u1-5-tarefas-domesticas.md) |
 
 ## Nivel 2
 

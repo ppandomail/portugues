@@ -2,12 +2,12 @@
 
 * É usado para falar de estados mais temporários
 
-| Pronome | Presente do Indicativo |
-| -- | -- |
-| eu | **estou** |
-| você | **está** |
-| nós | **estamos** |
-| vocês | **estão** |
+  | Pronome | Presente do Indicativo |
+  | -- | -- |
+  | eu    | **estou** |
+  | você  | **está** |
+  | nós   | **estamos** |
+  | vocês | **estão** |
 
 ## Diálogo
 

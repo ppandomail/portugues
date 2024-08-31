@@ -1,5 +1,19 @@
 # Gênero das palavras
 
+## Palavras que não mudam (dois gêneros)
+
+* artista
+* atleta
+* camelô
+* cliente
+* estudante
+* fã
+* gerente
+* imigrante
+* jornalista
+* pianista
+* turista
+
 ## Palavras FEMININAS
 
 * água
