@@ -2,21 +2,21 @@
 
 | Partes do carro |
 | -- |
-| porta |
-| janela |
-| teto |
-| para-brisa |
+| câmbio manual |
 | capô |
-| placa |
+| cinto de segurança |
 | farol |
+| freio de mão |
+| janela |
+| para-brisa |
+| placa |
+| pneu (neumático) |
+| porta |
+| porta-malas |
 | retrovisor |
 | roda |
-| pneu (neumático) |
+| teto |
 | volante |
-| câmbio manual |
-| cinto de segurança |
-| porta-malas |
-| freio de mão |
 
 | Cuidados como o carro |
 | -- |

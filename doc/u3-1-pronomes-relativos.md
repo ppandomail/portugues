@@ -1,7 +1,7 @@
 # Pronomes relativos
 
 * Tem a função de retomar um substantivo (o um pronome) usado anteriormente na mesma frase, evitando assim a repetição do mesmo
-* Usado para fazar referência a um termo anterior
+* **Uso**: fazer referência a um termo anterior
 
 ## Variáveis
 

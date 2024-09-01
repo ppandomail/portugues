@@ -38,7 +38,21 @@
 | visitar amigos / família |
 | visitar museus |
 
+## Marcar um encontro
+
+||
+| -- |
+| aula |
+| consulta |
+| reunião |
+| viagem |
+
 ## Exemplos
 
 * Quando tenho tempo livre, gosto de ...
 * As atividades de lazer que mais gosto são ...
+* Vamos ao ... ?
+* Você quer ir comigo ao ... ?
+* O que vocês vão fazer hoje/amanhã ... ?
+* Marcamos com Marta para ir ao cinema. Você quer vir?
+* Nos vemos hoje às cinco da tarde e tomamos un cafezinho? - Combinado

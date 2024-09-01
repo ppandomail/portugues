@@ -32,6 +32,7 @@
 | [Supermercado](doc/u1-2-supermercado.md) |
 | [Números cardinais](doc/u1-2-numeros-cardinais.md) |
 | [Pesos e quantidades](doc/u1-2-pesos-quantidades.md) |
+| [Descrição de objetos](doc/u1-2-descriçao-objetos.md) |
 | [Verbos regulares - Pretérito Perfeito do Indicativo](doc/u1-2-verbos-regulares-preterito-perfeito-indicativo.md) |
 | [Afirmação e Negação](doc/u1-2-afirmaçao-negaçao.md) |
 | [Números ordinais](doc/u1-2-numeros-ordinais.md) |
@@ -42,6 +43,7 @@
 | -- |
 | [Pronomes interrogativos](doc/u1-3-pronomes-interrogativos.md) |
 | [Meios de transporte](doc/u1-3-meios-transporte.md) |
+| [Carro](doc/u1-3-carro.md) |
 | [Verbos irregulares - Pretérito Perfeito do Indicativo](doc/u1-3-verbos-irregulares-preterito-perfeito-indicativo.md) |
 | [Dias da semana](doc/u1-3-dias-da-semana.md) |
 | [Meses do ano](doc/u1-3-meses-do-ano.md) |
@@ -64,7 +66,7 @@
 | [Cidade](doc/u1-4-cidade.md) |
 | [Verbo gostar](doc/u1-4-verbo-gostar.md) |
 
-| Unidade 5 - CONTATO |
+| Unidade 5 - IDAS E VINDAS |
 | -- |
 | [Viagem](doc/u1-5-viagem.md) |
 | [Aeroporto](doc/u1-5-aeroporto.md) |
@@ -81,6 +83,7 @@
 | [Partes da casa](doc/u1-5-partes-casa.md) |
 | [Casa limpa](doc/u1-5-casa-limpa.md) |
 | [Tarefas domésticas](doc/u1-5-tarefas-domesticas.md) |
+| [Convites](doc/u1-5-convites.md) |
 
 ## Nivel 2
 
@@ -102,16 +105,19 @@
 | [Verbos regulares - Pretérito Imperfeito do Indicativo](doc/u2-2-verbos-regulares-preterito-imperfeito-indicativo.md) |
 | [Cuidado do corpo](doc/u2-2-cuidado-corpo.md) |
 | [Imperativo](doc/u2-2-imperativo.md) |
+| [Salão de beleza](doc/u2-2-salao-beleza.md) |
+| [Saúde e doença](doc/u2-2-saude-doença.md) |
 
-| Unidade 3 - Lembranças |
+| Unidade 3 - LEMBRANÇAS |
 | -- |
 | [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/u2-3-verbos-irregulares-preterito-imperfeito-indicativo.md) |
 | [Família](doc/u2-3-familia.md) |
 | [Animais](doc/u2-3-animais.md) |
 | [Comidas e bebidas](doc/u2-3-comidas-bebidas.md) |
 | [Flores](doc/u2-3-flores.md) |
+| [Clima](doc/u2-3-tempo-clima-temperatura.md) |
 
-| Unidade 4 - Lazer |
+| Unidade 4 - LAZER |
 | -- |
 | [Diminutivos e aumentativos](doc/u2-4-diminutivos-aumentativos.md) |
 | [Afixos](doc/u2-4-afixos.md) |
@@ -121,16 +127,19 @@
 | [Esportes e atividades ao ar livre](doc/u2-4-esportes.md) |
 | [Artes e ofícios](doc/u2-4-artes-oficios.md) |
 | [Encontros e entretenimentos](doc/u2-4-encontros-entretenimentos.md) |
+| [Ferramentas](doc/u2-4-ferramentas.md) |
+| [Instrumentos musicais](doc/u2-4-instrumentos-musicais.md) |
 
-| Unidade 5 - Lingua viva |
+| Unidade 5 - LINGUA VIVA |
 | -- |
 | [Acabar de](doc/u2-5-acabar-de.md) |
 | [Carnaval](doc/u2-5-carnaval.md) |
 | [Interjeições](doc/u2-5-interjeiçoes.md) |
+| [Conjunções](doc/u2-5-conjunçoes.md) |
 
 ## Nivel 3
 
-| Unidade 1 |
+| Unidade 1 - VARIOS |
 | -- |
 | [Voz passiva](doc/u3-1-voz-passiva.md) |
 | [Bom, boa, bem](doc/u3-1-bom-boa-bem.md) |
@@ -139,9 +148,12 @@
 | [Trabalho](doc/u3-1-trabalho.md) |
 | [Verbos - Presente do Subjuntivo](doc/u3-1-verbos-presente-subjuntivo.md) |
 | [Verbos - Imperfeito do Subjuntivo](doc/u3-1-verbos-imperfeito-subjuntivo.md) |
+| [Banco](doc/u3-1-banco.md) |
 | [Verbos - Futuro do Subjuntivo](doc/u3-1-verbos-futuro-subjuntivo.md) |
 | [Infinitivo pessoal](doc/u3-1-infinitivo-pessoal.md) |
+| [Pronomes relativos](doc/u3-1-pronomes-relativos.md) |
 | [Signos](doc/u3-1-signos.md) |
 | [Sorte ou azar](doc/u3-1-sorte-azar.md) |
 | [CV](doc/u3-1-cv.md) |
 | [Provérbios](doc/u3-1-proverbios.md) |
+| [Sinônimos e antónimos](doc/u3-1-sinonimos-antonimos.md) |
