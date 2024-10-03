@@ -109,25 +109,29 @@
 
 ## Sobremesas
 
+* bala (caramelo)
+* bolo de chocolate
 * brigadeiro (trufa)
+* chiclete
+* chocolate
+* cocada
 * doce de abóbora como coco
 * doces
 * frutas de estação
 * frutas tropicais
-* salada de frutas
+* goiabada
+* guloseima (golosina)
+* jujuba
 * manjar branco
-* picolé / sorvete
+* paçoca
+* pamonha
+* sorvete de massa (helado cucurucho)
+* sorvete picolé (helado palito)
+* pirulito (chupetín)
 * pudim
 * rocambole (pionono)
 * romeu e julieta
-* cocada
-* bolo de chocolate
-* jujuba
-* bala (caramelo)
-* guloseima (golosina)
-* goiabada
-* paçoca
-* pamonha
+* salada de frutas
 
 ## Lanches
 
@@ -200,14 +204,20 @@
 
 ## As bebidas
 
+* água
 * água mineral com / sem gás
 * batidas
+* cachaça
+* café
 * caipirinha = água-ardente = pinga
 * cerveja
+* espumante
 * limonada
 * refrigerante
 * suco
+* uísque
 * vinho (branco e tinto)
+* vodca
 
 ## Tomar chimarrão
 
@@ -227,3 +237,13 @@
 * guardanapo
 * ter fome / ter sede
 * toalha de mesa
+
+## O que te faz engordar
+
+| O que acreditam | O que realmente é |
+| -- | -- |
+| comer a noite           | exagerar nas quantidades |
+| não tomar café da manhã | não fazer exercícios     |
+| comer fruta             | abusar do açúcar e dos processados |
+| comer carboidratos      | se descontrolar no fim de semana |
+|                         | viver estressada e não dormir |
