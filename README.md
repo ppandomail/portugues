@@ -4,6 +4,7 @@
 
 | Unidade 1 - PESSOAS |
 | -- |
+| [Expressões de sobrevivência](doc/u1-1-expressoes-sobrevivencia.md) |
 | [Cores](doc/u1-1-cores.md) |
 | [Cumprimentos](doc/u1-1-cumprimentos.md) |
 | [Agradecimento](doc/u1-1-agradecimento.md) |

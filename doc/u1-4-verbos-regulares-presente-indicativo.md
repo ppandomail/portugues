@@ -11,19 +11,24 @@
 
 * amar
 * apagar (borrar)
+* assinar (firmar)
 * caminhar
 * cantar
 * colocar
+* conectar
 * cozinhar
 * desligar (apagar)
 * escutar
 * estudar
+* falar = conversar
 * ficar (quedar)
 * gostar de
 * jogar
 * lavar
-* ligar (prender)
+* ligar (prender) = telefonar
+* mandar = enviar
 * misturar
+* morar
 * olhar (ver)
 * tentar
 * tirar (sacar)

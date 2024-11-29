@@ -17,6 +17,7 @@
 | loja f. (tienda) |
 | orçamento m. |
 | preço m. |
+| troco m. (vuelto) |
 | provador m. |
 | seção de senhoras / senhores / jovens / crianças f. |
 
@@ -25,6 +26,8 @@
 | moeda f. |
 | nota f. (billete) |
 | centavos / real / reais |
+| 1 real |
+| 2/5/10/20/50/100 reais |
 
 | Pagamentos |
 | -- |

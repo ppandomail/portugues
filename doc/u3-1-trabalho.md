@@ -10,6 +10,7 @@
 | caderno m. |
 | calculadora f. |
 | caneta f. |
+| caneta tinteiro f. (pluma fuente) |
 | clips m. |
 | cola f. |
 | compasso m. (compas) |

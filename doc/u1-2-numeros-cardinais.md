@@ -44,7 +44,8 @@
 
 1. Quantos anos você tem?  
 1. Quantos irmãos você tem?  
-1. Qual o número do seu documento?
+1. Qual é o número do seu documento?
+1. Qual é o número do seu telefone?
 1. Quantos anos faz que se aposentou?
 1. Quantos anos você mora em Buzios?
 1. Qual a sua data de nascimento? - 1975 (mil novecento e setenta e cinco)

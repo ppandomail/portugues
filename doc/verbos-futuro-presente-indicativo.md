@@ -1,15 +1,18 @@
 # Verbos - Futuro do Presente do Indicativo
 
-* É empregado para representar fatos aunda não realizados
+* É empregado para representar fatos ainda não realizados
+* O futuro simples não é muito usado na linguagem oral. Normalmente, usamos o verbo "ir" + verbo para indicar o futuro
 
 ## Regulares
 
 | Pronome | Infinitivo |
 | -- | -- |
 | eu    | falar**ei**    |
-| você  | beber**á**    |
+| você  | beber**á**     |
 | nós   | partir**emos** |
 | vocês | dormir**ão**   |
+
+* **Será** que **vai chover**?
 
 ## Irregulares
 

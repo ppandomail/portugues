@@ -48,6 +48,7 @@
 
 * dançarino
 * delegado (comisario)
+* dentista
 * desenhista
 * diarista (limpieza por hora)
 * doceiro (confitero)
@@ -62,6 +63,7 @@
 * engenheiro
 * engenheiro de migração animal
 * engraxate (lustre de zapatos)
+* escritor
 * especulador de moedas virtuais
 * esportista
 * estudante

@@ -18,6 +18,7 @@
 | o México    | mexicano/a    | espanhol |
 | o Peru      | peruano/a     | espanhol |
 | **Portugal**| português/a   | português |
+| a Russia    | russo/a       | russo    |
 | o Uruguai   | uruguaio/a    | espanhol |
 | a Venezuela | venezuelano/a | espanhol |
 

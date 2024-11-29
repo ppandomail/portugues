@@ -8,6 +8,8 @@
 * Olá!
 * Alô!
 
+* Na conversação... "oi" é mais comum do que "olá"
+
 ### Pergunta
 
 * Oi, tudo bem?
@@ -23,6 +25,7 @@
 
 * Como esta você?
 * Como vai?
+* Como vão as coisas?
 * E, aí?
 
 ### Resposta
@@ -41,9 +44,11 @@
 
 ## Cumprimento formal com partes do dia
 
-* Bom dia!
-* Boa tarde!
-* Boa noite!
+|| Exemplo |
+| -- | -- |
+| **Bom dia!**   | Bom dia, seu Ricardo. Como vai? |
+| **Boa tarde!** | Boa tarde, Solange. Como vão as coisas? |
+| **Boa noite!** | Boa noite, Ronaldo. Tudo bom? |
 
 ### Exemplo cumprimento formal
 

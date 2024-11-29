@@ -7,11 +7,12 @@
 1. preparar o café da manhã
 1. tomar o café da manhã
 1. ler os jornais
-1. ir para o trabalho
+1. ir para o trabalho/escola
 1. pegar ônibus
 1. trabalhar + reunião
 1. almoçar
 1. voltar / ir para casa
+1. chegar em casa
 1. merendar/lanchar
 1. estudar idiomas
 1. ir ao parque / cinema / teatro / concerto / banco / consulta médica

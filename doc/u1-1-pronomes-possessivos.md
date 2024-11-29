@@ -11,6 +11,7 @@
 
 ## Exemplos
 
+* Tita é **o meu** apelido
 * Este é **meu** pai
 * **Meu** amigo
 * Quero vender **o meu** carro
@@ -18,6 +19,7 @@
 * **Meus** telefones são muitos pequenos
 * Estes são **meus** amigos
 
+* **A minha** mãe é brasileira
 * Esta é **minha** mãe
 * **A minha** blusa é amarela
 * **Minha** família mora no Brasil
@@ -25,6 +27,7 @@
 * **A minhas** garrafas de água estão debaixo da cama
 * Estas são **minhas** amigas
 
+* E **o seu**?
 * Este é **o seu** livro de física
 * **Seu** café está forte e tem muito adoçante
 * Já chegaram **os seus** amigos
@@ -33,6 +36,7 @@
 * **Seus** oculos são verdes e amarelos como as cores da bandeira do Brasil
 * Estes são **os seus** patins
 
+* **A sua** caneta, obrigado
 * Esta é **a sua** escola
 * Adorei **sua** mochila
 * Estas são **as suas** novas colegas

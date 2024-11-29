@@ -20,11 +20,18 @@
 ## PODER
 
 1. Eu **posso** tudo o que quiser
+1. Por favor, eu **posso** fazer a carteirinha da biblioteca agora?
 1. Não **posso**. Não tenho tempo
+1. Eu não **posso** ligar para ela hoje
 1. Ele **pode** andar de carro
+1. A Cláudia **pode** ser professora
 1. Você **pode** fechar a porta?
+1. Você não **pode** morar aqui
+1. Você **pode** comprar uma caixa de chocolates
 1. Nós **podemos** comer carnes
+1. Meu irmão e eu **podemos** trabalhar mais
 1. Vocês **podem** ficar quetos!
+1. Os estudantes **podem** estudar de manhã?
 
 ## DIZER
 
@@ -79,9 +86,12 @@
 
 1. Eu **quero** alcançar meus objetivos
 1. Eu **quero** uma água / um suco / uma cerveja / uma caipirinha
+1. Eu **quero** uma caixa de chocolates
 1. Ele **quer** falar português
+1. Você **quer** alguma coisa daqui?
 1. Nós **queremos** ir embora
 1. Vocês **querem** tudo para já!
+1. O que vocês **querem**? - Queremos o livro
 
 ## SAIR
 

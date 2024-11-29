@@ -11,6 +11,7 @@
 
 ## Exemplos O
 
+* **o** apelido
 * **o** brinco
 * **o** cantor
 * **o** carro
@@ -24,6 +25,7 @@
 
 * **a** autorização
 * **a** cadeira
+* **a** caneta
 * **a** lata
 * **a** Marcela
 * **a** mulher

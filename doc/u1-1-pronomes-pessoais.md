@@ -17,6 +17,8 @@
 | **Padre**                                            | **Padre Bento, o senhor** pode me ajudar? |
 | **Vossa Alteza / Santidade / Senhoria / Excelência** | **Sr. Presidente, Vossa Excelência** poderia ajudar-me? |
 
+* **NOTE QUE...** Na conversação... "senhor" = "seu" é usado com o primeiro nome o sobrenome. Por exemplo, senhor Ricardo = seu Ricardo
+
 ## Diálogo
 
 * Sol –  Oi, tudo bem?

@@ -73,7 +73,7 @@
 * Sol – O meu nome é Sol e ela é a Tabata
 * Patrícia – Prazer (formal o informal)
 * Sol – Muito prazer (formal)
-* Tabata – Igualmente (informal)
+* Tabata – O prazer é meu (formal) / Igualmente (informal)
 * Sol – A gente se vê!
 * Patrícia - Até mais!
 * Tabata – Tchau!

@@ -16,6 +16,7 @@
 ||
 | -- |
 | Tchau |
+| Preciso ir |
 | A gente se vê |
 | A gente se esbarra por aí (topa) |
 | Até |
@@ -113,6 +114,7 @@
 | Você pode! |
 | Que maravilha! |
 | Estupendo garoto/a |
+| Que legal! (informal) = Que interessante! |
 
 ## Resignação
 

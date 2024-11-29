@@ -9,29 +9,36 @@
 | **longe** => ali / lá | aquele, aqueles, aquela, aquelas | aquilo |
 
 * Vamos lá!
+* **NOTE QUE...** "isto", "isso" e "aquilo" são usados para indicar coisas e não pessoas
 
 ## Exemplos pronomes demonstrativos
 
+* **Este** é o Paulo
 * **Estes** homens / meninos são muito inteligentes
 * **Estes** carros não são meus
 * **Estes** cachorros são pretos
 * **Estes** clientes bebem o café / são do Peru
 * **Estes** lugares são muito bonitos
 * **Esta** casa **aqui** está suja
+* **Esta** é a Karen
 * O que é **isto**?
+* **Isto** é um computador
 
 * **Esse** porta-caneta que está **aí** é novo
 * **Esses** cavalos são muito perigosos
 * **Esses** macarrões estão gostosos
 * **Esse** espelho é muito grande / velho
 * O que é **isso**? - **Isso aí** é brilho labial
+* **Isso** é um álbum de fotos
 * Isso / Isso mesmo / É isso / É isso aí
 
 * **Aqueles** sanduíches de queijo e presunto estão ruins
 * **Aquelas** árvores estão longe
+* **Aquele** é o Fernando
 * **Aquele** óculos é preto
 * **Aquele** café está quente
 * **Aqueles** alunos abren o livro
+* **Aquilo** é um livro
 
 ## Contração de preposições e demonstrativos
 
