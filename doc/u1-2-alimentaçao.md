@@ -60,45 +60,6 @@
 | sardinha m. |
 | siri m. |
 
-| Frutas |
-| -- |
-| abacate m. (palta) |
-| abacaxi m. |
-| açaí m. |
-| ameixa (ciruela) f. |
-| amora (mora) f. |
-| banana f. |
-| cana de açúcar f. |
-| cereja f. |
-| coco m. |
-| figo m. |
-| goiabada f. (membrillo) |
-| kiwi m. |
-| laranja f. |
-| lima f. |
-| limão m. (é azedo) |
-| maçã f. |
-| mamão f. (papaya) |
-| manga f. |
-| maracujá f. |
-| melancia f. (sandia) |
-| melão m. (melón) |
-| morango m. |
-| pêra f. |
-| pêssego m. |
-| tangerina f.  |
-| toranja f. (pomelo) |
-| uva f. |
-
-| Frutas secas |
-| -- |
-| amêndoa f. |
-| amendoim (maní) m. |
-| avelã f. |
-| castanha f. |
-| noz f. |
-| pistache m. |
-
 | Ervas aromáticas |
 | -- |
 | alecrim f. (romero) |

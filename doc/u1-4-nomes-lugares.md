@@ -41,21 +41,6 @@
   * Gosto **da** Europa
   * Conheço **a** África
 
-## As regiões
-
-| Região |
-| -- |
-| Norte |
-| Sul |
-| Leste |
-| Oeste |
-| Nordeste |
-| Noroeste |
-| Sudeste |
-| Sudoeste |
-| Ocidental |
-| Oriental |
-
 ## Os estados do Brasil
 
 | Estado | Adjetivo gentilício |

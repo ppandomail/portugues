@@ -5,23 +5,25 @@
 
 ## Regulares
 
-| Pronome | Infinitivo |
-| -- | -- |
-| eu    | falar**ei**    |
-| você  | beber**á**     |
-| nós   | partir**emos** |
-| vocês | dormir**ão**   |
+| Pronome | Infinitivo     |
+| --      | --             |
+| eu      | falar**ei**    |
+| você    | beber**á**     |
+| nós     | partir**emos** |
+| vocês   | dormir**ão**   |
 
+* Eu **irei** à escola amanhã
+* Você **aprenderá** português
 * **Será** que **vai chover**?
 
 ## Irregulares
 
 | Pronome | FAZER (FAR) | TRAZER (TRAR) | DIZER (DIR) |
-| -- | -- | -- | -- |
-| eu    | **farei**   | **trarei**   | **direi**   |
-| você  | **fará**    | **trará**    | **dirá**    |
-| nós   | **faremos** | **traremos** | **diremos** |
-| vocês | **farão**   | **trarão**   | **dirão**   |
+| --      | --          | --            | --          |
+| eu      | **farei**   | **trarei**    | **direi**   |
+| você    | **fará**    | **trará**     | **dirá**    |
+| nós     | **faremos** | **traremos**  | **diremos** |
+| vocês   | **farão**   | **trarão**    | **dirão**   |
 
 * As crianças comeram muito no lanche hoje, pois sabe que amanhã **comerão** menos
 * Amanhã **viajarei** pela tarde
