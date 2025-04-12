@@ -3,8 +3,8 @@
 | Nivel A1 (básico) |
 | -- |
 | [Cumprimentos/Saudações](doc/cumprimentos.md) |
-| [Números cardinais](doc/u1-2-numeros-cardinais.md) |
-| [Artigos definidos](artigos-definidos.md) |
+| [Números cardinais](doc/numeros-cardinais.md) |
+| [Artigos definidos](doc/artigos-definidos.md) |
 | [Pronomes pessoais](doc/pronomes-pessoais.md) |
 | [Verbo SER - Presente do Indicativo](doc/verbo-ser-presente-indicativo.md) |
 | [Verbo ESTAR - Presente do Indicativo](doc/verbo-estar-presente-indicativo.md) |
@@ -12,7 +12,7 @@
 | [Verbo IR](doc/verbo-ir-presente-indicativo.md) |
 | [Contrações de Preposições EM e DE](doc/contraçoes-preposiçoes-em-de.md) |
 | [Verbos regulares - Presente do Indicativo](doc/verbos-regulares-presente-indicativo.md) |
-| [Períodos do dia](doc/periodos-do-dia) |
+| [Períodos do dia](doc/periodos-do-dia.md) |
 | [Tamanhos](doc/tamanhos.md) |
 | [Aeroporto](doc/aeroporto.md) |
 | [Viagem](doc/viagem.md) |

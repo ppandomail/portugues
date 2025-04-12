@@ -1,13 +1,13 @@
 # Cumprimentos / Saudações
 
-| Formal | Exemplos |
-| -- | -- |
-| **Bom dia!**   | Bom dia, seu Ricardo. Como vai? |
+| Formal         | Exemplos                                |
+| --             | --                                      |
+| **Bom dia!**   | Bom dia, seu Ricardo. Como vai?         |
 | **Boa tarde!** | Boa tarde, Solange. Como vão as coisas? |
-| **Boa noite!** | Boa noite, Ronaldo. Tudo bom? |
+| **Boa noite!** | Boa noite, Ronaldo. Tudo bom?           |
 
-| Informal |
-| -- |
+| Informal     |
+| --           |
 | **Oi!**      |
 | **Olá!**     |
 | **Alô!**     |
@@ -16,25 +16,25 @@
 
 * Na conversação... **"oi"** é mais comum do que **"olá"**
 
-| Perguntas depois de Oi |
-| -- |
-| **Oi, tudo bem?** |
-| **Oi, tudo bom?** |
-| **Oi, tudo azul?** |
-| **Oi, tudo bacana?** |
-| **Oi, tudo beleza?** |
-| **Oi, tudo jóia?** |
-| **Oi, tudo legal?** |
+| Perguntas depois de Oi               |
+| --                                   |
+| **Oi, tudo bem?**                    |
+| **Oi, tudo bom?**                    |
+| **Oi, tudo azul?**                   |
+| **Oi, tudo bacana?**                 |
+| **Oi, tudo beleza?**                 |
+| **Oi, tudo jóia?**                   |
+| **Oi, tudo legal?**                  |
 | **Oi, tudo na santa?** (todo en paz) |
-| **Oi, tudo ótimo?** |
-| **Oi, tudo tranquilo?** |
+| **Oi, tudo ótimo?**                  |
+| **Oi, tudo tranquilo?**              |
 
-| Perguntas | Respostas |
-| -- | -- |
+| Perguntas           | Respostas                         |
+| --                  | --                                |
 | Como esta você?     | Eu estou bem, obrigado/a. E você? |
-| Como vai?           | Bem obrigado/a |
-| Como vão as coisas? | Vai tudo bem |
-| E, aí?              | Se melhorar estraga (que lujo) |
+| Como vai?           | Bem obrigado/a                    |
+| Como vão as coisas? | Vai tudo bem                      |
+| E, aí?              | Se melhorar estraga (que lujo)    |
 
 | Despedidas |
 | -- |
