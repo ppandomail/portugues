@@ -1,7 +1,5 @@
 # Verbo TER - Presento do Indicativo
 
-* Hábito: Sempre que viajo **tenho preguiça** de fazer as malas
-
 ## Conjugação
 
 | Pronome | Presente do Indicativo |
@@ -11,12 +9,17 @@
 | nós     | **temos**              |
 | vocês   | **têm**                |
 
-## Exemplos
+## Exemplos "tenho"
 
 * Eu **tenho** um apartamento em Bs As
 * Eu **tenho** um cachorro
 * Eu **tenho** muitos amigos
 * Eu **tenho** umas bonecas
+* Eu **tenho** seu e-mail? Você **tem** telefone?
+* Eu não **tenho** dúvidas. Vocês **têm**?
+* Sempre que viajo **tenho** preguiça de fazer as malas
+
+## Exemplos "tem"
 
 * A gente **tem** fome
 * Paula **tem** um bom dicionário
@@ -26,10 +29,19 @@
 * Ela **tem** uma carteira preta
 * A gente **tem** ansiedade
 * Você **tem** insônia?
+* Você **tem** como me enviar um fax?
+* Nossa empresa **tem** clientes em toda a América do Sul
+* O senhor **tem** um cartão de visitas?
+* A fábrica **tem** cerca de cem funcionários
+* Ninguém **tem** as respostas dos exercícios?
+
+## Exemplos "temos"
 
 * Nós **temos** uma gata
 * Nós **temos** uns filhos muito alegres
 * Nós **temos** uma professora de português
+
+## Exemplos "têm"
 
 * Vocês **têm** filhos?
 * Elas **têm** medo de ratos
@@ -37,17 +49,7 @@
 * Elas **têm** uns arquivos de texto na pasta do sistema
 * Os senhores **têm** uma partida de futebol
 * Eles **têm** um sorvete de chocolate
-
-## Outros exemplos
-
-1. Você **tem** como me enviar um fax? (ter)
-2. Vocês sempre **têm** reuniões?
-3. Eles **têm** pressa para a entrega da mercadoria?
-4. Nossa empresa **tem** clientes em toda a América do Sul
-5. O senhor **tem** um cartão de visitas?
-6. A fábrica **tem** cerca de cem funcionários
-7. Os pagamentos à vista **têm** desconto?
-8. Vocês **têm** tempo hoje?
-9. Eu **tenho** seu e-mail? Você **tem** telefone?
-10. Eu não **tenho** dúvidas. Vocês **têm** ?
-11. Ninguém **tem** as respostas dos exercícios?
+* Vocês sempre **têm** reuniões?
+* Eles **têm** pressa para a entrega da mercadoria?
+* Os pagamentos à vista **têm** desconto?
+* Vocês **têm** tempo hoje?

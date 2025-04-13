@@ -1,7 +1,7 @@
 # Pronunciação letra A
 
-| Acentos | Som | Exemplos |
-| -- | -- | -- |
+| Acentos             | Som             | Exemplos                 |
+| --                  | --              | --                       |
 | **sem acentos**     | normal          | amor, saber, colaborar   |
 | **agudo (´)**       | aberto          | água, gramática, topázio |
 | **circunflexo (^)** | fechado + nasal | pântano, câmara, âmbar   |

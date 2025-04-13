@@ -17,9 +17,9 @@
 
 ## Perguntas y respostas
 
-| Pergunta | Resposta afirmativa | Resposta negativa |
-| -- | -- | -- |
-| Você/O senhor **é** brasileiro? | **Sou** | Eu **não sou** brasileiro |
+| Pergunta                        | Resposta afirmativa | Resposta negativa         |
+| --                              | --                  | --                        |
+| Você/O senhor **é** brasileiro? | **Sou**             | Eu **não sou** brasileiro |
 
 ## Diálogo
 

@@ -20,12 +20,12 @@
 
 ## Terminados em IR
 
-| Pronome  | SAIR   | DORMIR   | VIR   | PEDIR   | PREFERIR   | OUVIR   | CAIR  | SENTIR   | SEGUIR   | CONSEGUIR   | CORRIGIR   | VESTIR |
-| --       | --     | --       | --    | --      | --         | --      | --    | --       | --       | --          | --         | --     |
-| eu       | saio   | durmo    | venho | peço    | prefiro    | ouço    | caio  | sinto    | sigo     | consigo     | corrijo    | visto  |
-| você     | sai    | dorme    | vem   | pede    | prefere    | ouve    | cai   | sente    | segue    | consegue    | corrige    | veste  |
+| Pronome  | SAIR   | DORMIR   | VIR   | PEDIR   | PREFERIR   | OUVIR   | CAIR  | SENTIR   | SEGUIR   | CONSEGUIR   | CORRIGIR   | VESTIR   |
+| --       | --     | --       | --    | --      | --         | --      | --    | --       | --       | --          | --         | --       |
+| eu       | saio   | durmo    | venho | peço    | prefiro    | ouço    | caio  | sinto    | sigo     | consigo     | corrijo    | visto    |
+| você     | sai    | dorme    | vem   | pede    | prefere    | ouve    | cai   | sente    | segue    | consegue    | corrige    | veste    |
 | nós      | saímos | dormimos | vimos | pedimos | preferimos | ouvimos |caímos | sentimos | seguimos | conseguimos | corrigimos | vestimos |
-| vocês    | saem   | dormem   | vêm   | pedem   | preferem   | ouvem   | caem  | sentem   | seguem   | conseguem   | corrigem   | vestem |
+| vocês    | saem   | dormem   | vêm   | pedem   | preferem   | ouvem   | caem  | sentem   | seguem   | conseguem   | corrigem   | vestem   |
 
 ## Terminados em OR
 

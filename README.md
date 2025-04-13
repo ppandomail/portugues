@@ -1,28 +1,29 @@
 # AULAS DE PORTUGUÊS
 
-| Nivel A1 (básico) |
-| -- |
-| [Cumprimentos/Saudações](doc/cumprimentos.md) |
-| [Números cardinais](doc/numeros-cardinais.md) |
-| [Artigos definidos](doc/artigos-definidos.md) |
-| [Pronomes pessoais](doc/pronomes-pessoais.md) |
-| [Verbo SER - Presente do Indicativo](doc/verbo-ser-presente-indicativo.md) |
-| [Verbo ESTAR - Presente do Indicativo](doc/verbo-estar-presente-indicativo.md) |
-| [Verbo TER](doc/verbo-ter-presente-indicativo.md) |
-| [Verbo IR](doc/verbo-ir-presente-indicativo.md) |
-| [Contrações de Preposições EM e DE](doc/contraçoes-preposiçoes-em-de.md) |
-| [Verbos regulares - Presente do Indicativo](doc/verbos-regulares-presente-indicativo.md) |
-| [Períodos do dia](doc/periodos-do-dia.md) |
-| [Tamanhos](doc/tamanhos.md) |
-| [Aeroporto](doc/aeroporto.md) |
-| [Viagem](doc/viagem.md) |
-| [Carnaval](doc/carnaval.md) |
-| [Tempo](doc/tempo.md) |
-| [Alfabeto](doc/alfabeto.md) |
-| [Acentos](doc/acentos.md) |
+| Nivel A1 (básico)                                                                            |
+| --                                                                                           |
+| [Cumprimentos/Saudações](doc/cumprimentos.md)                                                |
+| [Números cardinais](doc/numeros-cardinais.md)                                                |
+| [Números ordinais](doc/numeros-ordinais.md)                                                  |
+| [Artigos definidos](doc/artigos-definidos.md)                                                |
+| [Pronomes pessoais](doc/pronomes-pessoais.md)                                                |
+| [Verbo SER - Presente do Indicativo](doc/verbo-ser-presente-indicativo.md)                   |
+| [Verbo ESTAR - Presente do Indicativo](doc/verbo-estar-presente-indicativo.md)               |
+| [Verbo TER](doc/verbo-ter-presente-indicativo.md)                                            |
+| [Verbo IR](doc/verbo-ir-presente-indicativo.md)                                              |
+| [Contrações de Preposições EM e DE](doc/contraçoes-preposiçoes-em-de.md)                     |
+| [Verbos regulares - Presente do Indicativo](doc/verbos-regulares-presente-indicativo.md)     |
+| [Períodos do dia](doc/periodos-do-dia.md)                                                    |
+| [Tamanhos](doc/tamanhos.md)                                                                  |
+| [Aeroporto](doc/aeroporto.md)                                                                |
+| [Viagem](doc/viagem.md)                                                                      |
+| [Carnaval](doc/carnaval.md)                                                                  |
+| [Tempo](doc/tempo.md)                                                                        |
+| [Alfabeto](doc/alfabeto.md)                                                                  |
+| [Acentos](doc/acentos.md)                                                                    |
 | [Verbos irregulares - Presente do Indicativo](doc/verbos-irregulares-presente-indicativo.md) |
-| [Cores](doc/cores.md) |
-| [Pronunciação letra A](doc/pronunciaçao-a.md) |
+| [Cores](doc/cores.md)                                                                        |
+| [Pronunciação letra A](doc/pronunciaçao-a.md)                                                |
 
 ---
 
@@ -201,7 +202,6 @@
 
 | Outros |
 | -- |
-| [Expressões de sobrevivência](doc/u1-1-expressoes-sobrevivencia.md) |
 | [Fonética](doc/u1-1-fonetica.md) |
 | [Apresentação de uma pessoa](doc/u1-1-apresentaçao-pessoa.md) |
 | [Estado civil](doc/u1-1-estado-civil.md) |
@@ -211,8 +211,6 @@
 | [Supermercado](doc/u1-2-supermercado.md) |
 | [Pesos e quantidades](doc/u1-2-pesos-quantidades.md) |
 | [Descrição de objetos](doc/u1-2-descriçao-objetos.md) |
-| [Afirmação e Negação](doc/u1-2-afirmaçao-negaçao.md) |
-| [Números ordinais](doc/u1-2-numeros-ordinais.md) |
 | [Alimentação](doc/u1-2-alimentaçao.md) |
 | [Carro](doc/u1-3-carro.md) |
 | [Rotinas](doc/u1-3-rotina.md) |

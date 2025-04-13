@@ -15,30 +15,30 @@
 
 ## Perguntas e respostas
 
-| Pergunta | Resposta afirmativa | Resposta negativa |
-| -- | -- | -- |
-| Você/A senhora **está** doente? | **Estou** | Eu **não estou** |
+| Pergunta                        | Resposta afirmativa | Resposta negativa |
+| --                              | --                  | --                |
+| Você/A senhora **está** doente? | **Estou**           | Eu **não estou**  |
 
 ## Estar + Estados
 
-| Estar com ... | Exemplos |
-| -- | -- |
-| **frio**     | Eu **estou** com **frio**  |
-| **calor**    | Eu **estou** com **calor** |
-| **fome**     | Eu **estou** com **fome**  |
-| **sem fome** | Eu **estou** sem **fome**  |
-| **sono**     | Eu **estou** com **sono**  |
-| **raiva**    | Eu **estou** com **raiva** |
+| Estar com ... | Exemplos                   |
+| --            | --                         |
+| **frio**      | Eu **estou** com **frio**  |
+| **calor**     | Eu **estou** com **calor** |
+| **fome**      | Eu **estou** com **fome**  |
+| **sem fome**  | Eu **estou** sem **fome**  |
+| **sono**      | Eu **estou** com **sono**  |
+| **raiva**     | Eu **estou** com **raiva** |
 
-| Estar ... | Exemplos |
-| -- | -- |
-| **cansado**  | Eu **estou cansado**  |
-| **feliz**    | Eu **estou feliz**    |
-| **triste**   | Eu **estou triste**   |
-| **contente** | Eu **estou contente** |
-| **bem**      | Eu **estou bem**      |
-| **mal**      | Eu **estou mal**      |
-| **doente**   | Eu **estou doente**   |
+| Estar ...     | Exemplos              |
+| --            | --                    |
+| **cansado**   | Eu **estou cansado**  |
+| **feliz**     | Eu **estou feliz**    |
+| **triste**    | Eu **estou triste**   |
+| **contente**  | Eu **estou contente** |
+| **bem**       | Eu **estou bem**      |
+| **mal**       | Eu **estou mal**      |
+| **doente**    | Eu **estou doente**   |
 
 ## Diálogo
 

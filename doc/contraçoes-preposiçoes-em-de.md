@@ -1,9 +1,9 @@
 # Contrações de preposições EM e DE
 
-| Preposição | O | A | OS | AS |
-| -- | -- | -- | -- | -- |
-| DE   | **do**   | **da**   | **dos**   | **das** |
-| EM   | **no**   | **na**   | **nos**   | **nas** |
+| Preposição | O      | A      | OS      | AS      |
+| --         | --     | --     | --      | --      |
+| DE         | **do** | **da** | **dos** | **das** |
+| EM         | **no** | **na** | **nos** | **nas** |
 
 ## Exemplos "DE"
 

@@ -10,22 +10,22 @@
 
 ## Itens para viagem
 
-||
-| -- |
-| assento m. / poltrona f. |
-| bagagem f. |
-| cheques para viagem m. |
-| diária f. |
-| dicionário m. |
-| filmadora f. |
-| guia turistico m. |
-| livre |
-| lotado |
-| lugar m. |
-| mapas f. |
-| máquina fotográfica f. |
-| passaporte m. |
+|                             |
+| --                          |
+| assento m. / poltrona f.    |
+| bagagem f.                  |
+| cheques para viagem m.      |
+| diária f.                   |
+| dicionário m.               |
+| filmadora f.                |
+| guia turistico m.           |
+| livre                       |
+| lotado                      |
+| lugar m.                    |
+| mapas f.                    |
+| máquina fotográfica f.      |
+| passaporte m.               |
 | passagens de ida e volta f. |
-| revistas turísticas f. |
-| vaga f. |
-| voo m. |
+| revistas turísticas f.      |
+| vaga f.                     |
+| voo m.                      |

@@ -1,16 +1,16 @@
 # Carnaval
 
-||
-| -- |
+|                              |
+| --                           |
 | carros alegóricos (carrozas) |
-| desfilado |
+| desfilado                    |
 | desfile das escolas de samba |
-| escola de samba |
-| eventos |
-| fantasiados |
-| festa |
-| frevo |
-| micareta |
-| sambódromos |
-| trio elétrico |
-| vencedor |
+| escola de samba              |
+| eventos                      |
+| fantasiados                  |
+| festa                        |
+| frevo                        |
+| micareta                     |
+| sambódromos                  |
+| trio elétrico                |
+| vencedor                     |

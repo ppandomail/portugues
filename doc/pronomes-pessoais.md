@@ -1,7 +1,7 @@
 # Pronomes pessoais
 
-| Singular | Plural |
-| -- | -- |
+| Singular      | Plural          |
+| --            | --              |
 | **eu**        | **nós**         |
 | **você**      | **vocês**       |
 | **ele**       | **eles**        |

@@ -2,8 +2,8 @@
 
 * As letras em português são masculinas
 
-  | | | | |
-  | -- | -- | -- | -- |
+  |         |          |         |              |
+  | --      | --       | --      | --           |
   | A (a)   | H (agá)  | O (o)   | V (vê)       |
   | B (bê)  | I (i)    | P (pê)  | W (dábliu)   |
   | C (cê)  | J (yota) | Q (kê)  | X (shis)     |
@@ -22,3 +22,4 @@
 * Pode repetir, por favor?
 * Repita, por favor
 * Soletre, por favor
+* Eu não entendi

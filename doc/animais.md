@@ -5,31 +5,31 @@
 * fera (fiera)
 * filhote (cria)
 
-| Aves |
-| -- |
-| **águia** f. |
-| **andorinha** f. (golondrina) |
-| **arara** f. / **papagaio** m. |
-| **beija-flor** f. |
-| **canário** m. |
-| **cegonha** f. |
-| **codorna** f. (codorniz) |
-| **coruja** f. |
-| **gaivota** f. |
-| **galinha** f. / **galo** m. |
-| **garça** f. |
-| **joão de barro** m. (hornero) |
-| **loro** m. |
-| **marreco** m. (pato) |
-| **pássaro** m. |
-| **pavão** m. |
-| **periquito** m. (cotorra) |
-| **pica-pau** m. (carpintero) |
-| **pinguim** m. |
+| Aves                                     |
+| --                                       |
+| **águia** f.                             |
+| **andorinha** f. (golondrina)            |
+| **arara** f. / **papagaio** m.           |
+| **beija-flor** f.                        |
+| **canário** m.                           |
+| **cegonha** f.                           |
+| **codorna** f. (codorniz)                |
+| **coruja** f.                            |
+| **gaivota** f.                           |
+| **galinha** f. / **galo** m.             |
+| **garça** f.                             |
+| **joão de barro** m. (hornero)           |
+| **loro** m.                              |
+| **marreco** m. (pato)                    |
+| **pássaro** m.                           |
+| **pavão** m.                             |
+| **periquito** m. (cotorra)               |
+| **pica-pau** m. (carpintero)             |
+| **pinguim** m.                           |
 | **pinto** m. / **pintinho** m. (pollito) |
-| **pombo/a** f./m. |
-| **tucano** m. |
-| **urubu** m. (buitre) |
+| **pombo/a** f./m.                        |
+| **tucano** m.                            |
+| **urubu** m. (buitre)                    |
 
 | Mamíferos |
 | -- |
@@ -65,41 +65,41 @@
 | **vaca** f. |
 | **zebra** f. |
 
-| Répteis e anfíbios |
-| -- |
-| **camaleão** m. |
+| Répteis e anfíbios             |
+| --                             |
+| **camaleão** m.                |
 | **cobra** f. / **serpente** f. |
-| **jacaré** m. |
-| **rã** f. |
-| **sapo** m. |
-| **tartaruga** f. |
-| **tartaruga marinha** f. |
+| **jacaré** m.                  |
+| **rã** f.                      |
+| **sapo** m.                    |
+| **tartaruga** f.               |
+| **tartaruga marinha** f.       |
 
-| Insetos |
-| -- |
-| **abelha** f. |
-| **aranha** f. |
-| **barata** f. (cuca) |
-| **borboleta** f. |
-| **escorpião** m. |
-| **formiga** f. |
+| Insetos                     |
+| --                          |
+| **abelha** f.               |
+| **aranha** f.               |
+| **barata** f. (cuca)        |
+| **borboleta** f.            |
+| **escorpião** m.            |
+| **formiga** f.              |
 | **gafanhoto** m. (langosta) |
-| **grilo** m. |
-| **joaninha** f. |
-| **lagartixa** f. |
-| **mosca** f. |
-| **mosquito** m. |
-| **vespa** f. |
+| **grilo** m.                |
+| **joaninha** f.             |
+| **lagartixa** f.            |
+| **mosca** f.                |
+| **mosquito** m.             |
+| **vespa** f.                |
 
-| Animais aquáticos |
-| -- |
-| **arraiá** f. (raya) |
-| **camarão** m. |
+| Animais aquáticos               |
+| --                              |
+| **arraiá** f. (raya)            |
+| **camarão** m.                  |
 | **caranguejo** m. / **siri** m. |
-| **peixe** m. |
-| **polvo** m. (pulpo) |
-| **sardinha** f. |
-| **tubarão** m. |
+| **peixe** m.                    |
+| **polvo** m. (pulpo)            |
+| **sardinha** f.                 |
+| **tubarão** m.                  |
 
 ## Expressões com animais
 

@@ -2,28 +2,30 @@
 
 ## A
 
-* As apariências enganan
-* As más notícias correm
-* A união faz a força
-* Alegria de pobre dura pouco
 * A esperança é a última que morre
 * A galinha do vizinho é sempre mais gorda
 * A mentira tem pernas curtas
-* As paredes têm ouvidos
-* A pressa é inimiga da perfeição
+* A pressa é inimiga da perfeção
+* A união faz a força
+
+* Água mole (blanda), pedra dura, tanto bate (choca) até que fura (agujerea)
+* Alegria de pobre dura pouco
 * Amanhã é outro dia
 * Amigos, amigos, negócio à parte
 * Amor com amor se paga
 * Antes pouco que nada
 * Antes tarde do que nunca
-* Água mole (blanda), pedra dura, tanto bate (choca) até que fura (agujerea)
+
+* As apariências enganan
+* As más notícias correm
+* As paredes têm ouvidos
 
 ## C
 
+* Cada macaco no seu galho (rama)
+* Cavalo dado não se olha os dentes
 * Colocar os pingos nos is (puntos sobre las ies)
 * Com coisa seria não se brinca
-* Cavalo dado não se olha os dentes
-* Cada macaco no seu galho (rama)
 
 ## D
 
@@ -33,12 +35,13 @@
 
 ## E
 
-* Errando é que se aprende
-* É melhor prevenir do que remediar
-* Em boca fechada não entra mosquito
-* Esmola quando é muita o santo desconfia
-* Em casa de ferreiro, espeto de pau
 * É dando que se recebe
+* É melhor prevenir do que remediar
+
+* Em boca fechada não entra mosquito
+* Em casa de ferreiro, espeto de pau
+* Errando é que se aprende
+* Esmola quando é muita o santo desconfia
 
 ## F
 
@@ -63,16 +66,16 @@
 
 ## P
 
-* Pra bom entendedor, meia palavra basta
 * Pau que nasce torto (torcido) nunca se endireita
 * Pimenta nos olhos dos outros é refresco
 * Pôr a mão no fogo
+* Pra bom entendedor, meia palavra basta
 
 ## Q
 
-* Quem canta seus males espanta
-* Quem ri por último ri melhor
-* Quem avisa amigo é
 * Quando um burro fala, o outro abaixa a orelha
-* Quem tem pressa come cru (crudo)
+* Quem avisa amigo é
+* Quem canta seus males espanta
 * Quem com ferro fere, com ferro será ferido
+* Quem ri por último ri melhor
+* Quem tem pressa come cru (crudo)

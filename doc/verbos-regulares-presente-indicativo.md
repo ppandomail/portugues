@@ -11,11 +11,19 @@
 
 ## Formas
 
-|  | Forma positiva | Forma negativa | Forma interrogativa positiva | Forma interrogativa negativa |
-| -- | -- | -- | -- | -- |
-| **-AR** | Você **brinca** na rua | Você **não brinca** na rua | Você **brinca** na rua? | Você **não brinca** na rua? |
-| **-ER** | Você **come** feijoada | Você **não come** feijoada | Você **come** feijoada? | Você **não come** feijoada? |
-| **-IR** | Você **abre** a janela | Você **não abre** a janela | Você **abre** a janela? | Você **não abre** a janela? |
+|         | Forma positiva         | Forma negativa             | Forma interrogativa positiva | Forma interrogativa negativa |
+| --      | --                     | --                         | --                           | --                           |
+| **-AR** | Você **brinca** na rua | Você **não brinca** na rua | Você **brinca** na rua?      | Você **não brinca** na rua?  |
+| **-ER** | Você **come** feijoada | Você **não come** feijoada | Você **come** feijoada?      | Você **não come** feijoada?  |
+| **-IR** | Você **abre** a janela | Você **não abre** a janela | Você **abre** a janela?      | Você **não abre** a janela?  |
+
+## Afirmação e Negação
+
+| Pergunta                     | Afirmação | Negação        |
+| --                           | --        | --             |
+| **Você canta?**              | Canto     | Não. Não Canto |
+| **Você quer um café?**       | Eu quero  | Não. Não quero |
+| **Você come bolo de milho?** | Eu como   | Não. Não como  |
 
 ## Verbos terminados en -AR
 
