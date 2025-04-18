@@ -2,8 +2,8 @@
 
 * Os dias laborais da semana são femininos
 
-  | Dias |
-  | -- |
+  | Dias                         |
+  | --                           |
   | o domingo (dia do descanso)  |
   | a segunda-feira              |
   | a terça-feira                |
@@ -25,5 +25,7 @@
 
 ## A feira vs As férias
 
-* A feira: pontos de vendas
-* As férias: descanso do trabalho, estudo, etc
+|               |                                   |
+| --            | --                                |
+| **a feira**   | pontos de vendas                  |
+| **as férias** | descanso do trabalho, estudo, etc |

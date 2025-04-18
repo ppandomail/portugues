@@ -1,7 +1,7 @@
 # Pronunciação letra J
 
-| Exemplos |
-| -- |
+| Exemplos          |
+| --                |
 | anjo              |
 | cajado (bastón)   |
 | jacaré            |

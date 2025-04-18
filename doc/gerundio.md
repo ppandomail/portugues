@@ -4,17 +4,17 @@
 * Indica uma ação que está ocorrendo
 * Formação: substituir a letra **"r"** do verbo no infinitivo pela terminação **"ndo"**
 
-  | Verbo no infinitivo | Gerúndio |
-  | -- | -- |
-  | falar  | fala**ndo**  |
-  | beber  | bebe**ndo**  |
-  | partir | parti**ndo** |
-  | pôr    | po**ndo**    |
+  | Verbo no infinitivo | Gerúndio     |
+  | --                  | --           |
+  | falar               | fala**ndo**  |
+  | beber               | bebe**ndo**  |
+  | partir              | parti**ndo** |
+  | pôr                 | po**ndo**    |
 
 ## Exemplos "-AR"
 
-| -AR | Gerúndio |
-| -- | -- |
+| -AR       | Gerúndio       |
+| --        | --             |
 | amar      | **amando**     |
 | brincar   | **brincando**  |
 | cantar    | **cantando**   |
@@ -27,8 +27,8 @@
   
 ## Exemplos "-ER"
 
-| -ER | Gerúndio |
-| -- | -- |
+| -ER      | Gerúndio       |
+| --       | --             |
 | comer    | **comendo**    |
 | correr   | **correndo**   |
 | escrever | **escrevendo** |
@@ -39,8 +39,8 @@
 
 ## Exemplos "-IR"
 
-| -IR | Gerúndio |
-| -- | -- |
+| -IR      | Gerúndio       |
+| --       | --             |
 | abrir    | **abrindo**    |
 | assistir | **assistindo** |
 | corrigir | **corrigindo** |
@@ -53,8 +53,8 @@
 
 ## Exemplos "-OR"
 
-| -OR | Gerúndio |
-| -- | -- |
+| -OR    | Gerúndio     |
+| --     | --           |
 | compôr | **compondo** |
 | expor  | **expondo**  |
 | propor | **propondo** |

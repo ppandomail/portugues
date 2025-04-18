@@ -1,7 +1,7 @@
 # Pronunciação letra S
 
-|  | Som | Exemplos |
-| -- | -- | -- |
+|                        | Som    | Exemplos                                          |
+| --                     | --     | --                                                |
 | **S-**                 | normal | sal                                               |
 | **-S**                 | normal | notas                                             |
 | **S + consoante**      | normal | festa                                             |

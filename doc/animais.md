@@ -5,7 +5,9 @@
 * fera (fiera)
 * filhote (cria)
 
-| Aves                                     |
+## Aves
+
+|                                          |
 | --                                       |
 | **águia** f.                             |
 | **andorinha** f. (golondrina)            |
@@ -31,41 +33,45 @@
 | **tucano** m.                            |
 | **urubu** m. (buitre)                    |
 
-| Mamíferos |
-| -- |
-| **baleia** f. |
-| **bezerra** f. (ternera) |
-| **boi** m. (buey) |
-| **cachorro** m.  / **cão** m. |
-| **camelo** m. |
-| **capivara** f. (carpincho) |
-| **cavalo** m. |
-| **coelho** m. |
-| **égua** f. |
-| **elefante** m.  |
-| **esquilo** m. |
-| **gato** m. |
-| **girafa** f. |
-| **golfinho** m. |
-| **leão** m. |
-| **lebre** f. |
-| **lobo** m.|
-| **macaco** m. / **mico** m. |
-| **morcego** m. |
-| **onça pintada** f. (leopardo) |
-| **ovelha** f. |
-| **pato** m. |
-| **porco** m. |
-| **porco espinho** m. |
-| **raposa** (zorro) f. |
-| **rato** m. |
-| **tigre** m. |
-| **touro** m. |
-| **urso** m. |
-| **vaca** f. |
-| **zebra** f. |
+## Mamíferos
 
-| Répteis e anfíbios             |
+|                                 |
+| --                              |
+| **baleia** f.                   |
+| **bezerra** f. (ternera)        |
+| **boi** m. (buey)               |
+| **cachorro** m.  / **cão** m.   |
+| **camelo** m.                   |
+| **capivara** f. (carpincho)     |
+| **cavalo** m.                   |
+| **coelho** m.                   |
+| **égua** f.                     |
+| **elefante** m.                 |
+| **esquilo** m.                  |
+| **gato** m.                     |
+| **girafa** f.                   |
+| **golfinho** m.                 |
+| **leão** m.                     |
+| **lebre** f.                    |
+| **lobo** m.                     |
+| **macaco** m. / **mico** m.     |
+| **morcego** m.                  |
+| **onça pintada** f. (leopardo)  |
+| **ovelha** f.                   |
+| **pato** m.                     |
+| **porco** m.                    |
+| **porco espinho** m.            |
+| **raposa** (zorro) f.           |
+| **rato** m.                     |
+| **tigre** m.                    |
+| **touro** m.                    |
+| **urso** m.                     |
+| **vaca** f.                     |
+| **zebra** f.                    |
+
+## Répteis e anfíbios
+
+|                                |
 | --                             |
 | **camaleão** m.                |
 | **cobra** f. / **serpente** f. |
@@ -75,7 +81,9 @@
 | **tartaruga** f.               |
 | **tartaruga marinha** f.       |
 
-| Insetos                     |
+## Insetos
+
+|                             |
 | --                          |
 | **abelha** f.               |
 | **aranha** f.               |
@@ -91,7 +99,9 @@
 | **mosquito** m.             |
 | **vespa** f.                |
 
-| Animais aquáticos               |
+## Animais aquáticos
+
+|                                 |
 | --                              |
 | **arraiá** f. (raya)            |
 | **camarão** m.                  |

@@ -27,49 +27,49 @@
 
 ---
 
-| Nivel A2 (básico+) |
-| -- |
-| [Pronomes possessivos](doc/pronomes-possessivos.md) |
-| [Dias da semana](doc/dias-da-semana.md) |
-| [Pronunciação letra B e V](doc/pronunciaçao-b-v.md) |
-| [TUDO vs TODO](doc/tudo-vs-todo.md) |
-| [Corpo humano](doc/corpo-humano.md) |
-| [Pronunciação letra R](doc/pronunciaçao-r.md) |
-| [Pronomes interrogativos](doc/pronomes-interrogativos.md) |
-| [QUE vs O QUE](doc/que-vs-o-que.md) |
-| [Regiões do Brasil](doc/regioes-do-brasil.md) |
-| [Hotel](doc/hotel.md) |
-| [Meios de transporte](doc/meios-transporte.md) |
-| [Verbos - Futuro Simples/Imediato do Indicativo](doc/verbos-futuro-imediato.md) |
-| [Partes da casa](doc/partes-casa.md) |
-| [Pronunciação letra J](doc/pronunciaçao-j.md) |
-| [Horas](doc/horas.md) |
-| [Momentos do dia](doc/momentos-do-dia.md) |
-| [Cozinha](doc/cozinha.md) |
-| [Pronunciação letra L](doc/pronunciaçao-l.md) |
-| [Verbos regulares - Pretérito Perfeito Simples do Indicativo](doc/verbos-regulares-preterito-perfeito-simples-indicativo.md) |
-| [Banheiro](doc/banheiro.md) |
-| [Pronunciação letra S](doc/pronunciaçao-s.md) |
+| Nivel A2 (básico+)                                                                                                               |
+| --                                                                                                                               |
+| [Pronomes possessivos](doc/pronomes-possessivos.md)                                                                              |
+| [Dias da semana](doc/dias-da-semana.md)                                                                                          |
+| [Pronunciação letra B e V](doc/pronunciaçao-b-v.md)                                                                              |
+| [TUDO vs TODO](doc/tudo-vs-todo.md)                                                                                              |
+| [Corpo humano](doc/corpo-humano.md)                                                                                              |
+| [Pronunciação letra R](doc/pronunciaçao-r.md)                                                                                    |
+| [Pronomes interrogativos](doc/pronomes-interrogativos.md)                                                                        |
+| [QUE vs O QUE](doc/que-vs-o-que.md)                                                                                              |
+| [Regiões do Brasil](doc/regioes-do-brasil.md)                                                                                    |
+| [Hotel](doc/hotel.md)                                                                                                            |
+| [Meios de transporte](doc/meios-transporte.md)                                                                                   |
+| [Verbos - Futuro Simples/Imediato do Indicativo](doc/verbos-futuro-imediato.md)                                                  |
+| [Partes da casa](doc/partes-casa.md)                                                                                             |
+| [Pronunciação letra J](doc/pronunciaçao-j.md)                                                                                    |
+| [Horas](doc/horas.md)                                                                                                            |
+| [Momentos do dia](doc/momentos-do-dia.md)                                                                                        |
+| [Cozinha](doc/cozinha.md)                                                                                                        |
+| [Pronunciação letra L](doc/pronunciaçao-l.md)                                                                                    |
+| [Verbos regulares - Pretérito Perfeito Simples do Indicativo](doc/verbos-regulares-preterito-perfeito-simples-indicativo.md)     |
+| [Banheiro](doc/banheiro.md)                                                                                                      |
+| [Pronunciação letra S](doc/pronunciaçao-s.md)                                                                                    |
 | [Verbos irregulares - Pretérito Perfeito Simples do Indicativo](doc/verbos-irregulares-preterito-perfeito-simples-indicativo.md) |
-| [Sala](doc/sala.md) |
-| [Expressões](doc/expressoes.md) |
-| [Gerúndio](doc/gerundio.md) |
-| [Quarto](doc/quarto.md) |
-| [Pronunciação letra Z](doc/pronunciaçao-z.md) |
-| [Verbos regulares - Pretérito Imperfeito do Indicativo](doc/verbos-regulares-preterito-imperfeito-indicativo.md) |
-| [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/verbos-irregulares-preterito-imperfeito-indicativo.md) |
-| [Família](doc/familia.md) |
-| [Dia das bruxas](doc/dia-das-bruxas.md) |
-| [Pronunciação letra X](doc/pronunciaçao-x.md) |
-| [Verbos Futuro do Presente do Indicativo](doc/verbos-futuro-presente-indicativo.md) |
-| [Frutas](doc/frutas.md) |
-| [Pronunciação TE e DE](doc/pronunciaçao-te-de.md) |
-| [Contrações de Preposição POR](doc/contraçoes-preposiçao-por) |
-| [Animais](doc/animais.md) |
-| [Verbo IR + Preposições](doc/verbo-ir-preposiçoes.md) |
-| [Pronomes demonstrativos](doc/pronomes-demonstrativos.md) |
-| [Sinais de trânsito / tráfego](doc/sinais-transito.md) |
-| [Palavras comuns](doc/palavras-comuns.md) |
+| [Sala](doc/sala.md)                                                                                                              |
+| [Expressões](doc/expressoes.md)                                                                                                  |
+| [Gerúndio](doc/gerundio.md)                                                                                                      |
+| [Quarto](doc/quarto.md)                                                                                                          |
+| [Pronunciação letra Z](doc/pronunciaçao-z.md)                                                                                    |
+| [Verbos regulares - Pretérito Imperfeito do Indicativo](doc/verbos-regulares-preterito-imperfeito-indicativo.md)                 |
+| [Verbos irregulares - Pretérito Imperfeito do Indicativo](doc/verbos-irregulares-preterito-imperfeito-indicativo.md)             |
+| [Família](doc/familia.md)                                                                                                        |
+| [Dia das bruxas](doc/dia-das-bruxas.md)                                                                                          |
+| [Pronunciação letra X](doc/pronunciaçao-x.md)                                                                                    |
+| [Verbos Futuro do Presente do Indicativo](doc/verbos-futuro-presente-indicativo.md)                                              |
+| [Frutas](doc/frutas.md)                                                                                                          |
+| [Pronunciação TE e DE](doc/pronunciaçao-te-de.md)                                                                                |
+| [Contrações de Preposição POR](doc/contraçoes-preposiçao-por)                                                                    |
+| [Animais](doc/animais.md)                                                                                                        |
+| [Verbo IR + Preposições](doc/verbo-ir-preposiçoes.md)                                                                            |
+| [Pronomes demonstrativos](doc/pronomes-demonstrativos.md)                                                                        |
+| [Sinais de trânsito / tráfego](doc/sinais-transito.md)                                                                           |
+| [Palavras comuns](doc/palavras-comuns.md)                                                                                        |
 
 ---
 

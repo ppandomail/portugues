@@ -1,7 +1,7 @@
 # Verbos irregulares - Pretérito Perfeito do Indicativo
 
-| Pronome | SER/IR | ESTAR | TER | PODER | QUERER | DAR | FAZER | PÔR | VIR | VER | TRAZER | DIZER |
-| --      | --     | --    | --  | --    | --     | --  | --    | --  | --  | --  | --     | --    |
+| Pronome | SER/IR    | ESTAR         | TER         | PODER       | QUERER       | DAR       | FAZER       | PÔR         | VIR        | VER       | TRAZER        | DIZER        |
+| --      | --        | --            | --          | --          | --           | --        | --          | --          | --         | --        | --            | --           |
 | eu      | **fui**   | **estive**    | **tive**    | **pude**    | **quis**     | **dei**   | **fiz**     | **pus**     | **vim**    | **vi**    | **trouxe**    | **disse**    |
 | você    | **foi**   | **esteve**    | **teve**    | **pôde**    | **quis**     | **deu**   | **fez**     | **pôs**     | **veio**   | **viu**   | **trouxe**    | **disse**    |
 | nós     | **fomos** | **estivemos** | **tivemos** | **pudemos** | **quisemos** | **demos** | **fizemos** | **pusemos** | **viemos** | **vimos** | **trouxemos** | **dissemos** |

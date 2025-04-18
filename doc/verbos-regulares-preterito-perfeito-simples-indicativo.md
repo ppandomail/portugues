@@ -16,9 +16,9 @@
 
 ## Formas
 
-| Forma positiva | Forma negativa | Forma interrogativa positiva | Forma interrogativa negativa |
-| -- | -- | -- | -- |
-| Hoje eu **trabalhei** | Hoje eu **não trabalhei** | Hoje eu **trabalhei** ? | Hoje eu **não trabalhei**? |
+| Forma positiva        | Forma negativa            | Forma interrogativa positiva | Forma interrogativa negativa |
+| --                    | --                        | --                           | --                           |
+| Hoje eu **trabalhei** | Hoje eu **não trabalhei** | Hoje eu **trabalhei** ?      | Hoje eu **não trabalhei**?   |
 
 ## Exemplos
 

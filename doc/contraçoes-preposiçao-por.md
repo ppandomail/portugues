@@ -1,8 +1,8 @@
 # Contração da preposição POR
 
-| Preposição | O | A | OS | AS |
-| -- | -- | -- | -- | -- |
-| POR   | **pelo**   | **pela**   | **pelos**   | **pelas** |
+| Preposição | O        | A        | OS        | AS        |
+| --         | --       | --       | --        | --        |
+| POR        | **pelo** | **pela** | **pelos** | **pelas** |
 
 * PÊLO (pelo del cuerpo ou animais)
 

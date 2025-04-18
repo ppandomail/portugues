@@ -4,7 +4,7 @@
   * **O que** você faz?
   * **O que** designa a expressão "bossa"?
 
-| Pronome | | Exemplo |
-| -- | -- | -- |
+| Pronome   |                            | Exemplo                                       |
+| --        | --                         | --                                            |
 | **QUE**   | referese a algo específico | **Que** tipo de comida você gosta?            |
 | **O QUE** | não se sabe o que          | **O que** você comeu ontem? **O que** é isso? |

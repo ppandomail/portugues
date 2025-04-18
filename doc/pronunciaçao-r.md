@@ -2,8 +2,8 @@
 
 |                      | Som   | Exemplos                         |
 | --                   | --    | --                               |
-| **entre vocales**    | igual | barato, caro, marido             |
-| **consoantes antes** | igual | atrás, estrela, trabalho         |
+| **entre vogais**     | igual | barato, caro, marido             |
+| **consoante antes**  | igual | atrás, estrela, trabalho         |
 | **começo palavra**   | J     | rua, rosa, risada, rei           |
 | **rr**               | J     | arrumar, sorriso, amarrar, carro |
 | **nr**               | J     | honrar, enrolar, enraivar        |

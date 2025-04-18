@@ -1,27 +1,27 @@
 # A família
 
-| Masculino | Masculino afeitivo | Feminino afeitivo | Feminino|
-| -- | -- | -- | -- |
-| bisavô | | | bisavó |
-| avô | vovô | vovó | avó |
-| pai | papai | mamãe | mãe |
-| tio | titio | titia | tia |
-| primo | | | prima |
-| esposo/marido | | | esposa/mulher |
-| filho | | | filha |
-| sobrinho | | | sobrinha |
-| padrinho | | | madrinha |
-| afilhado | | | afilhada |
-| neto | | | neta |
-| sogro | | | sogra |
-| gênro | | | nora |
-| cunhado | | | cunhada |
-| padrasto | | | madrasta |
-| enteado | | | enteada |
-| meio-irmão | | | meia-irmã |
-| irmão | | | irmã |
-| o caçula | | | a caçula |
-| noivo (comprometido) | | | noiva |
+| Masculino            | Masculino afeitivo | Feminino afeitivo | Feminino      |
+| --                   | --                 | --                | --            |
+| bisavô               |                    |                   | bisavó        |
+| avô                  | vovô               | vovó              | avó           |
+| pai                  | papai              | mamãe             | mãe           |
+| tio                  | titio              | titia             | tia           |
+| primo                |                    |                   | prima         |
+| esposo/marido        |                    |                   | esposa/mulher |
+| filho                |                    |                   | filha         |
+| sobrinho             |                    |                   | sobrinha      |
+| padrinho             |                    |                   | madrinha      |
+| afilhado             |                    |                   | afilhada      |
+| neto                 |                    |                   | neta          |
+| sogro                |                    |                   | sogra         |
+| gênro                |                    |                   | nora          |
+| cunhado              |                    |                   | cunhada       |
+| padrasto             |                    |                   | madrasta      |
+| enteado              |                    |                   | enteada       |
+| meio-irmão           |                    |                   | meia-irmã     |
+| irmão                |                    |                   | irmã          |
+| o caçula             |                    |                   | a caçula      |
+| noivo (comprometido) |                    |                   | noiva         |
 
 * Enteado: filho de uma relação anterior do cônyuge
 
@@ -33,8 +33,8 @@
 
 ## Fora da família
 
-| Masculino | Feminino |
-| -- | -- |
-| amigo | amiga |
-| colega | colega |
+| Masculino        | Feminino |
+| --               | --       |
+| amigo            | amiga    |
+| colega           | colega   |
 | namorado (novio) | namorada |

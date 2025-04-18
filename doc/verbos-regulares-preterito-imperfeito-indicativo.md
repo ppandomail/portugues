@@ -2,12 +2,11 @@
 
 ## Usos
 
-1. Falar de algo que era presente em uma época passada
-    * Quando eu **era** criança, **costumava** brincar até tarde
-1. Falar de ações que se repetiam
-    * Ela **saía** com os amigos todos os sábados
-1. Narrar contos de fábulas, histórias, legendas
-    * **Era** uma vez uma linda princesa ...
+| Usos                                                | Exemplos                                                   |
+| --                                                  | --                                                         |
+| Falar de algo que era presente em uma época passada | Quando eu **era** criança, **costumava** brincar até tarde |
+| Falar de ações que se repetiam                      | Ela **saía** com os amigos todos os sábados                |
+| Narrar contos de fábulas, histórias, legendas       | **Era** uma vez uma linda princesa ...                     |
 
 ## Conjugação
 

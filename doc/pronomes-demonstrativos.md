@@ -4,11 +4,11 @@
 * **Variáveis**: concordância de gênero e número
 * **Invariáveis**: não concordância
 
-| Espaço | Tempo | Variáveis | Invariáveis |
-| -- | -- | -- | -- |
-| **perto**  => aqui    | **presente**     | este, estes, esta, estas         | isto   |
-| **+/- perto** => aí   | **passado próx** | esse, esses, essa, essas         | isso   |
-| **longe** => ali / lá | **passado**      | aquele, aqueles, aquela, aquelas | aquilo |
+| Espaço                | Tempo            | Variáveis                        | Invariáveis |
+| --                    | --               | --                               | --          |
+| **perto**  => aqui    | **presente**     | este, estes, esta, estas         | isto        |
+| **+/- perto** => aí   | **passado próx** | esse, esses, essa, essas         | isso        |
+| **longe** => ali / lá | **passado**      | aquele, aqueles, aquela, aquelas | aquilo      |
 
 * **NOTE QUE...** "isto", "isso" e "aquilo" são usados para indicar coisas e não pessoas
 
@@ -47,22 +47,22 @@
 
 ## Contração de preposições e demonstrativos
 
-| Preposição | MASC | FEM | NEUTRO |
-| -- | -- | -- | -- |
-| **a**  | àquele/s | àquela/s | aquilo |
-| **de** | deste/s  | desta/s  | disto  |
-|        | desse/s  | dessa/s  | disso  |
-|        | daquele/s| daquela/s| daquilo|
-| **em** | neste/s  | nesta/s  | nisto  |
-|        | nesse/s  | nessa/s  | nisso  |
-|        | naquele/s| naquela/s| naquilo|
+| Preposição | MASC      | FEM       | NEUTRO  |
+| --         | --        | --        | --      |
+| **a**      | àquele/s  | àquela/s  | aquilo  |
+| **de**     | deste/s   | desta/s   | disto   |
+|            | desse/s   | dessa/s   | disso   |
+|            | daquele/s | daquela/s | daquilo |
+| **em**     | neste/s   | nesta/s   | nisto   |
+|            | nesse/s   | nessa/s   | nisso   |
+|            | naquele/s | naquela/s | naquilo |
 
 ---
 
-|||||
-| -- | -- | -- | -- |
+|        |          |        |         |
+| --     | --       | --     | --      |
 |        | **aqui** | **aí** | **ali** |
-| **de** | daqui | daí | dali |
+| **de** | daqui    | daí    | dali    |
 
 ## Exemplos contrações
 

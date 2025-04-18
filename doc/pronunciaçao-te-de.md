@@ -1,7 +1,7 @@
 # Pronunciação TE e DE
 
-| | Som | Exemplos |
-| -- | -- | -- |
+|                     | Som  | Exemplos                   |
+| --                  | --   | --                         |
 | **-TE**             | tchi | amante, gigante            |
 | **-DE**             | dyi  | saúde, onde                |
 | **TI**              | tchi | atingir, atirar (disparar) |

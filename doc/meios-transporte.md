@@ -2,29 +2,29 @@
 
 * No Brasil, muitas pessoas costumam **ir de carona** tanto para trabalhar ou estudar, quanto para situações de lazer. Além de econômica e solidária, esta prática, ao reduzir a quantidade de carros e motocicletas no trânsito, ajuda a melhorar qualidade do ar e a evitar acidentes por embriaguez
 
-||
-| -- |
-| a pé |
-| a cavalo |
-| de avião |
-| de barco |
-| de bicicleta |
-| de carro |
-| de caminhão |
-| de caminhonete |
-| de charrete (carruaje) |
-| de metrô |
-| de helicóptero |
-| de moto (cicleta) |
-| de navio: bote, cruzeiro, veleiro, lancha, iate |
-| de ônibus |
-| de táxi |
-| de trator |
-| de trem |
-| de van (furgoneta) |
+  |                                                 |
+  | --                                              |
+  | a pé                                            |
+  | a cavalo                                        |
+  | de avião                                        |
+  | de barco                                        |
+  | de bicicleta                                    |
+  | de carro                                        |
+  | de caminhão                                     |
+  | de caminhonete                                  |
+  | de charrete (carruaje)                          |
+  | de metrô                                        |
+  | de helicóptero                                  |
+  | de moto (cicleta)                               |
+  | de navio: bote, cruzeiro, veleiro, lancha, iate |
+  | de ônibus                                       |
+  | de táxi                                         |
+  | de trator                                       |
+  | de trem                                         |
+  | de van (furgoneta)                              |
 
-||
-| -- |
+|                |
+| --             |
 | engarrafamento |
 | ir             |
 | passagem       |

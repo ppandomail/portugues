@@ -4,19 +4,19 @@
 * Relação de posse
 * O uso do artigo diante dos pronomes possesivos é facultativo
 
-|| Masc singular | Masc plural | Fem singular | Fem plural | flexões |
-| -- | -- | -- | -- | -- | -- |
-| eu    | [o] meu   | [os] meus   | [a] minha | [as] minhas |                          |
-| você  | [o] seu   | [os] seus   | [a] sua   | [as] suas   | de você / dele / dela    |
-| nós   | [o] nosso | [os] nossos | [a] nossa | [as] nossas |                          |
-| vocês | [o] seu   | [os] seus   | [a] sua   | [as] suas   | de vocês / deles / delas |
+| Pron  | Masc singular | Masc plural | Fem singular | Fem plural  | flexões                  |
+| --    | --            | --          | --           | --          | --                       |
+| eu    | [o] meu       | [os] meus   | [a] minha    | [as] minhas |                          |
+| você  | [o] seu       | [os] seus   | [a] sua      | [as] suas   | de você / dele / dela    |
+| nós   | [o] nosso     | [os] nossos | [a] nossa    | [as] nossas |                          |
+| vocês | [o] seu       | [os] seus   | [a] sua      | [as] suas   | de vocês / deles / delas |
 
-| DE + Pronomes | Contrações |
-| -- | -- |
-| de + ele  | dele  |
-| de + ela  | dela  |
-| de + eles | deles |
-| de + elas | delas |
+| DE + Pronome  | Contrações |
+| --            | --         |
+| de + ele      | **dele**   |
+| de + ela      | **dela**   |
+| de + eles     | **deles**  |
+| de + elas     | **delas**  |
 
 * Este carro é do Pedro
 * Este carro é **dele**
@@ -29,6 +29,7 @@
 * Este é **meu** pai
 * **Meu** amigo
 * Quero vender **o meu** carro
+* **O meu** pai viaja muito (eu)
 * **O meus** cachorros
 * **Meus** telefones são muitos pequenos
 * Estes são **meus** amigos
@@ -39,27 +40,35 @@
 * Esta é **minha** mãe
 * **A minha** blusa é amarela
 * **Minha** família mora no Brasil
+* **A minha** família se reúne todos anos para celebrar o natal (eu)
 * **Minhas** sandálias estão sujas
-* **A minhas** garrafas de água estão debaixo da cama
+* **As minhas** garrafas de água estão debaixo da cama
 * Estas são **minhas** amigas
+* Estou com dor em **as minhas** costas (eu)
 
 ## Exemplos "seu" e "seus"
 
 * E **o seu**?
 * Este é **o seu** livro de física
 * **Seu** café está forte e tem muito adoçante
+* Comprei um presente para **o seu** filho (ele). Eu vou visita-lo em breve
+* Qual é **o seu** telefone? (você)
 * Já chegaram **os seus** amigos
 * Tratem bem **os seus** amigos
 * **Seus** olhos são verdes
 * **Seus** oculos são verdes e amarelos como as cores da bandeira do Brasil
 * Estes são **os seus** patins
+* Não fale de **os seus** problemas com estranhos (ele) Eles não precisam saber nada sobre você
+* **Os seus** horários estão acertados para trabalharem juntos? (vocês)
 
 ## Exemplos "sua" e "suas"
 
 * **A sua** caneta, obrigado
 * Esta é **a sua** escola
 * Adorei **sua** mochila
+* O estudante não aceitou **a sua** observação (ele)
 * Estas são **as suas** novas colegas
+* Deixei **as suas** (ele) coisas junto com as minhas
 
 ## Exemplos "dele"
 
@@ -76,6 +85,7 @@
 * Estes são os professores **dela**
 * A casa **dela** é velha
 * A barraca **dela** tem a cerveja bem gelada
+* O curso **dela** é voltado à saúde (ela)
 
 ## Exemplos "nosso"
 
@@ -84,13 +94,17 @@
 * **Os nossos** irmãos uruguaios são simpáticos
 * **Nossos** problemas
 * Estes são **os nossos** filhos
+* **Os nossos** antepassados imigraram para cá (nós)
 
 * Esta é **a nossa** filha
 * **Nossa**! que frio está fazendo agora
 * **Nossas** alianças já estão prontas
 * **Nossa** tarefa é muito difícil
+* **A nossa** família é pequena (nós)
+* **A nossa** casa fica na esquina de duas avenidas (nós)
 * **Nossas** árvores moram debaixo do teto da casa de meu pai
 * Estas são **as nossas** filhas
+* Eu e meu colega de trabalho já terminamos **as nossas** atividades do dia (nós)
 
 ## Exemplos "de vocês"
 
@@ -103,22 +117,5 @@
 
 * Este é o avô **deles**
 * Estes são os avós **deles**
+* O projeto **deles** foi considerado muito bom (eles)
 * As flores **delas** estão no jardim
-
-## Outros exemplos
-
-1. Deixei **as suas** (ele) coisas junto com as minhas
-1. Comprei um presente para **o seu** filho (ele). Eu vou visita-lo em breve
-1. Eu e meu colega de trabalho já terminamos **as nossas** atividades do dia. (nós)
-1. Estou com dor em **as minhas** costas. (eu)
-1. Não fale de **o seus** problemas com estranhos.(ele) Eles não precisam saber nada sobre você
-1. **A Nossa** família é pequena (nós)
-1. **O meu** pai viaja muito. (eu)
-1. **A nossa** casa fica na esquina de duas avenidas. (nós)
-1. O projeto **deles** foi considerado muito bom. (eles)
-1. O estudante não aceitou **a sua** observação. (ele)
-1. O curso **dela** é voltado à saúde. (ela)
-1. **A minha** família se reúne todos anos para celebrar o natal. (eu)
-1. Qual é o **seu** telefone? (você)
-1. **Os nossos** antepassados imigraram para cá. (nós)
-1. **Os seus** horários estão acertados para trabalharem juntos? (vocês)
